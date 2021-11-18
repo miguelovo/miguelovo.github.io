@@ -18,6 +18,7 @@ EPRI citations do not include authors' names.  The full list of investigators av
     EPRI, Palo Alto, CA, Rep. No. 3002021799, Dec. 2021.
     <br />
     [<a href="https://www.epri.com/research/products/000000003002021799">url</a>] 
+    [<a href="https://arxiv.org/abs/2106.00144">arXiv</a>] 
     <br /> 
 </td>
 </tr>
