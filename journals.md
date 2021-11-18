@@ -12,8 +12,8 @@ permalink: /journals/
 <tr>
 <td>
     [09]
-    Y. Dvorkin, H. Pandžić, M. A. Ortega-Vazquez, and D. S. Kirschen, 
-    "A Hybrid Stochastic/Interval Approach to Transmission-Constrained Unit Commitment," 
+    Y. Dvorkin, H. Pandžić, <strong>M. A. Ortega-Vazquez</strong>, and D. S. Kirschen, 
+    "<span style="color:#4582ec">A Hybrid Stochastic/Interval Approach to Transmission-Constrained Unit Commitment</span>," 
     <em>IEEE Trans. Power Systems</em>, Vol. 30, Issue 2, pp. 621-631, Mar. 2015.
     <br />
     [<a href="https://doi.org/10.1109/TPWRS.2014.2331279" target="_blank">DOI</a>]
