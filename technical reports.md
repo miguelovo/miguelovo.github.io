@@ -71,6 +71,7 @@ EPRI citations do not include authors' names.  The full list of investigators av
     EPRI, Palo Alto, CA, Rep. No. 3002018763, Dec. 2020.
     <br />
     [<a href="https://www.epri.com/research/products/000000003002018763">url</a>] 
+    [<a href="https://www.epri.com/research/products/000000003002022654">Video</a>]
     <br /> 
 </td>
 </tr>
@@ -84,6 +85,7 @@ EPRI citations do not include authors' names.  The full list of investigators av
     <br />
     [<a href="https://www.epri.com/research/products/000000003002020160">url</a>] 
     [<a href="https://www.epri.com/research/products/000000003002018761">JHSMINE v1.0</a>] 
+    [<a href="https://www.epri.com/research/products/000000003002022654">Video</a>]
     <br /> 
 </td>
 </tr>
