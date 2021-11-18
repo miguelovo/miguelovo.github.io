@@ -8,7 +8,7 @@ permalink: /journals/
 <table class="table table-hover">
 
     
-<<tr>
+<tr>
 <td>
     [04]
     <strong>M. A. Ortega-Vazquez</strong> and D. S. Kirschen, 
@@ -23,7 +23,7 @@ permalink: /journals/
 </tr>
 
     
-<<tr>
+<tr>
 <td>
     [03]
     <strong>M. A. Ortega-Vazquez</strong> and D. S. Kirschen, 
@@ -37,7 +37,7 @@ permalink: /journals/
 </tr>
     
     
-<<tr>
+<tr>
 <td>
     [02]
     <strong>M. A. Ortega-Vazquez</strong> and D. S. Kirschen, 
@@ -50,7 +50,7 @@ permalink: /journals/
 </tr>
     
     
-<<tr>
+<tr>
 <td>
     [01]
     <strong>M. A. Ortega-Vazquez</strong>, D. S. Kirschen, and D. Pudjianto,
