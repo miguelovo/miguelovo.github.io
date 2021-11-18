@@ -10,6 +10,19 @@ EPRI citations do not include authors' names.  The full list of investigators av
 
 <table class="table table-hover">
 
+<tr>
+<td>
+    [23]
+    "<span style="color:#4582ec">Capacity and Ramps Considerations for Dimensioning of Reserve Requirements</span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002021780, Dec. 2021.
+    <br />
+    [<a href="https://www.epri.com/research/products/000000003002021780">url</a>] 
+    [<a href="https://www.epri.com/research/products/000000003002021778">DynADOR v5.0</a>] 
+    <br /> 
+</td>
+</tr> 
+ 
+
  
 <tr>
 <td>
