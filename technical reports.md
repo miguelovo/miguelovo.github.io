@@ -14,7 +14,7 @@ EPRI citations do not include authors' names.  The full list of investigators av
 <tr>
 <td>
     [21]
-    "<span style="color:#4582ec">Dynamic Reserve Requirements to Accommodate VRES Vagaries - California Independent System Operator (CAISO)," 
+    "<span style="color:#4582ec">Dynamic Reserve Requirements to Accommodate VRES Vagaries - California Independent System Operator (CAISO)</span>," 
      EPRI, Palo Alto, CA, Rep. No. 3002022431, Jun. 2021
     <br />
     [<a href="https://www.epri.com/research/products/000000003002022431">url</a>] 
