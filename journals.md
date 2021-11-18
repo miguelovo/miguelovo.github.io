@@ -11,7 +11,7 @@ permalink: /journals/
 <<tr>
 <td>
     [02]
-    <strong>M. A. Ortega-Vazquez</strong> and D. S. Kirschen, "Optimizing the Spinning Reserve Requirements Using a Cost/Benefit Analysis," <em>IEEE Trans. Power Syst.</em>, Vol. 22, Issue 1, pp. 24-33, Feb. 2007.
+    <strong>M. A. Ortega-Vazquez</strong> and D. S. Kirschen, "<span style="color:#4582ec">Optimizing the Spinning Reserve Requirements Using a Cost/Benefit Analysis</span>," <em>IEEE Trans. Power Syst.</em>, Vol. 22, Issue 1, pp. 24-33, Feb. 2007.
     <br />
     [<a href="https://doi.org/10.1109/TPWRS.2006.888951" target="_blank">DOI</a>]   
     <br /> 
