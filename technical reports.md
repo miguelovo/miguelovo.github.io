@@ -98,6 +98,8 @@ EPRI citations do not include authors' names.  The full list of investigators av
     <br />
     [<a href="https://www.epri.com/research/products/000000003002020160">url</a>] 
     [<a href="https://www.epri.com/research/products/000000003002018761">JHSMINE v1.0</a>] 
+    [<a href="https://www.epri.com/research/products/000000003002021771">JHSMINE v1.1</a>]
+    [<a href="https://www.epri.com/research/products/000000003002021770">JHSMINE v2.0</a>] 
     [<a href="https://www.epri.com/research/products/000000003002022654">Video</a>]
     <br /> 
 </td>
