@@ -8,12 +8,18 @@ EPRI citations do not include names.  The full list of investigators available w
 
 <table class="table table-hover">
 
-<tr style="background-color: #ffffd0">
+<tr>
 <td>
-    [21]
-    <a href="https://www.epri.com/research/products/000000003002022431" target="_blank"> Dynamic Reserve Requirements to Accommodate VRES Vagaries - California Independent System Operator (CAISO)</a>,
-    EPRI, Palo Alto, CA, Rep. No. 3002022431, Jun. 2021.
-    <br />    
+    [01]
+    F. Capitanescu, J. L. Martinez-Ramos, D. Kirschen, L. Wehenkel, <strong>M. A. Ortega-Vazquez</strong>, A. Marano, H. Crisciu, S. Fliscounakis, L. Platbrood, P. Panciatici, Y. Hassaine, 
+    "D3.1 State of the art and modeling requirements for steady-state optimization of the ETN," 
+    <em>PEGASE</em>, 2011.
+    <br />
+    [<a href="http://www.fp7-pegase.com/download.html">url</a>]
+    [<a href="https://drive.google.com/open?id=1Vf9qaPmtnDRg5rkmeB2DDnGrpd3DYAS-" target="_blank">BibTeX</a>] 
+    <br /> 
 </td>
 </tr>
+    
+    
 </table>
