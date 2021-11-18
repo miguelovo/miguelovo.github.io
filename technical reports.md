@@ -4,10 +4,37 @@ title: Technical Reports
 permalink: /technical teports/
 ---
 
-EPRI citations do not include names.  The full list of investigators available within the report.
+EPRI citations do not include authors' names.  The full list of investigators available within the report.
+
+
 
 <table class="table table-hover">
-
+    
+<tr>
+<td>
+    [11]
+    "<span style="color:#4582ec">Variable Resource Mitigation Strategies for the Tennessee Valley Authority</span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002017228 & 3002013727, Sep. 2019.
+    <br />
+    Part 1: "Electric Storage Resources," [<a href="https://www.epri.com/#/pages/product/3002017228/">url</a>].
+    <br />
+    Part 2: "Dynamic Reserve and Flexibility Assessment," [<a href="https://www.epri.com/#/pages/product/3002013726/">DynADOR v2.0</a>]
+    <br /> 
+</td>
+</tr>
+    
+    
+<tr>
+<td>
+    [10]
+    "<span style="color:#4582ec">Feasibility Study for an Energy Storage System Project in Colombia (Celsia)</span>:
+    <br />
+    Task 2: "Regulatory Assessment" [url]
+    <br />
+    Task 8: "Technical, Economic, and Regulatory Viability" [url]
+    <br /> 
+</td>
+</tr>
     
     
 <tr>
