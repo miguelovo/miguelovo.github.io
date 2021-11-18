@@ -10,6 +10,36 @@ permalink: /journals/
 
 <tr>
 <td>
+    [15]
+    <u>R. Fernandez-Blanco</u>, <u>Y. Dvorkin</u>, and <strong>M. A. Ortega-Vazquez</strong>, 
+    "<span style="color:#4582ec">Probabilistic Security-Constrained Unit Commitment with Generation and Transmission Contingencies</span>,"
+    <em>IEEE Trans. Power Syst.</em>, Vol. 32, Issue 1, pp. 228-239, Jan. 2017.
+    <br />
+    [<a href="https://doi.org/10.1109/TPWRS.2016.2550585">DOI</a>]
+    [<a href="https://drive.google.com/open?id=1rqKflDFQO4rkws9AOmLWFVbOPH2zcyIb" target="_blank">BibTeX</a>] 
+    [<a href="https://www.ferc.gov/CalendarFiles/20150623081317-T3-B-%202%20-%20ORTEGA-VAZQUEZ%20-%20Probabilistic%20SCUC.pdf" target="_blank">Slides</a>] 
+    <br /> 
+</td>
+</tr>
+    
+    
+<tr>
+<td>
+    [14]
+    <u>M. R. Sarker</u>, <u>D. J. Olsen</u>, and <strong>M. A. Ortega-Vazquez</strong>, 
+    "<span style="color:#4582ec">Co-optimization of Distribution Transformer Aging and Energy Arbitrage using Electric Vehicles</span>," 
+    <em>IEEE Trans. Smart Grid</em>, Vol. 8, Issue 6, pp. 2712-2722, Nov. 2017.
+    <br />
+    [<a href="https://doi.org/10.1109/TSG.2016.2535354">DOI</a>]
+    [<a href="https://drive.google.com/open?id=1t-HPY4DLg_YZjenDNV44nkT9R7A1s2Mr" target="_blank">BibTeX</a>] 
+    [<a href="https://drive.google.com/open?id=1E40aziwP8IdByo4DGDZkQRIjWykvVYx7" target="_blank">Slides</a>] 
+    <br /> 
+</td>
+</tr>
+    
+    
+<tr>
+<td>
     [13]
     <u>M. R. Sarker</u>, <u>Y. Dvorkin</u>, and <strong>M. A. Ortega-Vazquez</strong>, 
     "<span style="color:#4582ec">Optimal Participation of an Electric Vehicle Aggregator in Day-Ahead Energy and Reserve Markets</span>," 
