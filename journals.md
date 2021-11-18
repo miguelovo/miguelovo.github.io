@@ -12,7 +12,7 @@ permalink: /journals/
 <td>
     [13]
     <u>M. R. Sarker</u>, <u>Y. Dvorkin</u>, and <strong>M. A. Ortega-Vazquez</strong>, 
-    "Optimal Participation of an Electric Vehicle Aggregator in Day-Ahead Energy and Reserve Markets," 
+    "<span style="color:#4582ec">Optimal Participation of an Electric Vehicle Aggregator in Day-Ahead Energy and Reserve Markets</span>," 
     <em>IEEE Trans. Power Syst.</em>, Vol. 31, Issue 5, pp. 3506-3515, Sep. 2016.
     <br />
     [<a href="https://doi.org/10.1109/TPWRS.2015.2496551" target="_blank">DOI</a>]
