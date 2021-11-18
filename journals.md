@@ -7,24 +7,15 @@ permalink: /journals/
 
 <table class="table table-hover">
 
-<tr style="background-color: #ffffd0">
+<<tr>
 <td>
-    [30]
-    <u> S. Bhavsar</u>, R. Pitchumani, <strong>M. A. Ortega-Vazquez</strong>
-    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0306261921004372?via%3Dihub" target="_blank"> Machine Learning Enabled Reduced-Order Scenario Generation for Stochastic Analysis of Solar Power Forecasts</a>
-    <em> Applied Energy</em>, Vol. 293, Issue X, pp. XX, Jul. 2021.
-    <br />    
+    [01)]
+    <strong>M. A. Ortega-Vazquez</strong>, D. S. Kirschen, and D. Pudjianto, "Optimising the Scheduling of Spinning Reserve Considering the Cost of Interruptions," <em>IEE Proc. Gen., Trans. & Dist.</em>, Vol. 153, Issue 5, pp. 570-575, Sep. 2006.
+    <br />
+    [<a href="https://doi.org/10.1049/ip-gtd:20050396" target="_blank">DOI</a>]   
+    <br /> 
 </td>
 </tr>
-</table>
 
-<tr>
-<td>
-    [30]
-    <u> S. Bhavsar</u>, R. Pitchumani, <strong>M. A. Ortega-Vazquez</strong>
-    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0306261921004372?via%3Dihub" target="_blank"> Machine Learning Enabled Reduced-Order Scenario Generation for Stochastic Analysis of Solar Power Forecasts</a>
-    <em> Applied Energy</em>, Vol. 293, Issue X, pp. XX, Jul. 2021.
-    <br />    
-</td>
-</tr>
+
 </table>
