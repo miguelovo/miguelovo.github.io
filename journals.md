@@ -8,6 +8,21 @@ permalink: /journals/
 
 <table class="table table-hover">
 
+    
+<tr>
+<td>
+    [12]
+    <u>Y. Dvorkin<\u>, <strong>M. A. Ortega-Vazquez<\strong>, and D. S. Kirschen, 
+    "Wind Generation as a Reserve Provider," 
+    <em>IET Gen., Trans. & Dist.</em>, Vol. 9, Issue 8, pp. 779-787, 2015.
+    <br />
+    [<a href="http://digital-library.theiet.org/content/journals/10.1049/iet-gtd.2015.0302">Erratum</a>]
+    [<a href="https://doi.org/10.1049/iet-gtd.2014.0614" target="_blank">DOI</a>]
+    [<a href="https://drive.google.com/open?id=1ofsyeS-cVWI7phA_XTf5C3G7gl13YMeW" target="_blank">BibTeX</a>] 
+    <br /> 
+</td>
+</tr>
+    
 
 <tr>
 <td>
