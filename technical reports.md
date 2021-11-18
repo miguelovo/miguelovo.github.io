@@ -12,7 +12,7 @@ EPRI citations do not include names.  The full list of investigators available w
 <tr>
 <td>
     [07]
-    "<span style="color:#4582ec">An Enhanced Dynamic Reserve Method for Balancing Areas: A Dynamic Reserve Method for Balancing Areas with High Levels of Variability and Uncertainty on Their System and Case Studies Showing the Performance of These Methods<span>," 
+    "<span style="color:#4582ec">An Enhanced Dynamic Reserve Method for Balancing Areas: A Dynamic Reserve Method for Balancing Areas with High Levels of Variability and Uncertainty on Their System and Case Studies Showing the Performance of These Methods</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002010941, Dec. 2017.
     <br />
     [<a href="http://www.epri.com/abstracts/Pages/ProductAbstract.aspx?ProductId=000000003002010941">url</a>]
