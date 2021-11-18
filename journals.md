@@ -7,7 +7,21 @@ permalink: /journals/
 
 <table class="table table-hover">
 
-
+<tr>
+<td>
+    [06]
+    <strong>M. A. Ortega-Vazquez</strong>, F. Bouffard, and V. Silva, 
+    "<span style="color:#4582ec">Electric Vehicle Aggregator/System Operator Coordination for Charging Scheduling and Services Procurement</span>," 
+    <em>IEEE Trans. Power Syst.</em>, Vol. 28, Issue 2, pp. 1806-1815, May 2013.
+    <br />
+    [<a href="https://doi.org/10.1109/TPWRS.2012.2221750" target="_blank">DOI</a>]
+    [<a href="https://drive.google.com/open?id=1M5HYOBsV-S34gr37nPWkNNxiJUYoJWiO" target="_blank">BibTeX</a>] 
+    [<a href="https://class.ee.washington.edu/500/2012aut-e/09-27-12%20Pres.pdf" target="_blank">Slides</a>] 
+    <br /> 
+</td>
+</tr>
+    
+    
 <tr>
 <td>
     [05]
