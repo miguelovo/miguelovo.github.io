@@ -26,7 +26,7 @@ EPRI citations do not include authors' names.  The full list of investigators av
 <tr>
 <td>
     [20]
-    Program on Technology Innovation: "<span style="color:#4582ec">Contingency Reserve Dimensioning: Status and Required Attributes," 
+    Program on Technology Innovation: "<span style="color:#4582ec">Contingency Reserve Dimensioning: Status and Required Attributes</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002018762, Mar. 2021.
     <br />
     [<a href="https://www.epri.com/research/products/000000003002018762">url</a>] 
