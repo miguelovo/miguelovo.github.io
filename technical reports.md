@@ -13,6 +13,18 @@ EPRI citations do not include authors' names.  The full list of investigators av
  
 <tr>
 <td>
+    [22]
+    Program on Technology Innovation: "<span style="color:#4582ec">Dynamic Determination of Contingency Reserves: A Risk-Aware Approach</span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002021799, Dec. 2021.
+    <br />
+    [<a href="https://www.epri.com/research/products/000000003002021799">url</a>] 
+    <br /> 
+</td>
+</tr>
+ 
+ 
+<tr>
+<td>
     [21]
     "<span style="color:#4582ec">Dynamic Reserve Requirements to Accommodate VRES Vagaries - California Independent System Operator (CAISO)</span>," 
      EPRI, Palo Alto, CA, Rep. No. 3002022431, Jun. 2021
