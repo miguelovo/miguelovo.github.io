@@ -9,14 +9,53 @@ EPRI citations do not include authors' names.  The full list of investigators av
 
 
 <table class="table table-hover">
+    
+<tr>
+<td>
+    [15]
+    Program on Technology Innovation: "<span style="color:#4582ec">Integrating Energy Analytics and Grid Reliability Tools—Linking Tools Across Time and the Electricity Supply Chain</span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002017376, Feb. 2020.
+    <br />
+    [<a href="http://www.epri.com/abstracts/Pages/ProductAbstract.aspx?ProductId=000000003002017376">url</a>] 
+    <br /> 
+</td>
+</tr>
+    
 
+<tr>
+<td>
+    [14]
+    Program on Technology Innovation: "<span style="color:#4582ec">Coordinated Expansion Planning: Status and Research Challenges</span>,"
+    EPRI, Palo Alto, CA, Rep. No. 3002016661. Dec. 2019.
+    <br />
+    [<a href="https://www.epri.com/#/pages/product/000000003002016661/?lang=en-US">url</a>] 
+    <br /> 
+</td>
+</tr>
+    
+    
+    
+<tr>
+<td>
+    [13]
+    "<span style="color:#4582ec">Probabilistic Dynamic Reserve Determination and Risk Assessment</span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002016312. Dec. 2019.
+    <br />
+    [<a href="https://www.epri.com/#/pages/product/000000003002016312/?lang=en-US">url</a>]
+    [<a href="https://www.epri.com/#/pages/product/000000003002016311/?lang=en-US">DynADOR v3.0</a>]
+    [<a href="https://epri.box.com/s/xk7niq4vgptpp3kmq6dvdxrcg3h2owfn">Video</a>]    
+    <br /> 
+</td>
+</tr>
+    
+    
 <tr>
 <td>
     [12]
     "<span style="color:#4582ec">Value of Modeling Constraints in Generation Scheduling - Towards Computationally Efficient Scheduling Proxies for Planning or Other Applications</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002016693. Jan. 2019.
     <br />
-    [<a href="https://www.epri.com/#/pages/product/000000003002016693/?lang=en-US">url</a>].
+    [<a href="https://www.epri.com/#/pages/product/000000003002016693/?lang=en-US">url</a>]
     [<a href="https://www.ferc.gov/CalendarFiles/20190626080516-2%20-%20Ortega-Vazquez_VoMCUC.PDF">Slides</a>]
     <br /> 
 </td>
