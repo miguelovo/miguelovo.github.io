@@ -13,7 +13,7 @@ permalink: /journals/
     [05]
     <strong>M. A. Ortega-Vazquez</strong> and D. S. Kirschen, 
     "<span style="color:#4582ec">Assessing the Impact of Wind Power Generation on Operating Costs</span>," 
-    <em>IEEE Trans. Smart Grid<\em>, Vol. 1, Issue 3, pp. 295-301, Dec. 2010.
+    <em>IEEE Trans. Smart Grid</em>, Vol. 1, Issue 3, pp. 295-301, Dec. 2010.
     <br />
     [<a href="https://doi.org/10.1109/TSG.2010.2081386" target="_blank">DOI</a>]
     [<a href="https://drive.google.com/open?id=1vVtSPnczHQToOFaDXzlgqQX0XXJn5u0-" target="_blank">BibTeX</a>] 
