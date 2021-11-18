@@ -8,6 +8,20 @@ permalink: /journals/
 
 <table class="table table-hover">
 
+
+<tr>
+<td>
+    [11]
+    <u>M. R. Sarker</u>, <strong>M. A. Ortega-Vazquez</strong>, and D. S. Kirschen, 
+    "<span style="color:#4582ec">Optimal Coordination and Scheduling of Demand Response via Monetary Incentives</span>," 
+    <em>IEEE Trans. Smart Grid</em>, Vol. 6, Issue 3, pp. 1341-1352, May 2015.
+    <br />
+    [<a href="https://doi.org/10.1109/TSG.2014.2375067" target="_blank">DOI</a>]
+    [<a href="https://drive.google.com/open?id=1ocLhKn0fMtCfDdu5KWSaMGr627osYHZj" target="_blank">BibTeX</a>] 
+    <br /> 
+</td>
+</tr>
+    
     
 <tr>
 <td>
