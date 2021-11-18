@@ -11,8 +11,23 @@ permalink: /journals/
     
 <tr>
 <td>
+    [10]
+    <u>M. R. Sarker</u>, H. Pandžić, and <strong>M. A. Ortega-Vazquez</strong>, 
+    "<span style="color:#4582ec">Optimal Operation and Services Scheduling for an Electric Vehicle Battery Swapping Station</span>," 
+    <em>IEEE Trans. Power Systems</em>, Vol. 30, Issue 2, pp. 901-910, Mar. 2015.
+    <br />
+    [<a href="https://doi.org/10.1109/TPWRS.2014.2331560" target="_blank">DOI</a>]
+    [<a href="https://drive.google.com/open?id=1epXBbJ8J3FZAxBmT1B5UbfwbkKk4n0W3" target="_blank">BibTeX</a>] 
+    [<a href="https://drive.google.com/open?id=1R9TGKc0wD3gCIg9sIANcPv86FsZ9dqft" target="_blank">Slides</a>] 
+    <br /> 
+</td>
+</tr>
+    
+    
+<tr>
+<td>
     [09]
-    Y. Dvorkin, H. Pandžić, <strong>M. A. Ortega-Vazquez</strong>, and D. S. Kirschen, 
+    <u>Y. Dvorkin</u>, H. Pandžić, <strong>M. A. Ortega-Vazquez</strong>, and D. S. Kirschen, 
     "<span style="color:#4582ec">A Hybrid Stochastic/Interval Approach to Transmission-Constrained Unit Commitment</span>," 
     <em>IEEE Trans. Power Systems</em>, Vol. 30, Issue 2, pp. 621-631, Mar. 2015.
     <br />
