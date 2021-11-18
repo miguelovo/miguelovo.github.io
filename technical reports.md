@@ -9,6 +9,19 @@ EPRI citations do not include authors' names.  The full list of investigators av
 
 
 <table class="table table-hover">
+
+<tr>
+<td>
+    [12]
+    "<span style="color:#4582ec">Value of Modeling Constraints in Generation Scheduling - Towards Computationally Efficient Scheduling Proxies for Planning or Other Applications</span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002016693. Jan. 2019.
+    <br />
+    [<a href="https://www.epri.com/#/pages/product/000000003002016693/?lang=en-US">url</a>].
+    [<a href="https://www.ferc.gov/CalendarFiles/20190626080516-2%20-%20Ortega-Vazquez_VoMCUC.PDF">Slides</a>]
+    <br /> 
+</td>
+</tr>
+    
     
 <tr>
 <td>
@@ -18,7 +31,7 @@ EPRI citations do not include authors' names.  The full list of investigators av
     <br />
     Part 1: "Electric Storage Resources," [<a href="https://www.epri.com/#/pages/product/3002017228/">url</a>].
     <br />
-    Part 2: "Dynamic Reserve and Flexibility Assessment," [<a href="https://www.epri.com/#/pages/product/3002013726/">DynADOR v2.0</a>]
+    Part 2: "Dynamic Reserve and Flexibility Assessment," [<a href="https://www.epri.com/#/pages/product/3002013726/">url</a>]
     <br /> 
 </td>
 </tr>
