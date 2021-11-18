@@ -9,6 +9,32 @@ EPRI citations do not include authors' names.  The full list of investigators av
 
 
 <table class="table table-hover">
+ 
+    
+<tr>
+<td>
+    [17]
+    Program on Technology Innovation: "<span style="color:#4582ec">Coordinated Expansion Planning with Increased Temporal Resolution: Embedding Production Simulation Models</span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002018763, Dec. 2020.
+    <br />
+    [<a href="https://www.epri.com/research/products/000000003002018763">url</a>] 
+    <br /> 
+</td>
+</tr>
+    
+    
+<tr>
+<td>
+    [16]
+    Program on Technology Innovation: "<span style="color:#4582ec">Coordinated Expansion Planning with Increased Temporal Resolution: Decomposition Solutions</span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002020160, Dec. 2020.
+    <br />
+    [<a href="https://www.epri.com/research/products/000000003002020160">url</a>] 
+    [<a href="https://www.epri.com/research/products/000000003002018761">JHSMINE v1.0</a>] 
+    <br /> 
+</td>
+</tr>
+    
     
 <tr>
 <td>
