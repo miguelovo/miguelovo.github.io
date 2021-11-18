@@ -9,6 +9,43 @@ EPRI citations do not include authors' names.  The full list of investigators av
 
 
 <table class="table table-hover">
+
+ 
+<tr>
+<td>
+    [21]
+    "<span style="color:#4582ec">Dynamic Reserve Requirements to Accommodate VRES Vagaries - California Independent System Operator (CAISO)," 
+     EPRI, Palo Alto, CA, Rep. No. 3002022431, Jun. 2021
+    <br />
+    [<a href="https://www.epri.com/research/products/000000003002022431">url</a>] 
+    <br /> 
+</td>
+</tr>
+ 
+ 
+<tr>
+<td>
+    [20]
+    Program on Technology Innovation: "<span style="color:#4582ec">Contingency Reserve Dimensioning: Status and Required Attributes," 
+    EPRI, Palo Alto, CA, Rep. No. 3002018762, Mar. 2021.
+    <br />
+    [<a href="https://www.epri.com/research/products/000000003002018762">url</a>] 
+    <br /> 
+</td>
+</tr>
+ 
+ 
+<tr>
+<td>
+    [19]
+    Program on Technology Innovation: "<span style="color:#4582ec">Integrated Transmission and Distribution Planning of Non-Wires Alternatives: Perspectives on Coordination and Analytics</span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002019507, Mar. 2021.
+    <br />
+    [<a href="https://www.epri.com/research/products/000000003002019507">url</a>] 
+    <br /> 
+</td>
+</tr>
+ 
  
 <tr>
 <td>
