@@ -7,6 +7,19 @@ permalink: /journals/
 
 <table class="table table-hover">
 
+<tr>
+<td>
+    [08]
+    <u>Y. Dvorkin</u>, D. S. Kirschen, and <strong>M. A. Ortega-Vazquez</strong>, 
+    "<span style="color:#4582ec">Assessing the Flexibility Requirements in Power Systems</span>," 
+    <em>IET Gen., Trans. & Dist.</em>, Vol. 8, Issue 11, pp 1820-1830, Nov. 2014.
+    <br />
+    [<a href="https://doi.org/10.1049/iet-gtd.2013.0720" target="_blank">DOI</a>]
+    [<a href="https://drive.google.com/open?id=1suRQZRLlp67jJ5sPCRmr-v51JSycyN07" target="_blank">BibTeX</a>] 
+    <br /> 
+</td>
+</tr>
+    
     
 <tr>
 <td>
