@@ -10,6 +10,22 @@ EPRI citations do not include authors' names.  The full list of investigators av
 
 <table class="table table-hover">
  
+<tr>
+<td>
+    [18]
+    "<span style="color:#4582ec">Risk-Based Dynamic Reserve Procurement</span>,"
+ EPRI, Palo Alto, CA, Rep. No. 3002018758, Dec. 2020.
+    <br />
+    [<a href="https://www.epri.com/research/products/000000003002018758">url</a>] 
+    [<a href="https://www.epri.com/research/products/000000003002020169">Risk Video</a>] 
+    [<a href="https://www.epri.com/research/products/000000003002018760">DynADOR v4.0</a>] 
+    [<a href="https://www.epri.com/research/products/000000003002020419">DynADOR v4.1</a>] 
+    [<a href="https://www.epri.com/research/products/000000003002020168">DynADOR Video</a>] 
+    <br /> 
+</td>
+</tr>
+ 
+ 
     
 <tr>
 <td>
