@@ -12,7 +12,7 @@ EPRI citations do not include names.  The full list of investigators available w
 <td>
     [01]
     F. Capitanescu, J. L. Martinez-Ramos, D. Kirschen, L. Wehenkel, <strong>M. A. Ortega-Vazquez</strong>, A. Marano, H. Crisciu, S. Fliscounakis, L. Platbrood, P. Panciatici, Y. Hassaine, 
-    "D3.1 State of the art and modeling requirements for steady-state optimization of the ETN," 
+    "<span style="color:#4582ec">D3.1 State of the art and modeling requirements for steady-state optimization of the ETN</span>," 
     <em>PEGASE</em>, 2011.
     <br />
     [<a href="http://www.fp7-pegase.com/download.html">url</a>]
