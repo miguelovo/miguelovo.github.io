@@ -7,6 +7,22 @@ permalink: /journals/
 
 <table class="table table-hover">
 
+    
+<tr>
+<td>
+    [07]
+    <strong>M. A. Ortega-Vazquez</strong>
+    "<span style="color:#4582ec">Optimal Scheduling of Electric Vehicle Charging and Vehicle-to-Grid Services at Household Level Including Battery Degradation and Price Uncertainty</span>," 
+    <em>IET Gen., Trans. & Dist.<\em>, Vol. 8, Issue 6, pp. 1007-1016, Jun. 2014.
+    <br />
+    [<a href="https://doi.org/10.1049/iet-gtd.2013.0624" target="_blank">DOI</a>]
+    [<a href="https://drive.google.com/open?id=1Eg--qdXWnb5d0gcn_n_CtTikofby30QG" target="_blank">BibTeX</a>] 
+    [<a href="https://drive.google.com/open?id=1wWfmYbcn36wnRFxpqD8u7o79lJFBkbtc" target="_blank">Slides</a>] 
+    <br /> 
+</td>
+</tr>
+    
+    
 <tr>
 <td>
     [06]
