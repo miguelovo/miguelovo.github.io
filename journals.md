@@ -4,6 +4,7 @@ title: Journals
 permalink: /journals/
 ---
 
+<u>Underlining</u> indicates that the co-author is/was a student and italics that the co-author is/was a postdoc. 
 
 <table class="table table-hover">
 
