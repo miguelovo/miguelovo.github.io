@@ -9,6 +9,33 @@ EPRI citations do not include names.  The full list of investigators available w
 <table class="table table-hover">
 
     
+    
+<tr>
+<td>
+    [09]
+    "<span style="color:#4582ec">Advanced Methods for Dynamic Reserve Requirement Forecasting</span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002013677, Dec. 2018.
+    <br />
+    [<a href="http://www.epri.com/abstracts/Pages/ProductAbstract.aspx?ProductId=000000003002013677">url</a>]
+    [<a href="https://www.epri.com/#/pages/product/000000003002013678/?lang=en-US">DynADOR v2.0</a>]
+    [<a href="https://www.epri.com/#/pages/product/000000003002016310/?lang=en-US">DynADOR v2.1</a>]
+    <br /> 
+</td>
+</tr>
+    
+    
+<tr>
+<td>
+    [08]
+    "<span style="color:#4582ec">Reserve and Flexibility Products to Facilitate the Integration of Variable Energy Resources: A Survey of Recent U.S. and International Experiences</span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002013679, Dec. 2018.
+    <br />
+    [<a href="http://www.epri.com/abstracts/Pages/ProductAbstract.aspx?ProductId=000000003002013679">url</a>]
+    <br /> 
+</td>
+</tr>
+    
+    
 <tr>
 <td>
     [07]
