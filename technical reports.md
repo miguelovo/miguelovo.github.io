@@ -8,6 +8,34 @@ EPRI citations do not include names.  The full list of investigators available w
 
 <table class="table table-hover">
 
+    
+<tr>
+<td>
+    [07]
+    "<span style="color:#4582ec">An Enhanced Dynamic Reserve Method for Balancing Areas: A Dynamic Reserve Method for Balancing Areas with High Levels of Variability and Uncertainty on Their System and Case Studies Showing the Performance of These Methods<span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002010941, Dec. 2017.
+    <br />
+    [<a href="http://www.epri.com/abstracts/Pages/ProductAbstract.aspx?ProductId=000000003002010941">url</a>]
+    [<a href="https://drive.google.com/open?id=1Qb59__LJMbnavGXB_CSdJGdhMwpzUNoQ">BibTeX</a>]
+    [<a href="https://www.epri.com/#/pages/product/000000003002010942/?lang=en-US">DynADOR v1.0</a>]
+    <br /> 
+</td>
+</tr>
+    
+    
+<tr>
+<td>
+    [06]
+    "<span style="color:#4582ec">Grid Integration with High PV Penetration - Smart Inverter and DERMS Suitable for Japan</span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002012155, Nov. 2017.
+    <br />
+    [<a href="http://www.epri.com/abstracts/Pages/ProductAbstract.aspx?ProductId=000000003002012155">url</a>]
+    [<a href="https://drive.google.com/open?id=1Qb59__LJMbnavGXB_CSdJGdhMwpzUNoQ">BibTeX</a>]
+    <br /> 
+</td>
+</tr>
+    
+    
 <tr>
 <td>
     [05]
@@ -40,7 +68,7 @@ EPRI citations do not include names.  The full list of investigators available w
     [03]
     E. Szczechowicz, <strong>M. A. Ortega-Vazquez</strong>, R. Marquez, UPV, Bergman, F. Pettersson, V. Neimane, C. Kieny, L. Glorieux, V. Silva, P. Scuro, N. Vidal and T. Wiedermman 
     "<span style="color:#4582ec">D6.1 Impacts of EVs on Power Systems and Minimal Control Solutions to Mitigate These</span>," 
-    <em>Grid-4-Vehicles</em>, 2011/
+    <em>Grid-4-Vehicles</em>, 2011.
     <br />
     [<a href="http://www.g4v.eu/downloads.html">url</a>]
     [<a href="https://drive.google.com/open?id=1P5aF9GKU_OawNArM6iuMZqmIHHtUauH8" target="_blank">BibTeX</a>] 
