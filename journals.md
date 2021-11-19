@@ -12,7 +12,7 @@ permalink: /journals/
 <tr>
 <td>
     [30]
-     S. Bhavsar, R. Pitchumani, M. A. Ortega-Vazquez, 
+     S. Bhavsar, R. Pitchumani, <strong>M. A. Ortega-Vazquez</strong>, 
     "Machine Learning Enabled Reduced-Order Scenario Generation for Stochastic Analysis of Solar Power Forecasts," 
     Applied Energy, Vol. 293, Issue X, pp. XX, Jul. 2021.
     <br />
@@ -25,7 +25,7 @@ permalink: /journals/
 <tr>
 <td>
     [29]
-     P. Maloney, P. Chitkara, J. D. McCalley, B. F. Hobbs, C. T. M. Clack, M. A. Ortega-Vazquez, A. Tuohy, A. Gaikwad, J. Roark, 
+     P. Maloney, P. Chitkara, J. D. McCalley, B. F. Hobbs, C. T. M. Clack, <strong>M. A. Ortega-Vazquez</strong>, A. Tuohy, A. Gaikwad, J. Roark, 
     "Research to Develop The Next Generation of Electric Power Capacity Expansion Tools: What Would Address the Needs of Planners?," 
     Int. Journal of Electrical Power & Energy Syst., Vol. 121, Oct. 2020.
     <br />
@@ -38,7 +38,7 @@ permalink: /journals/
 <tr>
 <td>
     [28]
-     D. J. Olsen, N. Zhang, C. Kang, M. A. Ortega-Vazquez, and D. S. Kirschen, 
+     D. J. Olsen, N. Zhang, C. Kang, <strong>M. A. Ortega-Vazquez</strong>, and D. S. Kirschen, 
     "Planning Low-Carbon Energy Hubs," 
     IEEE Trans. Power Syst., Vol. 34, Issue 3, pp. 1895-1907, May 2019.
     <br />
@@ -53,7 +53,7 @@ permalink: /journals/
 <tr>
 <td>
     [27]
-     V. Guerrero-Mestre, Y. Dvorkin, R. Fernandez-Blanco, M. A. Ortega-Vazquez, and J. Contreras, 
+     V. Guerrero-Mestre, Y. Dvorkin, R. Fernandez-Blanco, <strong>M. A. Ortega-Vazquez</strong>, and J. Contreras, 
     "Incorporating Energy Storage into Probabilistic Security-Constrained Unit Commitment," 
     IET Gen., Trans. & Dist., Vol. 12, Issue 18, pp. 4206-4215, Oct. 2018.
     <br />
@@ -68,7 +68,7 @@ permalink: /journals/
 <tr>
 <td>
     [27]
-     V. Guerrero-Mestre, Y. Dvorkin, R. Fernandez-Blanco, M. A. Ortega-Vazquez, and J. Contreras, 
+     V. Guerrero-Mestre, Y. Dvorkin, R. Fernandez-Blanco, <strong>M. A. Ortega-Vazquez</strong>, and J. Contreras, 
     "Incorporating Energy Storage into Probabilistic Security-Constrained Unit Commitment," 
     IET Gen., Trans. & Dist., Vol. 12, Issue 18, pp. 4206-4215, Oct. 2018.
     <br />
@@ -84,7 +84,7 @@ permalink: /journals/
 <tr>
 <td>
     [26]
-     M. Chuma-Cerbantes, R. Fernandez-Blanco, M. A. Ortega-Vazquez, and J. R. Sanches-Mantovani, 
+     M. Chuma-Cerbantes, R. Fernandez-Blanco, <strong>M. A. Ortega-Vazquez</strong>, and J. R. Sanches-Mantovani, 
     "Incorporating a Nodal Reactive Power Pricing Scheme into the DisCo's Short-Term Operation," 
     IEEE Trans. Smart Grid, Vol. 10, Issue 4, pp. 3720-3731, Jul. 2019.
     <br />
@@ -101,7 +101,7 @@ permalink: /journals/
 <tr>
 <td>
     [25]
-     D. J. Olsen, Y. Dvorkin, R. Fernandez-Blanco, and M. A. Ortega-Vazquez, 
+     D. J. Olsen, Y. Dvorkin, R. Fernandez-Blanco, and <strong>M. A. Ortega-Vazquez</strong>, 
     "Optimal Carbon Taxes for Emissions Targets in the Electricity Sector," 
     IEEE Trans. Power Syst., Vol. 33, Issue 6, pp. 5892-5901, Nov. 2018.
     <br />
@@ -116,7 +116,7 @@ permalink: /journals/
 <tr>
 <td>
     [24]
-    M. Chuma-Cerbantes, R. Fernandez-Blanco, M. A. Ortega-Vazquez, and J. R. Sanches-Mantovani, 
+    M. Chuma-Cerbantes, R. Fernandez-Blanco, <strong>M. A. Ortega-Vazquez</strong>, and J. R. Sanches-Mantovani, 
     "Short-Term Operation of a Distribution Company: A Pseudo-Dynamic Tabu Search-Based Optimisation," 
     IET Gen., Trans. & Dist., Vol. 12, Issue 12, pp. 2995-3004, Jul. 2018.
     <br />
@@ -130,7 +130,7 @@ permalink: /journals/
 <tr>
 <td>
     [23]
-    X. Kuang, Y. Dvorkin, A. J. Lamadrid L., M. A. Ortega-Vazquez, and L. F. Zuluaga, 
+    X. Kuang, Y. Dvorkin, A. J. Lamadrid L., <strong>M. A. Ortega-Vazquez</strong>, and L. F. Zuluaga, 
     "Pricing Chance Constraints in Electricity Markets," 
     IEEE Trans. Power Syst., Vol. 33, Issue 4, pp. 4634-4636, Jul. 2018.
     <br />
@@ -144,7 +144,7 @@ permalink: /journals/
 <tr>
 <td>
     [22]
-     J. E. Contreras-Ocaña, M. A. Ortega-Vazquez, D. S. Kirschen, and B. Zhang, 
+     J. E. Contreras-Ocaña, <strong>M. A. Ortega-Vazquez</strong>, D. S. Kirschen, and B. Zhang, 
         "Tractable and Robust Modeling of Building Flexibility Using Coarse Data," 
         IEEE Trans. Power Syst., Vol. 33, Issue 5, pp. 5456-5458, Sep. 2018.
     <br />
@@ -159,7 +159,7 @@ permalink: /journals/
 <tr>
 <td>
     [21]
-    M. R. Sarker, H. Pandžić, K. Sun, and M. A. Ortega-Vazquez, 
+    M. R. Sarker, H. Pandžić, K. Sun, and <strong>M. A. Ortega-Vazquez</strong>, 
         "Optimal Operation of Aggregated Electric Vehicle Charging Stations Coupled with Energy Storage," 
         IET Gen., Trans. & Dist., Vol. 12, Issue 5, pp. 1127-1136, Mar. 2018.
     <br />
