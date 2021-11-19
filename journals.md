@@ -4,10 +4,53 @@ title: Journals
 permalink: /journals/
 ---
 
-<u>Underlining</u> indicates that the co-author is/was a student and italics that the co-author is/was a postdoc. 
+<u>Underlining</u> indicates that the co-author is/was a student and <em>italics</em> that the co-author is/was a postdoc. 
 
 <table class="table table-hover">
 
+    
+<tr>
+<td>
+    [18]
+    <u>M. A. Bucher</u>, <strong>M. A. Ortega-Vazquez</strong>, D. S. Kirschen, G. Andersson, 
+    "<span style="color:#4582ec">Robust Allocation of Reserves Considering Different Reserve Types and the Flexibility from HVDC</span>," 
+    <em>IET Gen., Trans. & Dist.</em>, Vol. 11, Issue 6, pp. 1472-1478, May 2017.
+    <br />
+    [<a href="https://doi.org/10.1049/iet-gtd.2016.1014">DOI</a>]
+    [<a href="https://drive.google.com/open?id=1o5OLhU9l6Jq_7PxheRZVy3oIQ8AZZjbP" target="_blank">BibTeX</a>] 
+    <br /> 
+</td>
+</tr>
+    
+    
+<tr>
+<td>
+    [17]
+    <u>D. J. Olsen</u>, <u>M. R. Sarker</u>, and <strong>M. A. Ortega-Vazquez</strong>, 
+    "<span style="color:#4582ec">Optimal Penetration of Home Energy Management Systems in Distribution Networks Considering Transformer Aging,</span>" 
+    <em>IEEE Trans. Smart Grid</em>, Vol. 9, Issue 4, pp. 3330-3340, Jul. 2018.
+    <br />
+    [<a href="https://doi.org/10.1109/TSG.2016.2614768">DOI</a>]
+    [<a href="https://drive.google.com/open?id=1qwz0gnKiANFVmPji5DZXILKfNYR9cTKO" target="_blank">BibTeX</a>] 
+    <br /> 
+</td>
+</tr>
+    
+    
+<tr>
+<td>
+    [16]
+    <u>J. E. Contreras-Ocaña</u>, <u>M. R. Sarker</u>, and <strong>M. A. Ortega-Vazquez</strong>, 
+    "<span style="color:#4582ec">Decentralized Coordination of a Building Manager and an Electric Vehicle Aggregator</span>," 
+    <em>IEEE Trans. Smart Grid</em>, Vol. 9, Issue 4, pp. 2625-2637, Jul. 2018.
+    <br />
+    [<a href="https://doi.org/10.1109/TSG.2016.2614768">DOI</a>]
+    [<a href="https://drive.google.com/open?id=1qwz0gnKiANFVmPji5DZXILKfNYR9cTKO" target="_blank">BibTeX</a>] 
+    <br /> 
+</td>
+</tr>
+    
+    
 <tr>
 <td>
     [15]
@@ -85,7 +128,7 @@ permalink: /journals/
 <tr>
 <td>
     [10]
-    <u>M. R. Sarker</u>, H. Pandžić, and <strong>M. A. Ortega-Vazquez</strong>, 
+    <u>M. R. Sarker</u>, <em>H. Pandžić</em>, and <strong>M. A. Ortega-Vazquez</strong>, 
     "<span style="color:#4582ec">Optimal Operation and Services Scheduling for an Electric Vehicle Battery Swapping Station</span>," 
     <em>IEEE Trans. Power Systems</em>, Vol. 30, Issue 2, pp. 901-910, Mar. 2015.
     <br />
@@ -100,7 +143,7 @@ permalink: /journals/
 <tr>
 <td>
     [09]
-    <u>Y. Dvorkin</u>, H. Pandžić, <strong>M. A. Ortega-Vazquez</strong>, and D. S. Kirschen, 
+    <u>Y. Dvorkin</u>, <em>H. Pandžić</em>, <strong>M. A. Ortega-Vazquez</strong>, and D. S. Kirschen, 
     "<span style="color:#4582ec">A Hybrid Stochastic/Interval Approach to Transmission-Constrained Unit Commitment</span>," 
     <em>IEEE Trans. Power Systems</em>, Vol. 30, Issue 2, pp. 621-631, Mar. 2015.
     <br />
@@ -216,7 +259,7 @@ permalink: /journals/
 <tr>
 <td>
     [01]
-    <strong>M. A. Ortega-Vazquez</strong>, D. S. Kirschen, and D. Pudjianto,
+    <strong>M. A. Ortega-Vazquez</strong>, D. S. Kirschen, and <em>D. Pudjianto</em>,
     "<span style="color:#4582ec">Optimising the Scheduling of Spinning Reserve Considering the Cost of Interruptions</span>,"
     <em>IEE Proc. Gen., Trans. & Dist.</em>, Vol. 153, Issue 5, pp. 570-575, Sep. 2006.
     <br />
