@@ -8,6 +8,63 @@ permalink: /journals/
 
 <table class="table table-hover">
 
+    
+<tr>
+<td>
+    [30]
+     S. Bhavsar, R. Pitchumani, M. A. Ortega-Vazquez, 
+    "Machine Learning Enabled Reduced-Order Scenario Generation for Stochastic Analysis of Solar Power Forecasts," 
+    Applied Energy, Vol. 293, Issue X, pp. XX, Jul. 2021.
+    <br />
+    [<a href="https://doi.org/10.1016/j.apenergy.2021.116964">DOI</a>]
+    <br /> 
+</td>
+</tr>
+    
+    
+<tr>
+<td>
+    [29]
+     P. Maloney, P. Chitkara, J. D. McCalley, B. F. Hobbs, C. T. M. Clack, M. A. Ortega-Vazquez, A. Tuohy, A. Gaikwad, J. Roark, 
+    "Research to Develop The Next Generation of Electric Power Capacity Expansion Tools: What Would Address the Needs of Planners?," 
+    Int. Journal of Electrical Power & Energy Syst., Vol. 121, Oct. 2020.
+    <br />
+    [<a href="https://doi.org/10.1016/j.ijepes.2020.106089">DOI</a>]
+    [<a href="https://drive.google.com/file/d/11SAnCP6oRgKc1nPJ7i6SCMl8XzRmSRzA/view?usp=sharing" target="_blank">BibTeX</a>] 
+    <br /> 
+</td>
+</tr>
+    
+<tr>
+<td>
+    [28]
+     D. J. Olsen, N. Zhang, C. Kang, M. A. Ortega-Vazquez, and D. S. Kirschen, 
+    "Planning Low-Carbon Energy Hubs," 
+    IEEE Trans. Power Syst., Vol. 34, Issue 3, pp. 1895-1907, May 2019.
+    <br />
+    [<a href="https://doi.org/10.1109/TPWRS.2018.2879792">DOI</a>]
+    [<a href="https://drive.google.com/open?id=1WPQ9lf09zOmuz-jtEHVsXgQHZNOxK0F5" target="_blank">BibTeX</a>] 
+    [<a href="https://arxiv.org/abs/1811.02652" target="_blank">arXiv</a>] 
+    <br /> 
+</td>
+</tr>
+    
+    
+<tr>
+<td>
+    [27]
+     V. Guerrero-Mestre, Y. Dvorkin, R. Fernandez-Blanco, M. A. Ortega-Vazquez, and J. Contreras, 
+    "Incorporating Energy Storage into Probabilistic Security-Constrained Unit Commitment," 
+    IET Gen., Trans. & Dist., Vol. 12, Issue 18, pp. 4206-4215, Oct. 2018.
+    <br />
+    [<a href="https://doi.org/10.1049/iet-gtd.2018.5413">DOI</a>]
+    [<a href="https://drive.google.com/open?id=1BjbVB8PToZWqG1MoIk1dJ-RgaRcrUUSZ" target="_blank">BibTeX</a>] 
+    [<a href="https://ieeexplore.ieee.org/document/8479635" target="_blank">Xplore</a>] 
+    <br /> 
+</td>
+</tr>
+    
+    
 <tr>
 <td>
     [27]
