@@ -14,7 +14,7 @@ permalink: /journals/
     [30]
      <u>S. Bhavsar</u>, R. Pitchumani, <strong>M. A. Ortega-Vazquez</strong>, 
     "Machine Learning Enabled Reduced-Order Scenario Generation for Stochastic Analysis of Solar Power Forecasts," 
-    Applied Energy, Vol. 293, Issue X, pp. XX, Jul. 2021.
+    <em>Applied Energy</em>, Vol. 293, Issue X, pp. XX, Jul. 2021.
     <br />
     [<a href="https://doi.org/10.1016/j.apenergy.2021.116964">DOI</a>]
     <br /> 
@@ -27,7 +27,7 @@ permalink: /journals/
     [29]
      P. Maloney, <em>P. Chitkara</em>, J. D. McCalley, B. F. Hobbs, C. T. M. Clack, <strong>M. A. Ortega-Vazquez</strong>, A. Tuohy, A. Gaikwad, J. Roark, 
     "Research to Develop The Next Generation of Electric Power Capacity Expansion Tools: What Would Address the Needs of Planners?," 
-    Int. Journal of Electrical Power & Energy Syst., Vol. 121, Oct. 2020.
+    <em>Int. Journal of Electrical Power & Energy Syst.</em>, Vol. 121, Oct. 2020.
     <br />
     [<a href="https://doi.org/10.1016/j.ijepes.2020.106089">DOI</a>]
     [<a href="https://drive.google.com/file/d/11SAnCP6oRgKc1nPJ7i6SCMl8XzRmSRzA/view?usp=sharing" target="_blank">BibTeX</a>] 
@@ -40,7 +40,7 @@ permalink: /journals/
     [28]
     <u>D. J. Olsen</u>, N. Zhang, C. Kang, <strong>M. A. Ortega-Vazquez</strong>, and D. S. Kirschen, 
     "Planning Low-Carbon Energy Hubs," 
-    IEEE Trans. Power Syst., Vol. 34, Issue 3, pp. 1895-1907, May 2019.
+    <em>IEEE Trans. Power Syst.</em>, Vol. 34, Issue 3, pp. 1895-1907, May 2019.
     <br />
     [<a href="https://doi.org/10.1109/TPWRS.2018.2879792">DOI</a>]
     [<a href="https://drive.google.com/open?id=1WPQ9lf09zOmuz-jtEHVsXgQHZNOxK0F5" target="_blank">BibTeX</a>] 
@@ -55,7 +55,7 @@ permalink: /journals/
     [27]
      <u>V. Guerrero-Mestre</u>, <u>Y. Dvorkin</u>, <em>R. Fernandez-Blanco</em>, <strong>M. A. Ortega-Vazquez</strong>, and J. Contreras, 
     "Incorporating Energy Storage into Probabilistic Security-Constrained Unit Commitment," 
-    IET Gen., Trans. & Dist., Vol. 12, Issue 18, pp. 4206-4215, Oct. 2018.
+    <em>IET Gen., Trans. & Dist.</em>, Vol. 12, Issue 18, pp. 4206-4215, Oct. 2018.
     <br />
     [<a href="https://doi.org/10.1049/iet-gtd.2018.5413">DOI</a>]
     [<a href="https://drive.google.com/open?id=1BjbVB8PToZWqG1MoIk1dJ-RgaRcrUUSZ" target="_blank">BibTeX</a>] 
@@ -70,7 +70,7 @@ permalink: /journals/
     [27]
      <u>V. Guerrero-Mestre</u>, <u>Y. Dvorkin</u>, <em>R. Fernandez-Blanco</em>, <strong>M. A. Ortega-Vazquez</strong>, and J. Contreras, 
     "Incorporating Energy Storage into Probabilistic Security-Constrained Unit Commitment," 
-    IET Gen., Trans. & Dist., Vol. 12, Issue 18, pp. 4206-4215, Oct. 2018.
+    <em>IET Gen., Trans. & Dist.</em>, Vol. 12, Issue 18, pp. 4206-4215, Oct. 2018.
     <br />
     [<a href="https://doi.org/10.1049/iet-gtd.2018.5413">DOI</a>]
     [<a href="https://drive.google.com/open?id=1BjbVB8PToZWqG1MoIk1dJ-RgaRcrUUSZ" target="_blank">BibTeX</a>] 
@@ -86,7 +86,7 @@ permalink: /journals/
     [26]
      <u>M. Chuma-Cerbantes</u>, <em>R. Fernandez-Blanco</em>, <strong>M. A. Ortega-Vazquez</strong>, and J. R. Sanches-Mantovani, 
     "Incorporating a Nodal Reactive Power Pricing Scheme into the DisCo's Short-Term Operation," 
-    IEEE Trans. Smart Grid, Vol. 10, Issue 4, pp. 3720-3731, Jul. 2019.
+    <em>IEEE Trans. Smart Grid</em>, Vol. 10, Issue 4, pp. 3720-3731, Jul. 2019.
     <br />
     [<a href="https://doi.org/10.1109/TSG.2018.2834527">DOI</a>]
     [<a href="https://drive.google.com/open?id=1p_XqS1n-e0DPrEpWdSxl0WujrHOFqnRj" target="_blank">BibTeX</a>] 
@@ -103,7 +103,7 @@ permalink: /journals/
     [25]
      <u>D. J. Olsen</u>, <u>Y. Dvorkin</u>, <em>R. Fernandez-Blanco</em>, and <strong>M. A. Ortega-Vazquez</strong>, 
     "Optimal Carbon Taxes for Emissions Targets in the Electricity Sector," 
-    IEEE Trans. Power Syst., Vol. 33, Issue 6, pp. 5892-5901, Nov. 2018.
+    <em>IEEE Trans. Power Syst.</em>, Vol. 33, Issue 6, pp. 5892-5901, Nov. 2018.
     <br />
     [<a href="https://doi.org/10.1109/TPWRS.2018.2827333">DOI</a>]
     [<a href="https://drive.google.com/open?id=14gZ_q0HJm-bC1IKi12XLIwtnTuMa3GIp" target="_blank">BibTeX</a>] 
@@ -118,7 +118,7 @@ permalink: /journals/
     [24]
     <u>M. Chuma-Cerbantes</u>, <em>R. Fernandez-Blanco</em>, <strong>M. A. Ortega-Vazquez</strong>, and J. R. Sanches-Mantovani, 
     "Short-Term Operation of a Distribution Company: A Pseudo-Dynamic Tabu Search-Based Optimisation," 
-    IET Gen., Trans. & Dist., Vol. 12, Issue 12, pp. 2995-3004, Jul. 2018.
+    <em>IET Gen., Trans. & Dist.</em>, Vol. 12, Issue 12, pp. 2995-3004, Jul. 2018.
     <br />
     [<a href="https://doi.org/10.1049/iet-gtd.2017.0731">DOI</a>]
     [<a href="https://drive.google.com/open?id=1ol1bBr3YC0M2xAfs0EyQIdHBbqHQvUMp" target="_blank">BibTeX</a>] 
@@ -132,7 +132,7 @@ permalink: /journals/
     [23]
     <u>X. Kuang</u>, <u>Y. Dvorkin</u>, A. J. Lamadrid L., <strong>M. A. Ortega-Vazquez</strong>, and L. F. Zuluaga, 
     "Pricing Chance Constraints in Electricity Markets," 
-    IEEE Trans. Power Syst., Vol. 33, Issue 4, pp. 4634-4636, Jul. 2018.
+    <em>IEEE Trans. Power Syst.</em>, Vol. 33, Issue 4, pp. 4634-4636, Jul. 2018.
     <br />
     [<a href="https://doi.org/10.1109/TEC.2018.2821922">DOI</a>]
     [<a href="https://drive.google.com/open?id=1CCrrF_Cpbq3BRVBjosCvcc_1tWWvlCMm" target="_blank">BibTeX</a>] 
