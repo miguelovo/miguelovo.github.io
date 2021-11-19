@@ -7,6 +7,112 @@ permalink: /journals/
 <u>Underlining</u> indicates that the co-author is/was a student and <em>italics</em> that the co-author is/was a postdoc. 
 
 <table class="table table-hover">
+
+<tr>
+<td>
+    [27]
+     V. Guerrero-Mestre, Y. Dvorkin, R. Fernandez-Blanco, M. A. Ortega-Vazquez, and J. Contreras, 
+    "Incorporating Energy Storage into Probabilistic Security-Constrained Unit Commitment," 
+    IET Gen., Trans. & Dist., Vol. 12, Issue 18, pp. 4206-4215, Oct. 2018.
+    <br />
+    [<a href="https://doi.org/10.1049/iet-gtd.2018.5413">DOI</a>]
+    [<a href="https://drive.google.com/open?id=1BjbVB8PToZWqG1MoIk1dJ-RgaRcrUUSZ" target="_blank">BibTeX</a>] 
+    [<a href="https://ieeexplore.ieee.org/document/8479635" target="_blank">Xplore</a>] 
+    <br /> 
+</td>
+</tr>
+    
+    
+    
+<tr>
+<td>
+    [26]
+     M. Chuma-Cerbantes, R. Fernandez-Blanco, M. A. Ortega-Vazquez, and J. R. Sanches-Mantovani, 
+    "Incorporating a Nodal Reactive Power Pricing Scheme into the DisCo's Short-Term Operation," 
+    IEEE Trans. Smart Grid, Vol. 10, Issue 4, pp. 3720-3731, Jul. 2019.
+    <br />
+    [<a href="https://doi.org/10.1109/TSG.2018.2834527">DOI</a>]
+    [<a href="https://drive.google.com/open?id=1p_XqS1n-e0DPrEpWdSxl0WujrHOFqnRj" target="_blank">BibTeX</a>] 
+    [<a href="https://drive.google.com/file/d/1yGaR0Zow0wnwSioNUqjg_kwnGi-CCGFo/view?usp=sharing" target="_blank">Slides</a>] 
+    [<a href="https://drive.google.com/file/d/1aull1ZY6qsm9wGUcnbM4hFmNXVAY8jIj/view?usp=sharing" target="_blank">PT_cer</a>] 
+    <br /> 
+</td>
+</tr>
+    
+    
+    
+<tr>
+<td>
+    [25]
+     D. J. Olsen, Y. Dvorkin, R. Fernandez-Blanco, and M. A. Ortega-Vazquez, 
+    "Optimal Carbon Taxes for Emissions Targets in the Electricity Sector," 
+    IEEE Trans. Power Syst., Vol. 33, Issue 6, pp. 5892-5901, Nov. 2018.
+    <br />
+    [<a href="https://doi.org/10.1109/TPWRS.2018.2827333">DOI</a>]
+    [<a href="https://drive.google.com/open?id=14gZ_q0HJm-bC1IKi12XLIwtnTuMa3GIp" target="_blank">BibTeX</a>] 
+    [<a href="https://arxiv.org/abs/1804.06464" target="_blank">arXiv</a>] 
+    <br /> 
+</td>
+</tr>
+    
+    
+<tr>
+<td>
+    [24]
+    M. Chuma-Cerbantes, R. Fernandez-Blanco, M. A. Ortega-Vazquez, and J. R. Sanches-Mantovani, 
+    "Short-Term Operation of a Distribution Company: A Pseudo-Dynamic Tabu Search-Based Optimisation," 
+    IET Gen., Trans. & Dist., Vol. 12, Issue 12, pp. 2995-3004, Jul. 2018.
+    <br />
+    [<a href="https://doi.org/10.1049/iet-gtd.2017.0731">DOI</a>]
+    [<a href="https://drive.google.com/open?id=1ol1bBr3YC0M2xAfs0EyQIdHBbqHQvUMp" target="_blank">BibTeX</a>] 
+    <br /> 
+</td>
+</tr>  
+    
+    
+<tr>
+<td>
+    [23]
+    X. Kuang, Y. Dvorkin, A. J. Lamadrid L., M. A. Ortega-Vazquez, and L. F. Zuluaga, 
+    "Pricing Chance Constraints in Electricity Markets," 
+    IEEE Trans. Power Syst., Vol. 33, Issue 4, pp. 4634-4636, Jul. 2018.
+    <br />
+    [<a href="https://doi.org/10.1109/TEC.2018.2821922">DOI</a>]
+    [<a href="https://drive.google.com/open?id=1CCrrF_Cpbq3BRVBjosCvcc_1tWWvlCMm" target="_blank">BibTeX</a>] 
+    <br /> 
+</td>
+</tr>  
+    
+
+<tr>
+<td>
+    [22]
+     J. E. Contreras-Ocaña, M. A. Ortega-Vazquez, D. S. Kirschen, and B. Zhang, 
+        "Tractable and Robust Modeling of Building Flexibility Using Coarse Data," 
+        IEEE Trans. Power Syst., Vol. 33, Issue 5, pp. 5456-5458, Sep. 2018.
+    <br />
+    [<a href="https://doi.org/10.1109/TPWRS.2018.2808223">DOI</a>]
+    [<a href="https://drive.google.com/open?id=1L2mZQMVtwLNWXSTMgqz873zdWmfCOqeJ" target="_blank">BibTeX</a>] 
+    [<a href="http://arxiv.org/abs/1802.06165" target="_blank">arXiv</a>] 
+    <br /> 
+</td>
+</tr>    
+    
+    
+<tr>
+<td>
+    [21]
+    M. R. Sarker, H. Pandžić, K. Sun, and M. A. Ortega-Vazquez, 
+        "Optimal Operation of Aggregated Electric Vehicle Charging Stations Coupled with Energy Storage," 
+        IET Gen., Trans. & Dist., Vol. 12, Issue 5, pp. 1127-1136, Mar. 2018.
+    <br />
+    [<a href="https://doi.org/10.1049/iet-gtd.2017.0134">DOI</a>]
+    [<a href="https://drive.google.com/open?id=1HCPyNN2tl8XN3VeWXpl_M81SnO011Axw" target="_blank">BibTeX</a>] 
+    [<a href="http://ieeexplore.ieee.org/document/8302676/" target="_blank">Xplore</a>] 
+    <br /> 
+</td>
+</tr>
+    
     
 <tr>
 <td>
