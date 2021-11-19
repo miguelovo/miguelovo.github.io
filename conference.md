@@ -22,6 +22,121 @@ permalink: /conference procedings/
     
 <tr>
 <td>
+    [14]
+    M. Chuma-Cerbantes, J. R. Sanches-Mantovani, R. Fernandez-Blanco, and M. A. Ortega-Vazquez, 
+    "Optimal Short-Term Operation of a DisCo Including Voltage-Sensitive Loads," 
+    19th Power Systems Computation Conference (PSCC), Genoa, Italy, Jun. 20-24, 2016.
+    <br />
+    [<a href="https://doi.org/10.1109/PSCC.2016.7540841" target="_blank">url</a>]
+    [<a href="https://drive.google.com/open?id=15_G8uo4XCQEGSkHXiFIZH1R-P6PJB6hj" target="_blank">BibTeX</a>]
+    [<a href="https://drive.google.com/open?id=1Vgv03iyWomAttr7DCfbBnUf_0qsZsgvQ" target="_blank">Slides</a>]
+    <br /> 
+</td>
+</tr>
+    
+    
+<tr>
+<td>
+    [13]
+    M. R. Sarker and M. A. Ortega-Vazquez, 
+    "Optimal Investment Strategy in Photovoltaics and Energy Storage for Commercial Buildings," 
+    2015 IEEE PES General Meeting, Denver, CO, USA, 26-30 Jul. 2015.
+    <br />
+    [<a href="https://doi.org/10.1109/PESGM.2015.7285594" target="_blank">url</a>]
+    [<a href="https://drive.google.com/open?id=19zxlPrY_-7Syrz-YSORWKIqBgUISbwOH" target="_blank">BibTeX</a>]
+    <br /> 
+</td>
+</tr>
+    
+    
+<tr>
+<td>
+    [12]
+    K. Sun, M. R. Sarker, and M. A. Ortega-Vazquez, 
+    "Statistical Characterization of Electric Vehicle Charging in Different Locations of the Grid," 
+    2015 IEEE PES General Meeting, Denver, CO, USA, 26-30 Jul. 2015.
+    <br />
+    [<a href="https://doi.org/10.1109/PESGM.2015.7285794" target="_blank">url</a>]
+    [<a href="https://drive.google.com/open?id=1lTjNsmJpgFMPsJCpb8VkxrsQ0zdiS4ml" target="_blank">BibTeX</a>]
+    <br /> 
+</td>
+</tr>
+    
+    
+<tr>
+<td>
+    [11]
+    J. Gomez-Martinez, M. A. Ortega-Vazquez, and L. F. Ochoa, 
+    "Scenario Selection of Wind Forecast Errors for Stochastic Unit Commitment: A UK case study," 
+    2014 EEE PES Innovative Smart Grid Technologies - Europe, Istanbul, Oct. 12-15, 2014.
+    <br />
+    [<a href="https://doi.org/10.1109/ISGTEurope.2014.7028896" target="_blank">url</a>]
+    [<a href="https://drive.google.com/open?id=1Nobi_3o4ryLuznGU6AADIh_K64crUFyP" target="_blank">BibTeX</a>]
+    <br /> 
+</td>
+</tr>
+    
+    
+<tr>
+<td>
+    [10]
+    M. R. Sarker, H. Pandžić, and M. A. Ortega-Vazquez, 
+    "Electric Vehicle Battery Swapping Station: Business Case and Optimization Model1," 
+    2013 International Conference on Connected Vehicles & Expo, Las Vegas, NV, USA, 2-6 Dec. 2013.
+    <br />
+    [<a href="https://doi.org/10.1109/ICCVE.2013.6799808" target="_blank">url</a>]
+    [<a href="https://drive.google.com/open?id=1nM6_UFabfGzvnwVCfnbUueQMJKCCgOzY" target="_blank">BibTeX</a>]
+    [<a href="https://drive.google.com/open?id=1J9d2YODxX6LZ7qzdUUpJmDLVLEd_kN9U" target="_blank">Certificate</a>] 
+    <br /> 
+</td>
+</tr>
+    
+    
+<tr>
+<td>
+    [09]
+    T-K. Au and M. A. Ortega-Vazquez, 
+    "Assessment of Plug-in Electric Vehicles Charging on Distribution Networks," 
+    2013 IEEE-PES General Meeting, Vancouver, BC, Canada, 21-25 Jul. 2013.
+    <br />
+    [<a href="https://doi.org/10.1109/PESMG.2013.6672714" target="_blank">url</a>]
+    [<a href="https://drive.google.com/open?id=1MQsNS4zv3GLTjGVfs95Lqs7prb9CuHsf" target="_blank">BibTeX</a>]
+    [<a href="https://drive.google.com/open?id=1YQm9Ezrb5DKbUIAlfHaDBkb0FRNZejEb" target="_blank">Poster</a>] 
+    <br /> 
+</td>
+</tr>
+    
+    
+<tr>
+<td>
+    [08]
+    F. Bouffard and M. A. Ortega-Vazquez, 
+    "The Value of Operational Flexibility in Power Systems with Significant Wind Power Generation," 
+    2011 IEEE PES General Meeting, Detroit, MI, USA, 24-28 Jul. 2011.
+    <br />
+    [<a href="https://doi.org/10.1109/PES.2011.6039031" target="_blank">url</a>]
+    [<a href="https://drive.google.com/open?id=16AGk6Y9oPwotTaViot3sILhy2WDqWKBN" target="_blank">BibTeX</a>] 
+    <br /> 
+</td>
+</tr>
+    
+    
+<tr>
+<td>
+    [07]
+    D. Steen, A. T. Le, M. A. Ortega-Vazquez, O. Carlson, L. Bertling, and V. Neimane, 
+    "Scheduling Charging of Electric Vehicles for Optimal Distribution Systems Planning and Operation," 
+    CIRED 2011, Frankfurt, Germany, 6-9 Jun. 2011.
+    <br />
+    [<a href="http://www.cired.net/publications/cired2011/part1/papers/CIRED2011_1104_final.pdf" target="_blank">url</a>]
+    [<a href="https://drive.google.com/open?id=1fksXg0jyQD8lBnu4keofMQRCiO4X5abG" target="_blank">BibTeX</a>] 
+    <br /> 
+</td>
+</tr>
+    
+    
+<tr>
+<td>
     [06]
     M. A. Ortega-Vazquez and D. S. Kirschen, 
     "Security Provision in Systems with Large Penetration of Wind Power Generation," 
