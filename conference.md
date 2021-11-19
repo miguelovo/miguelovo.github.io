@@ -9,7 +9,8 @@ permalink: /conference procedings/
 <tr>
 <td>
     [23]
-    <strong>M. A. Ortega-Vazquez</strong>, <u>N. Costilla-Enriquez</u>, E. Ela, A. Tuohy, "Risk-Based Reserve Procurement,"
+    <strong>M. A. Ortega-Vazquez</strong>, <u>N. Costilla-Enriquez</u>, E. Ela, A. Tuohy, 
+    "<span style="color:#4582ec">Risk-Based Reserve Procurement</span>,"
     <em> 2020 International Conference on Probabilistic Methods Applied to Power Systems (PMAPS)</em>, Liege, Belgium, Aug. 18-21, 2020.
     <br />
     [<a href="https://doi.org/10.1109/PMAPS47429.2020.9183585" target="_blank">DOI</a>] 
@@ -25,7 +26,7 @@ permalink: /conference procedings/
 <td>
     [22]
     L. H. Macedo, M. A. Ortega-Vazquez, and R. Romero, 
-    "Optimal Distribution Systems Expansion Planning for Improving Service Restoration,” 
+    "<span style="color:#4582ec">Optimal Distribution Systems Expansion Planning for Improving Service Restoration</span>,” 
     2018 IEEE PES Transmission & Distribution Conference and Exhibition - Latin America (T&D-LA), Lima, Peru, 18-21 Sep. 2018.
     <br />
     [<a href="https://doi.org/10.1109/TDC-LA.2018.8511765" target="_blank">DOI</a>]
@@ -39,7 +40,7 @@ permalink: /conference procedings/
 <td>
     [21]
     T. A. Nguyen, R. Rigo-Mariani, M. A. Ortega-Vazquez, and D. S. Kirschen, 
-    "Voltage Regulation in Distribution Grid Using PV Smart Inverters," 
+    "<span style="color:#4582ec">Voltage Regulation in Distribution Grid Using PV Smart Inverters</span>," 
     IEEE PES General Meeting 2018, Portland OR, Aug. 2018.
     <br />
     [<a href="https://doi.org/10.1109/PESGM.2018.8586453" target="_blank">DOI</a>]
@@ -54,7 +55,7 @@ permalink: /conference procedings/
 <td>
     [20]
     L. H. Macedo, M. A. Ortega-Vazquez, and R. Romero, 
-    "Optimal Operation of Battery Storage Systems in Distribution Networks Considering Degradation,” 
+    "<span style="color:#4582ec">Optimal Operation of Battery Storage Systems in Distribution Networks Considering Degradation</span>,” 
     VII Simposio Brasileiro de Sistemas Eletricos, Niteroi, RJ, 12-16 May 2018.
     <br />
     [<a href="https://doi.org/10.1109/SBSE.2018.8395575" target="_blank">DOI</a>]
@@ -68,7 +69,7 @@ permalink: /conference procedings/
 <td>
     [19]
     M. Chuma-Cerbantes, J. R. Sanches-Mantovani, R. Femández-Blanco, and M. A. Ortega-Vazquez, 
-    "A Nodal Pricing Approach for Reactive Power in Distribution Networks," 
+    "<span style="color:#4582ec">A Nodal Pricing Approach for Reactive Power in Distribution Networks</span>," 
     2017 IEEE PES Innovative Smart Grid Technologies Conference - Latin America (ISGT Latin America), Quito, Ecuador, 2017, pp. 1-6.
     <br />
     [<a href="https://doi.org/10.1109/ISGT-LA.2017.8126689" target="_blank">DOI</a>]
@@ -83,7 +84,7 @@ permalink: /conference procedings/
 <td>
     [18]
     J. E. Contreras-Ocana, Y. Wang, M. A. Ortega-Vazquez, and B. Zhang, 
-    "Energy Storage: Market Power and Social Welfare," 
+    "<span style="color:#4582ec">Energy Storage: Market Power and Social Welfare</span>," 
     2017 IEEE PES General Meeting, Chicago, IL, 16-20 Jul. 2017.
     <br />
     [<a href="https://doi.org/10.1109/PESGM.2017.8274080" target="_blank">DOI</a>]
@@ -97,7 +98,7 @@ permalink: /conference procedings/
 <td>
     [17]
     L. H. Macedo, J. F. Franco, R. A. Romero L., M. A. Ortega-Vazquez, and M. J. Rider, 
-    "Increasing the Hosting Capacity for Renewable Energy in Distribution Networks," 
+    "<span style="color:#4582ec">Increasing the Hosting Capacity for Renewable Energy in Distribution Networks</span>," 
     2017 IEEE PES Innovative Smart Grid Technologies Conference (ISGT), Arlington, VA, 23-26 Apr. 2017.
     <br />
     [<a href="https://doi.org/10.1109/ISGT.2017.8086006" target="_blank">DOI</a>]
@@ -111,7 +112,7 @@ permalink: /conference procedings/
 <td>
     [16]
     M. Chuma-Cerbantes, J. R. Sanches-Mantovani, R. Fernandez-Blanco, and M. A. Ortega-Vazquez, 
-    "Optimal Power Flow with Voltage-Sensitive Loads in Distribution Networks," 
+    "<span style="color:#4582ec">Optimal Power Flow with Voltage-Sensitive Loads in Distribution Networks</span>," 
     2016 IEEE PES General Meeting, Boston, MA, USA, 17-21 Jul. 2016.
     <br />
     [<a href="https://doi.org/10.1109/PESGM.2016.7741302" target="_blank">DOI</a>]
@@ -127,7 +128,7 @@ permalink: /conference procedings/
 <td>
     [15]
     M. A. Ortega-Vazquez, 
-    "Assessment of N-k Contingencies in a Probabilistic Security-Constrained Optimal Power Flow," 
+    "<span style="color:#4582ec">Assessment of N-k Contingencies in a Probabilistic Security-Constrained Optimal Power Flow</span>," 
     2016 IEEE PES General Meeting, Boston, MA, USA, 17-21 Jul. 2016.
     <br />
     [<a href="https://doi.org/10.1109/PESGM.2016.7741178" target="_blank">DOI</a>]
@@ -142,7 +143,7 @@ permalink: /conference procedings/
 <td>
     [14]
     M. Chuma-Cerbantes, J. R. Sanches-Mantovani, R. Fernandez-Blanco, and M. A. Ortega-Vazquez, 
-    "Optimal Short-Term Operation of a DisCo Including Voltage-Sensitive Loads," 
+    "<span style="color:#4582ec">Optimal Short-Term Operation of a DisCo Including Voltage-Sensitive Loads</span>," 
     19th Power Systems Computation Conference (PSCC), Genoa, Italy, Jun. 20-24, 2016.
     <br />
     [<a href="https://doi.org/10.1109/PSCC.2016.7540841" target="_blank">DOI</a>]
@@ -157,7 +158,7 @@ permalink: /conference procedings/
 <td>
     [13]
     M. R. Sarker and M. A. Ortega-Vazquez, 
-    "Optimal Investment Strategy in Photovoltaics and Energy Storage for Commercial Buildings," 
+    "<span style="color:#4582ec">Optimal Investment Strategy in Photovoltaics and Energy Storage for Commercial Buildings</span>," 
     2015 IEEE PES General Meeting, Denver, CO, USA, 26-30 Jul. 2015.
     <br />
     [<a href="https://doi.org/10.1109/PESGM.2015.7285594" target="_blank">DOI</a>]
@@ -171,7 +172,7 @@ permalink: /conference procedings/
 <td>
     [12]
     K. Sun, M. R. Sarker, and M. A. Ortega-Vazquez, 
-    "Statistical Characterization of Electric Vehicle Charging in Different Locations of the Grid," 
+    "<span style="color:#4582ec">Statistical Characterization of Electric Vehicle Charging in Different Locations of the Grid</span>," 
     2015 IEEE PES General Meeting, Denver, CO, USA, 26-30 Jul. 2015.
     <br />
     [<a href="https://doi.org/10.1109/PESGM.2015.7285794" target="_blank">DOI</a>]
@@ -185,7 +186,7 @@ permalink: /conference procedings/
 <td>
     [11]
     J. Gomez-Martinez, M. A. Ortega-Vazquez, and L. F. Ochoa, 
-    "Scenario Selection of Wind Forecast Errors for Stochastic Unit Commitment: A UK case study," 
+    "<span style="color:#4582ec">Scenario Selection of Wind Forecast Errors for Stochastic Unit Commitment: A UK case study</span>," 
     2014 EEE PES Innovative Smart Grid Technologies - Europe, Istanbul, Oct. 12-15, 2014.
     <br />
     [<a href="https://doi.org/10.1109/ISGTEurope.2014.7028896" target="_blank">DOI</a>]
@@ -199,7 +200,7 @@ permalink: /conference procedings/
 <td>
     [10]
     M. R. Sarker, H. Pandžić, and M. A. Ortega-Vazquez, 
-    "Electric Vehicle Battery Swapping Station: Business Case and Optimization Model1," 
+    "<span style="color:#4582ec">Electric Vehicle Battery Swapping Station: Business Case and Optimization Model</span>," 
     2013 International Conference on Connected Vehicles & Expo, Las Vegas, NV, USA, 2-6 Dec. 2013.
     <br />
     [<a href="https://doi.org/10.1109/ICCVE.2013.6799808" target="_blank">DOI</a>]
@@ -214,7 +215,7 @@ permalink: /conference procedings/
 <td>
     [09]
     T-K. Au and M. A. Ortega-Vazquez, 
-    "Assessment of Plug-in Electric Vehicles Charging on Distribution Networks," 
+    "<span style="color:#4582ec">Assessment of Plug-in Electric Vehicles Charging on Distribution Networks</span>," 
     2013 IEEE-PES General Meeting, Vancouver, BC, Canada, 21-25 Jul. 2013.
     <br />
     [<a href="https://doi.org/10.1109/PESMG.2013.6672714" target="_blank">DOI</a>]
@@ -229,7 +230,7 @@ permalink: /conference procedings/
 <td>
     [08]
     F. Bouffard and M. A. Ortega-Vazquez, 
-    "The Value of Operational Flexibility in Power Systems with Significant Wind Power Generation," 
+    "<span style="color:#4582ec">The Value of Operational Flexibility in Power Systems with Significant Wind Power Generation</span>," 
     2011 IEEE PES General Meeting, Detroit, MI, USA, 24-28 Jul. 2011.
     <br />
     [<a href="https://doi.org/10.1109/PES.2011.6039031" target="_blank">DOI</a>]
@@ -243,7 +244,7 @@ permalink: /conference procedings/
 <td>
     [07]
     D. Steen, A. T. Le, M. A. Ortega-Vazquez, O. Carlson, L. Bertling, and V. Neimane, 
-    "Scheduling Charging of Electric Vehicles for Optimal Distribution Systems Planning and Operation," 
+    "<span style="color:#4582ec">Scheduling Charging of Electric Vehicles for Optimal Distribution Systems Planning and Operation</span>," 
     CIRED 2011, Frankfurt, Germany, 6-9 Jun. 2011.
     <br />
     [<a href="http://www.cired.net/publications/cired2011/part1/papers/CIRED2011_1104_final.pdf" target="_blank">url</a>]
@@ -257,7 +258,7 @@ permalink: /conference procedings/
 <td>
     [06]
     M. A. Ortega-Vazquez and D. S. Kirschen, 
-    "Security Provision in Systems with Large Penetration of Wind Power Generation," 
+    "<span style="color:#4582ec">Security Provision in Systems with Large Penetration of Wind Power Generation</span>," 
     IEEE PES 2010 General Meeting, Minneapolis, MN, 25-29 Jul. 2010.
     <br />
     [<a href="https://doi.org/10.1109/PES.2010.5589818" target="_blank">DOI</a>]
@@ -272,7 +273,7 @@ permalink: /conference procedings/
 <td>
     [05]
     P. Panciatici, Y. Hassaine, S. Fliscounakis, L. Platbrood, M. A. Ortega-Vazquez, J. L. Martinez-Ramos, and L. Wehenkel, 
-    "Security Management Under Uncertainty: from Day-Ahead Planning to Intraday Operation," 
+    "<span style="color:#4582ec">Security Management Under Uncertainty: from Day-Ahead Planning to Intraday Operation</span>," 
     IREP Symposium 2010, Buzios, Rio de Janeiro, Brazil, 1-6 Aug. 2010.
     <br />
     [<a href="https://doi.org/10.1109/IREP.2010.5563278" target="_blank">DOI</a>]
@@ -286,7 +287,7 @@ permalink: /conference procedings/
 <td>
     [04]
     N. Y. Dahlan, D. S. Kirschen, and M. A. Ortega-Vazquez, 
-        "Generation Investment Evaluation Under Uncertainty in a Competitive Environment," 
+        "<span style="color:#4582ec">Generation Investment Evaluation Under Uncertainty in a Competitive Environment</span>," 
         11th International Conference on Probabilistic Methods Applied to Power Systems (PMAPS), Singapore, 14-17 Jun. 2010.
     <br />
     [<a href="https://doi.org/10.1109/PMAPS.2010.5528421" target="_blank">DOI</a>]
