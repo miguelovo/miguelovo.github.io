@@ -83,7 +83,7 @@ permalink: /conference procedings/
 <tr>
 <td>
     [18]
-    J. E. Contreras-Ocana, Y. Wang, <strong>M. A. Ortega-Vazquez, and B. Zhang, 
+    J. E. Contreras-Ocana, Y. Wang, <strong>M. A. Ortega-Vazquez</strong>, and B. Zhang, 
     "<span style="color:#4582ec">Energy Storage: Market Power and Social Welfare</span>," 
     2017 IEEE PES General Meeting, Chicago, IL, 16-20 Jul. 2017.
     <br />
