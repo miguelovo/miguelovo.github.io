@@ -12,7 +12,7 @@ Note that EPRI citations do not include authors' names.  The full list of invest
 
 <tr>
 <td>
-    [23]
+    [24]
     "<span style="color:#4582ec">Capacity and Ramps Considerations for Dimensioning of Reserve Requirements</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002021780, Dec. 2021.
     <br />
@@ -26,7 +26,7 @@ Note that EPRI citations do not include authors' names.  The full list of invest
  
 <tr>
 <td>
-    [22]
+    [23]
     Program on Technology Innovation: "<span style="color:#4582ec">Dynamic Determination of Contingency Reserves: A Risk-Aware Approach</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002021799, Dec. 2021.
     <br />
@@ -35,7 +35,19 @@ Note that EPRI citations do not include authors' names.  The full list of invest
     <br /> 
 </td>
 </tr>
- 
+
+    
+<tr>
+<td>
+    [22]
+    "<span style="color:#4582ec">Inverter-based Resource Control for Grid Support: Advanced Solar Photovoltaic Plus Energy Storage System Demonstration and Technology Assessment</span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002023056, Nov. 2021.
+    <br />
+    [<a href="https://www.epri.com/research/products/000000003002023056">url</a>] 
+    <br /> 
+</td>
+</tr>
+    
  
 <tr>
 <td>
