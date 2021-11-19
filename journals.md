@@ -7,7 +7,35 @@ permalink: /journals/
 <u>Underlining</u> indicates that the co-author is/was a student and <em>italics</em> that the co-author is/was a postdoc. 
 
 <table class="table table-hover">
+    
+<tr>
+<td>
+    [20]
+    <u>J. E. Contreras-Ocaña</u>, <strong>M. A. Ortega-Vazquez</strong>, and B. Zhang, 
+    "<span style="color:#4582ec">Participation of an Energy Storage Aggregator in Electricity Markets</span>," 
+    <em>IEEE Trans. Smart Grid</em>, Vol. 10,
+    <br />
+    [<a href="https://doi.org/10.1109/TSG.2017.2736787">DOI</a>]
+    [<a href="https://drive.google.com/open?id=1Wi3KzUNGoDp61xsRgGnsAHRQrE6HJ5yM" target="_blank">BibTeX</a>] 
+    [<a href="https://arxiv.org/abs/1708.00989" target="_blank">arXiv</a>] 
+    <br /> 
+</td>
+</tr>
 
+    
+<tr>
+<td>
+    [19]
+    <u>M. R. Sarker</u>, <u>M. D. Murbach</u>, D. T. Schwartz, and <strong>M. A. Ortega-Vazquez</strong>, 
+    "<span style="color:#4582ec">Optimal Operation of a Battery Energy Storage System: Trade-off between Grid Economics and Storage Health</span>," 
+    <em>Electric Power Systems Research</em>, Vol. 152, pp. 342-349, Nov. 2017.
+    <br />
+    [<a href="https://doi.org/10.1049/iet-gtd.2016.1014">DOI</a>]
+    [<a href="https://drive.google.com/open?id=1o5OLhU9l6Jq_7PxheRZVy3oIQ8AZZjbP" target="_blank">BibTeX</a>] 
+    <br /> 
+</td>
+</tr>
+    
     
 <tr>
 <td>
