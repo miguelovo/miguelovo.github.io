@@ -8,13 +8,131 @@ permalink: /conference procedings/
 <table class="table table-hover">
 <tr>
 <td>
-    [25]
+    [23]
     <strong>M. A. Ortega-Vazquez</strong>, <u>N. Costilla-Enriquez</u>, E. Ela, A. Tuohy, "Risk-Based Reserve Procurement,"
     <em> 2020 International Conference on Probabilistic Methods Applied to Power Systems (PMAPS)</em>, Liege, Belgium, Aug. 18-21, 2020.
     <br />
-    [<a href="https://ieeexplore.ieee.org/document/9183585" target="_blank">paper</a>] 
-    [<a href="https://epri.app.box.com/s/9c2z6s2qjyf56pxefvpvw7fc06bimn9p" target="_blank">video (english)</a>] 
-    [<a href="https://epri.app.box.com/s/z2zedfpydnk9in6ic2jyp8q27elthvsm" target="_blank">video (spanish)</a>]     
+    [<a href="https://doi.org/10.1109/PMAPS47429.2020.9183585" target="_blank">DOI</a>] 
+    [<a href="https://drive.google.com/open?id=1t_7TXVm_i67HH-gsuTnx2A_tVIzWyzoy" target="_blank">BibTeX</a>] 
+    [<a href="https://epri.app.box.com/s/9c2z6s2qjyf56pxefvpvw7fc06bimn9p" target="_blank">Video (EN)</a>] 
+    [<a href="https://epri.app.box.com/s/z2zedfpydnk9in6ic2jyp8q27elthvsm" target="_blank">Video (SP)</a>]     
+    <br /> 
+</td>
+</tr>
+
+    
+<tr>
+<td>
+    [22]
+    L. H. Macedo, M. A. Ortega-Vazquez, and R. Romero, 
+    "Optimal Distribution Systems Expansion Planning for Improving Service Restoration,” 
+    2018 IEEE PES Transmission & Distribution Conference and Exhibition - Latin America (T&D-LA), Lima, Peru, 18-21 Sep. 2018.
+    <br />
+    [<a href="https://doi.org/10.1109/TDC-LA.2018.8511765" target="_blank">url</a>]
+    [<a href="https://drive.google.com/open?id=1t_7TXVm_i67HH-gsuTnx2A_tVIzWyzoy" target="_blank">BibTeX</a>]
+    <br /> 
+</td>
+</tr>
+    
+    
+<tr>
+<td>
+    [21]
+    T. A. Nguyen, R. Rigo-Mariani, M. A. Ortega-Vazquez, and D. S. Kirschen, 
+    "Voltage Regulation in Distribution Grid Using PV Smart Inverters," 
+    IEEE PES General Meeting 2018, Portland OR, Aug. 2018.
+    <br />
+    [<a href="https://doi.org/10.1109/PESGM.2018.8586453" target="_blank">url</a>]
+    [<a href="https://drive.google.com/open?id=1rG3ZxLdoiC_lR1g0086g8as0h99FC5Q8" target="_blank">BibTeX</a>]
+    [<a href="https://drive.google.com/open?id=1KFBBOk3fZEphOTIRWI8HCi3neCn4UvUk" target="_blank">Poster</a>]
+    <br /> 
+</td>
+</tr>  
+    
+    
+<tr>
+<td>
+    [20]
+    L. H. Macedo, M. A. Ortega-Vazquez, and R. Romero, 
+    "Optimal Operation of Battery Storage Systems in Distribution Networks Considering Degradation,” 
+    VII Simposio Brasileiro de Sistemas Eletricos, Niteroi, RJ, 12-16 May 2018.
+    <br />
+    [<a href="https://doi.org/10.1109/SBSE.2018.8395575" target="_blank">url</a>]
+    [<a href="https://drive.google.com/open?id=1T4HBirgyDxUnVdAasOvDfmoTcjwxBajD" target="_blank">BibTeX</a>]
+    <br /> 
+</td>
+</tr>   
+    
+    
+<tr>
+<td>
+    [19]
+    M. Chuma-Cerbantes, J. R. Sanches-Mantovani, R. Femández-Blanco, and M. A. Ortega-Vazquez, 
+    "A Nodal Pricing Approach for Reactive Power in Distribution Networks," 
+    2017 IEEE PES Innovative Smart Grid Technologies Conference - Latin America (ISGT Latin America), Quito, Ecuador, 2017, pp. 1-6.
+    <br />
+    [<a href="https://doi.org/10.1109/ISGT-LA.2017.8126689" target="_blank">url</a>]
+    [<a href="https://drive.google.com/open?id=1xnqaecIORYWES6EJrn6sMwNPTDnJ7GIT" target="_blank">BibTeX</a>]
+    [<a href="https://drive.google.com/open?id=1oqukRnT2CyyVaK77Vrg0oTxRl_44QEnR" target="_blank">Slides</a>]
+    <br /> 
+</td>
+</tr>
+    
+    
+<tr>
+<td>
+    [18]
+    J. E. Contreras-Ocana, Y. Wang, M. A. Ortega-Vazquez, and B. Zhang, 
+    "Energy Storage: Market Power and Social Welfare," 
+    2017 IEEE PES General Meeting, Chicago, IL, 16-20 Jul. 2017.
+    <br />
+    [<a href="https://doi.org/10.1109/PESGM.2017.8274080" target="_blank">url</a>]
+    [<a href="https://drive.google.com/open?id=1R6-unklrpOocueWwCI6p9Jm_oXhBtTQg" target="_blank">BibTeX</a>]
+    <br /> 
+</td>
+</tr>
+    
+    
+<tr>
+<td>
+    [17]
+    L. H. Macedo, J. F. Franco, R. A. Romero L., M. A. Ortega-Vazquez, and M. J. Rider, 
+    "Increasing the Hosting Capacity for Renewable Energy in Distribution Networks," 
+    2017 IEEE PES Innovative Smart Grid Technologies Conference (ISGT), Arlington, VA, 23-26 Apr. 2017.
+    <br />
+    [<a href="https://doi.org/10.1109/ISGT.2017.8086006" target="_blank">url</a>]
+    [<a href="https://drive.google.com/open?id=1_2RsxTcM_Bu2CPRd5nWgfcTH28wE4sgp" target="_blank">BibTeX</a>]
+    <br /> 
+</td>
+</tr>
+    
+    
+<tr>
+<td>
+    [16]
+    M. Chuma-Cerbantes, J. R. Sanches-Mantovani, R. Fernandez-Blanco, and M. A. Ortega-Vazquez, 
+    "Optimal Power Flow with Voltage-Sensitive Loads in Distribution Networks," 
+    2016 IEEE PES General Meeting, Boston, MA, USA, 17-21 Jul. 2016.
+    <br />
+    [<a href="https://doi.org/10.1109/PESGM.2016.7741302" target="_blank">url</a>]
+    [<a href="https://drive.google.com/open?id=1LIFS3DuIsUHmmjxXu00Ad7-KUV1vG4l-" target="_blank">BibTeX</a>]
+    [<a href="https://drive.google.com/open?id=1lbtcsT-_JiUI7ExcXoKIF5YFCUxGQW2o" target="_blank">Slides</a>]
+    [<a href="https://drive.google.com/open?id=1mkh8xlP12cZc0DgosCxtIFkBtPqdhNCD" target="_blank">Poster</a>]
+    <br /> 
+</td>
+</tr>
+    
+    
+<tr>
+<td>
+    [15]
+    M. A. Ortega-Vazquez, 
+    "Assessment of N-k Contingencies in a Probabilistic Security-Constrained Optimal Power Flow," 
+    2016 IEEE PES General Meeting, Boston, MA, USA, 17-21 Jul. 2016.
+    <br />
+    [<a href="https://doi.org/10.1109/PESGM.2016.7741178" target="_blank">url</a>]
+    [<a href="https://drive.google.com/open?id=1bMkMi3dxF0uGo7lPSi6lWqImbWld5YXh" target="_blank">BibTeX</a>]
+    [<a href="https://drive.google.com/open?id=1D-83aFNNC-ECbMsQRJq282xH6FZUDlss" target="_blank">Poster</a>]
     <br /> 
 </td>
 </tr>
