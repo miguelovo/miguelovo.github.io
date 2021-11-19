@@ -28,7 +28,7 @@ permalink: /conference procedings/
     "Optimal Distribution Systems Expansion Planning for Improving Service Restoration,” 
     2018 IEEE PES Transmission & Distribution Conference and Exhibition - Latin America (T&D-LA), Lima, Peru, 18-21 Sep. 2018.
     <br />
-    [<a href="https://doi.org/10.1109/TDC-LA.2018.8511765" target="_blank">url</a>]
+    [<a href="https://doi.org/10.1109/TDC-LA.2018.8511765" target="_blank">DOI</a>]
     [<a href="https://drive.google.com/open?id=1t_7TXVm_i67HH-gsuTnx2A_tVIzWyzoy" target="_blank">BibTeX</a>]
     <br /> 
 </td>
@@ -42,7 +42,7 @@ permalink: /conference procedings/
     "Voltage Regulation in Distribution Grid Using PV Smart Inverters," 
     IEEE PES General Meeting 2018, Portland OR, Aug. 2018.
     <br />
-    [<a href="https://doi.org/10.1109/PESGM.2018.8586453" target="_blank">url</a>]
+    [<a href="https://doi.org/10.1109/PESGM.2018.8586453" target="_blank">DOI</a>]
     [<a href="https://drive.google.com/open?id=1rG3ZxLdoiC_lR1g0086g8as0h99FC5Q8" target="_blank">BibTeX</a>]
     [<a href="https://drive.google.com/open?id=1KFBBOk3fZEphOTIRWI8HCi3neCn4UvUk" target="_blank">Poster</a>]
     <br /> 
@@ -57,7 +57,7 @@ permalink: /conference procedings/
     "Optimal Operation of Battery Storage Systems in Distribution Networks Considering Degradation,” 
     VII Simposio Brasileiro de Sistemas Eletricos, Niteroi, RJ, 12-16 May 2018.
     <br />
-    [<a href="https://doi.org/10.1109/SBSE.2018.8395575" target="_blank">url</a>]
+    [<a href="https://doi.org/10.1109/SBSE.2018.8395575" target="_blank">DOI</a>]
     [<a href="https://drive.google.com/open?id=1T4HBirgyDxUnVdAasOvDfmoTcjwxBajD" target="_blank">BibTeX</a>]
     <br /> 
 </td>
@@ -71,7 +71,7 @@ permalink: /conference procedings/
     "A Nodal Pricing Approach for Reactive Power in Distribution Networks," 
     2017 IEEE PES Innovative Smart Grid Technologies Conference - Latin America (ISGT Latin America), Quito, Ecuador, 2017, pp. 1-6.
     <br />
-    [<a href="https://doi.org/10.1109/ISGT-LA.2017.8126689" target="_blank">url</a>]
+    [<a href="https://doi.org/10.1109/ISGT-LA.2017.8126689" target="_blank">DOI</a>]
     [<a href="https://drive.google.com/open?id=1xnqaecIORYWES6EJrn6sMwNPTDnJ7GIT" target="_blank">BibTeX</a>]
     [<a href="https://drive.google.com/open?id=1oqukRnT2CyyVaK77Vrg0oTxRl_44QEnR" target="_blank">Slides</a>]
     <br /> 
@@ -86,7 +86,7 @@ permalink: /conference procedings/
     "Energy Storage: Market Power and Social Welfare," 
     2017 IEEE PES General Meeting, Chicago, IL, 16-20 Jul. 2017.
     <br />
-    [<a href="https://doi.org/10.1109/PESGM.2017.8274080" target="_blank">url</a>]
+    [<a href="https://doi.org/10.1109/PESGM.2017.8274080" target="_blank">DOI</a>]
     [<a href="https://drive.google.com/open?id=1R6-unklrpOocueWwCI6p9Jm_oXhBtTQg" target="_blank">BibTeX</a>]
     <br /> 
 </td>
@@ -100,7 +100,7 @@ permalink: /conference procedings/
     "Increasing the Hosting Capacity for Renewable Energy in Distribution Networks," 
     2017 IEEE PES Innovative Smart Grid Technologies Conference (ISGT), Arlington, VA, 23-26 Apr. 2017.
     <br />
-    [<a href="https://doi.org/10.1109/ISGT.2017.8086006" target="_blank">url</a>]
+    [<a href="https://doi.org/10.1109/ISGT.2017.8086006" target="_blank">DOI</a>]
     [<a href="https://drive.google.com/open?id=1_2RsxTcM_Bu2CPRd5nWgfcTH28wE4sgp" target="_blank">BibTeX</a>]
     <br /> 
 </td>
@@ -114,7 +114,7 @@ permalink: /conference procedings/
     "Optimal Power Flow with Voltage-Sensitive Loads in Distribution Networks," 
     2016 IEEE PES General Meeting, Boston, MA, USA, 17-21 Jul. 2016.
     <br />
-    [<a href="https://doi.org/10.1109/PESGM.2016.7741302" target="_blank">url</a>]
+    [<a href="https://doi.org/10.1109/PESGM.2016.7741302" target="_blank">DOI</a>]
     [<a href="https://drive.google.com/open?id=1LIFS3DuIsUHmmjxXu00Ad7-KUV1vG4l-" target="_blank">BibTeX</a>]
     [<a href="https://drive.google.com/open?id=1lbtcsT-_JiUI7ExcXoKIF5YFCUxGQW2o" target="_blank">Slides</a>]
     [<a href="https://drive.google.com/open?id=1mkh8xlP12cZc0DgosCxtIFkBtPqdhNCD" target="_blank">Poster</a>]
@@ -130,7 +130,7 @@ permalink: /conference procedings/
     "Assessment of N-k Contingencies in a Probabilistic Security-Constrained Optimal Power Flow," 
     2016 IEEE PES General Meeting, Boston, MA, USA, 17-21 Jul. 2016.
     <br />
-    [<a href="https://doi.org/10.1109/PESGM.2016.7741178" target="_blank">url</a>]
+    [<a href="https://doi.org/10.1109/PESGM.2016.7741178" target="_blank">DOI</a>]
     [<a href="https://drive.google.com/open?id=1bMkMi3dxF0uGo7lPSi6lWqImbWld5YXh" target="_blank">BibTeX</a>]
     [<a href="https://drive.google.com/open?id=1D-83aFNNC-ECbMsQRJq282xH6FZUDlss" target="_blank">Poster</a>]
     <br /> 
@@ -145,7 +145,7 @@ permalink: /conference procedings/
     "Optimal Short-Term Operation of a DisCo Including Voltage-Sensitive Loads," 
     19th Power Systems Computation Conference (PSCC), Genoa, Italy, Jun. 20-24, 2016.
     <br />
-    [<a href="https://doi.org/10.1109/PSCC.2016.7540841" target="_blank">url</a>]
+    [<a href="https://doi.org/10.1109/PSCC.2016.7540841" target="_blank">DOI</a>]
     [<a href="https://drive.google.com/open?id=15_G8uo4XCQEGSkHXiFIZH1R-P6PJB6hj" target="_blank">BibTeX</a>]
     [<a href="https://drive.google.com/open?id=1Vgv03iyWomAttr7DCfbBnUf_0qsZsgvQ" target="_blank">Slides</a>]
     <br /> 
@@ -160,7 +160,7 @@ permalink: /conference procedings/
     "Optimal Investment Strategy in Photovoltaics and Energy Storage for Commercial Buildings," 
     2015 IEEE PES General Meeting, Denver, CO, USA, 26-30 Jul. 2015.
     <br />
-    [<a href="https://doi.org/10.1109/PESGM.2015.7285594" target="_blank">url</a>]
+    [<a href="https://doi.org/10.1109/PESGM.2015.7285594" target="_blank">DOI</a>]
     [<a href="https://drive.google.com/open?id=19zxlPrY_-7Syrz-YSORWKIqBgUISbwOH" target="_blank">BibTeX</a>]
     <br /> 
 </td>
@@ -174,7 +174,7 @@ permalink: /conference procedings/
     "Statistical Characterization of Electric Vehicle Charging in Different Locations of the Grid," 
     2015 IEEE PES General Meeting, Denver, CO, USA, 26-30 Jul. 2015.
     <br />
-    [<a href="https://doi.org/10.1109/PESGM.2015.7285794" target="_blank">url</a>]
+    [<a href="https://doi.org/10.1109/PESGM.2015.7285794" target="_blank">DOI</a>]
     [<a href="https://drive.google.com/open?id=1lTjNsmJpgFMPsJCpb8VkxrsQ0zdiS4ml" target="_blank">BibTeX</a>]
     <br /> 
 </td>
@@ -188,7 +188,7 @@ permalink: /conference procedings/
     "Scenario Selection of Wind Forecast Errors for Stochastic Unit Commitment: A UK case study," 
     2014 EEE PES Innovative Smart Grid Technologies - Europe, Istanbul, Oct. 12-15, 2014.
     <br />
-    [<a href="https://doi.org/10.1109/ISGTEurope.2014.7028896" target="_blank">url</a>]
+    [<a href="https://doi.org/10.1109/ISGTEurope.2014.7028896" target="_blank">DOI</a>]
     [<a href="https://drive.google.com/open?id=1Nobi_3o4ryLuznGU6AADIh_K64crUFyP" target="_blank">BibTeX</a>]
     <br /> 
 </td>
@@ -202,7 +202,7 @@ permalink: /conference procedings/
     "Electric Vehicle Battery Swapping Station: Business Case and Optimization Model1," 
     2013 International Conference on Connected Vehicles & Expo, Las Vegas, NV, USA, 2-6 Dec. 2013.
     <br />
-    [<a href="https://doi.org/10.1109/ICCVE.2013.6799808" target="_blank">url</a>]
+    [<a href="https://doi.org/10.1109/ICCVE.2013.6799808" target="_blank">DOI</a>]
     [<a href="https://drive.google.com/open?id=1nM6_UFabfGzvnwVCfnbUueQMJKCCgOzY" target="_blank">BibTeX</a>]
     [<a href="https://drive.google.com/open?id=1J9d2YODxX6LZ7qzdUUpJmDLVLEd_kN9U" target="_blank">Certificate</a>] 
     <br /> 
@@ -217,7 +217,7 @@ permalink: /conference procedings/
     "Assessment of Plug-in Electric Vehicles Charging on Distribution Networks," 
     2013 IEEE-PES General Meeting, Vancouver, BC, Canada, 21-25 Jul. 2013.
     <br />
-    [<a href="https://doi.org/10.1109/PESMG.2013.6672714" target="_blank">url</a>]
+    [<a href="https://doi.org/10.1109/PESMG.2013.6672714" target="_blank">DOI</a>]
     [<a href="https://drive.google.com/open?id=1MQsNS4zv3GLTjGVfs95Lqs7prb9CuHsf" target="_blank">BibTeX</a>]
     [<a href="https://drive.google.com/open?id=1YQm9Ezrb5DKbUIAlfHaDBkb0FRNZejEb" target="_blank">Poster</a>] 
     <br /> 
@@ -232,7 +232,7 @@ permalink: /conference procedings/
     "The Value of Operational Flexibility in Power Systems with Significant Wind Power Generation," 
     2011 IEEE PES General Meeting, Detroit, MI, USA, 24-28 Jul. 2011.
     <br />
-    [<a href="https://doi.org/10.1109/PES.2011.6039031" target="_blank">url</a>]
+    [<a href="https://doi.org/10.1109/PES.2011.6039031" target="_blank">DOI</a>]
     [<a href="https://drive.google.com/open?id=16AGk6Y9oPwotTaViot3sILhy2WDqWKBN" target="_blank">BibTeX</a>] 
     <br /> 
 </td>
