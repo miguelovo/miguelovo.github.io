@@ -9,6 +9,7 @@ permalink: /Contact/
 <!-- </center> -->
 
 <br>
+
 Contact Miguel A. Ortega-Vazquez at:
 <br>
 
