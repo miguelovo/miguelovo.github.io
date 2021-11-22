@@ -18,4 +18,4 @@ He was a Postdoctoral Scholar at the School of Electrical and Electronic Enginee
 <br>
   
 Dr. Ortega-Vazquez's research interests revolve around the development and application of methods to facilitate an efficient, secure, and sustainable operation and planning of power systems.
-</i>  
+
