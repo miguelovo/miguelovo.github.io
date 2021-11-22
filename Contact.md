@@ -4,6 +4,12 @@ title: Contact
 permalink: /Contact/
 ---
 
+<!-- <center> -->
+<img src="Files/Ortega-Vazquez_CEI_2.jpg" alt="" class="center" width="200">
+<!-- </center> -->
+
+<br>
+
 Contact Miguel A. Ortega-Vazquez at:
 
 3420 Hillview Avenue, Palo Alto CA, 94304
