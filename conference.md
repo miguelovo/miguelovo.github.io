@@ -4,6 +4,7 @@ title: Conference Proceedings
 permalink: /conference procedings/
 ---
 
+<u>Underlining</u> indicates that the co-author is/was a student and <em>italics</em> that the co-author is/was a postdoc. 
 
 <table class="table table-hover">
 <tr>
