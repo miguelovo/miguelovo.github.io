@@ -25,7 +25,7 @@ Welcome to my personal webpage.
 baseurl: "/page/" # the subpath of your site, e.g. /blog
 url: "https://miguelovo.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username: miguelovo
+github_username: jekyllrb
 
 # Build settings
 theme: minima
