@@ -9,7 +9,6 @@ permalink: /Contact/
 <!-- </center> -->
 
 <br>
-
 Contact Miguel A. Ortega-Vazquez at:
 
 3420 Hillview Avenue, Palo Alto CA, 94304
