@@ -5,6 +5,7 @@
 layout: page
 ---
 
+<div>
 <!-- <center> -->
 <img src="Files/Ortega-Vazquez_IEEE.jpg" alt="" class="center" width="200">
 <!-- </center> -->
@@ -16,4 +17,4 @@ He was a Postdoctoral Scholar at the School of Electrical and Electronic Enginee
 <br>
 <br>
 Dr. Ortega-Vazquez's research interests revolve around the development and application of methods to facilitate an efficient, secure, and sustainable operation and planning of power systems.
-
+</div>
