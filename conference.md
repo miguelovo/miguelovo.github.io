@@ -318,7 +318,7 @@ permalink: /conference procedings/
     [02]
     <strong>M. A. Ortega-Vazquez</strong> and D. S. Kirschen, 
     "<span style="color:#4582ec">Assessment of Generation Expansion Mechanisms Using Multi-Agent Systems</span>," 
-    <em>2008 IEEE PES General Meeting</em>, Pittsburgh, Pennsylvania, USA, 20-24 Jul. 2008.
+    <em>2008 IEEE PES General Meeting</em>, Pittsburgh, PA, USA, 20-24 Jul. 2008.
     <br />
     [<a href="https://doi.org/10.1109/PES.2008.4596528" target="_blank">DOI</a>]
     [<a href="https://drive.google.com/open?id=1sKD3Y67yMYl8qyBiv0-wdZjStELXxQQ-" target="_blank">BibTeX</a>] 
