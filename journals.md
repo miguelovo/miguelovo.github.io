@@ -62,23 +62,7 @@ permalink: /journals/
     [<a href="https://ieeexplore.ieee.org/document/8479635" target="_blank">Xplore</a>] 
     <br /> 
 </td>
-</tr>
-    
-    
-<tr>
-<td>
-    [27]
-     <u>V. Guerrero-Mestre</u>, <u>Y. Dvorkin</u>, <em>R. Fernandez-Blanco</em>, <strong>M. A. Ortega-Vazquez</strong>, and J. Contreras, 
-    "<span style="color:#4582ec">Incorporating Energy Storage into Probabilistic Security-Constrained Unit Commitment</span>," 
-    <em>IET Gen., Trans. & Dist.</em>, Vol. 12, Issue 18, pp. 4206-4215, Oct. 2018.
-    <br />
-    [<a href="https://doi.org/10.1049/iet-gtd.2018.5413">DOI</a>]
-    [<a href="https://drive.google.com/open?id=1BjbVB8PToZWqG1MoIk1dJ-RgaRcrUUSZ" target="_blank">BibTeX</a>] 
-    [<a href="https://ieeexplore.ieee.org/document/8479635" target="_blank">Xplore</a>] 
-    <br /> 
-</td>
-</tr>
-    
+</tr>    
     
     
 <tr>
