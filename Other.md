@@ -10,7 +10,8 @@ permalink: /Other/
 <tr>
 <td>
     <strong>Ph.D. Dissertation</strong> <br />
-    <strong>M. A. Ortega-Vazquez</strong>, "Optimizing the Spinning Reserve Requirements," 
+    <strong>M. A. Ortega-Vazquez</strong>, 
+    "<span style="color:#4582ec">Optimizing the Spinning Reserve Requirements</span>," 
     Ph.D. Dissertation, School of Electrical and Electronic Engineering, 
     <em>The University of Manchester</em>, Manchester, United Kingdom, 2006.
     <br />
@@ -24,7 +25,8 @@ permalink: /Other/
 <tr>
 <td>
     <strong>M.Sc. Thesis </strong> <br />
-    <strong>M. A. Ortega-Vazquez</strong> "Modelado y Simulación Dinámica de Esquemas de Cogeneración," 
+    <strong>M. A. Ortega-Vazquez</strong> 
+    "<span style="color:#4582ec">Modelado y Simulación Dinámica de Esquemas de Cogeneración</span>," 
     M.Sc. Thesis, Facultad de Ingeniería Mecánica y Eléctrica, 
     <em>Universidad Autonóma de Nuevo León</em>, Mexico, 2001.
     <br />
@@ -39,7 +41,7 @@ permalink: /Other/
 <td>
     <strong> Solutions Manual</strong> <br />
     <strong>M. A. Ortega-Vazquez</strong> and D. S. Kirschen, 
-    "Solutions Manual: Fundamentals of Power System Economics," 
+    "<span style="color:#4582ec">Solutions Manual: Fundamentals of Power System Economics</span>," 
     John Wiley & Sons, 2005 & 2019.
     <br />
     [<a href="http://www.wiley.com//legacy/wileychi/powersystemeconomics/" target="_blank">1ed</a>]
@@ -53,7 +55,7 @@ permalink: /Other/
 <td>
     <strong> Book Chapter </strong> <br />
     <strong>M. A. Ortega-Vazquez</strong> and M. Kintner-Meyer, 
-    "Electric Vehicles and the Electric Grid," 
+    "<span style="color:#4582ec">Electric Vehicles and the Electric Grid</span>," 
     <em>Handbook of Clean Energy Systems</em>, John Wiley & Sons, 2014. 
     <br />
     [<a href="http://onlinelibrary.wiley.com/doi/10.1002/9781118991978.hces105/full" target="_blank">DOI</a>]
