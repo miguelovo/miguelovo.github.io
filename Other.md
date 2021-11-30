@@ -28,7 +28,7 @@ permalink: /Other/
     "Electric Vehicles and the Electric Grid," 
     <em>Handbook of Clean Energy Systems</em>, John Wiley & Sons, 2014. 
     <br />
-    [<a href="http://onlinelibrary.wiley.com/doi/10.1002/9781118991978.hces105/full" target="_blank">http://onlinelibrary.wiley.com/doi/10.1002/9781118991978.hces105/full</a>]
+    [<a href="http://onlinelibrary.wiley.com/doi/10.1002/9781118991978.hces105/full" target="_blank">DOI</a>]
     <br /> 
 </td>
 </tr>  
