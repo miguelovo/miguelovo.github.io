@@ -4,52 +4,63 @@ title: Other
 permalink: /Other/
 ---
 
-<u>Underlining</u> indicates that the co-author is/was a student and <em>italics</em> that the co-author is/was a postdoc. 
 
 <table class="table table-hover">
-<tr>
-<td>
-    [23]
-    <strong>M. A. Ortega-Vazquez</strong>, <u>N. Costilla-Enriquez</u>, E. Ela, A. Tuohy, 
-    "<span style="color:#4582ec">Risk-Based Reserve Procurement</span>,"
-    <em> 2020 International Conference on Probabilistic Methods Applied to Power Systems (PMAPS)</em>, Liege, Belgium, Aug. 18-21, 2020.
-    <br />
-    [<a href="https://doi.org/10.1109/PMAPS47429.2020.9183585" target="_blank">DOI</a>] 
-    [<a href="https://drive.google.com/open?id=1t_7TXVm_i67HH-gsuTnx2A_tVIzWyzoy" target="_blank">BibTeX</a>] 
-    [<a href="https://epri.app.box.com/s/9c2z6s2qjyf56pxefvpvw7fc06bimn9p" target="_blank">Video (EN)</a>] 
-    [<a href="https://epri.app.box.com/s/z2zedfpydnk9in6ic2jyp8q27elthvsm" target="_blank">Video (SP)</a>]     
-    <br /> 
-</td>
-</tr>
-
     
 <tr>
 <td>
-    [22]
-    <u>L. H. Macedo</u>, <strong>M. A. Ortega-Vazquez</strong>, and R. Romero, 
-    "<span style="color:#4582ec">Optimal Distribution Systems Expansion Planning for Improving Service Restoration</span>,” 
-    <em>2018 IEEE PES Transmission & Distribution Conference and Exhibition - Latin America (T&D-LA)</em>, Lima, Peru, 18-21 Sep. 2018.
+    <strong> Solutions Manual</strong> <br />
+    <strong>M. A. Ortega-Vazquez</strong> and D. S. Kirschen, 
+    "Solutions Manual: Fundamentals of Power System Economics," 
+    John Wiley & Sons, 2005 & 2019.
     <br />
-    [<a href="https://doi.org/10.1109/TDC-LA.2018.8511765" target="_blank">DOI</a>]
-    [<a href="https://drive.google.com/open?id=1t_7TXVm_i67HH-gsuTnx2A_tVIzWyzoy" target="_blank">BibTeX</a>]
-    <br /> 
-</td>
-</tr>
-    
-    
-<tr>
-<td>
-    [21]
-    <em>T. A. Nguyen</em>, <em>R. Rigo-Mariani</em>, <strong>M. A. Ortega-Vazquez</strong>, and D. S. Kirschen, 
-    "<span style="color:#4582ec">Voltage Regulation in Distribution Grid Using PV Smart Inverters</span>," 
-    <em>2018 IEEE PES General Meeting</em>, Portland OR, Aug. 2018.
-    <br />
-    [<a href="https://doi.org/10.1109/PESGM.2018.8586453" target="_blank">DOI</a>]
-    [<a href="https://drive.google.com/open?id=1rG3ZxLdoiC_lR1g0086g8as0h99FC5Q8" target="_blank">BibTeX</a>]
-    [<a href="https://drive.google.com/open?id=1KFBBOk3fZEphOTIRWI8HCi3neCn4UvUk" target="_blank">Poster</a>]
+    [<a href="http://www.wiley.com//legacy/wileychi/powersystemeconomics/" target="_blank">1ed</a>]
+    [<a href="http://bcs.wiley.com/he-bcs/Books?action=index&itemId=111921324X&bcsId=11264" target="_blank">2ed</a>]
     <br /> 
 </td>
 </tr>  
+    
+    
+<tr>
+<td>
+    <strong> Book Chapter </strong> <br />
+    <strong>M. A. Ortega-Vazquez</strong> and M. Kintner-Meyer, 
+    "Electric Vehicles and the Electric Grid," 
+    <em>Handbook of Clean Energy Systems</em>, John Wiley & Sons, 2014. 
+    <br />
+    [<a href="http://onlinelibrary.wiley.com/doi/10.1002/9781118991978.hces105/full" target="_blank">http://onlinelibrary.wiley.com/doi/10.1002/9781118991978.hces105/full</a>]
+    <br /> 
+</td>
+</tr>  
+    
+    
+<tr>
+<td>
+    <strong>Ph.D. Dissertation</strong> <br />
+    <strong>M. A. Ortega-Vazquez</strong>, "Optimizing the Spinning Reserve Requirements," 
+    Ph.D. Dissertation, School of Electrical and Electronic Engineering, 
+    <em>The University of Manchester</em>, Manchester, United Kingdom, 2006.
+    <br />
+    [<a href="http://goo.gl/4toaAw" target="_blank">url</a>] 
+    [<a href="https://drive.google.com/open?id=1zq1hrVziHJsA64K77BxfRKmrJ4jMjkLV" target="_blank">BibTeX</a>]   
+    <br /> 
+</td>
+</tr>
+
+    
+<tr>
+<td>
+    <stong/>M.Sc. Thesis </strong> <br />
+    <strong>M. A. Ortega-Vazquez</strong> "Modelado y Simulación Dinámica de Esquemas de Cogeneración," 
+    M.Sc. Thesis, Facultad de Ingeniería Mecánica y Eléctrica, 
+    <em>Universidad Autonóma de Nuevo León</em>, Mexico, 2001.
+    <br />
+    [<a href="https://goo.gl/K3ybOR" target="_blank">url</a>]
+    [<a href="https://drive.google.com/open?id=1_Bes8eExIKUnm3iNcQKsreFu-B1JyQ5t" target="_blank">BibTeX</a>]
+    <br /> 
+</td>
+</tr>
+   
   
 
     
