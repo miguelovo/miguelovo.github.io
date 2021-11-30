@@ -23,7 +23,7 @@ permalink: /Other/
     
 <tr>
 <td>
-    <strong/>M.Sc. Thesis </strong> <br />
+    <strong>M.Sc. Thesis </strong> <br />
     <strong>M. A. Ortega-Vazquez</strong> "Modelado y Simulación Dinámica de Esquemas de Cogeneración," 
     M.Sc. Thesis, Facultad de Ingeniería Mecánica y Eléctrica, 
     <em>Universidad Autonóma de Nuevo León</em>, Mexico, 2001.
