@@ -112,7 +112,7 @@ permalink: /conference procedings/
 <tr>
 <td>
     [16]
-    <u>M. Chuma-Cerbantes</u>, J. R. Sanches-Mantovani, <em>R. Fernandez-Blanco</em>, and M. A. Ortega-Vazquez</strong>, 
+    <u>M. Chuma-Cerbantes</u>, J. R. Sanches-Mantovani, <em>R. Fernandez-Blanco</em>, and <strong>M. A. Ortega-Vazquez</strong>, 
     "<span style="color:#4582ec">Optimal Power Flow with Voltage-Sensitive Loads in Distribution Networks</span>," 
     <em>2016 IEEE PES General Meeting</em>, Boston, MA, USA, 17-21 Jul. 2016.
     <br />
