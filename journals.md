@@ -14,7 +14,7 @@ permalink: /journals/
     [30]
      <u>S. Bhavsar</u>, R. Pitchumani, <strong>M. A. Ortega-Vazquez</strong>, 
     "<span style="color:#4582ec">Machine Learning Enabled Reduced-Order Scenario Generation for Stochastic Analysis of Solar Power Forecasts</span>," 
-    <em>Applied Energy</em>, Vol. 293, Issue X, pp. XX, Jul. 2021.
+    <em>Applied Energy</em>, Vol. 293, pp. 116964, Jul. 2021.
     <br />
     [<a href="https://doi.org/10.1016/j.apenergy.2021.116964">DOI</a>]
     <br /> 
