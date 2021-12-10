@@ -10,21 +10,12 @@ Note that EPRI citations do not include authors' names.  The full list of invest
 
 <table class="table table-hover">
 
-<tr>
-<td>
-    [25]
-    "<span style="color:#4582ec">Overview and Status Update of EPRI's Board of Director's Initiative on Integrated Strategic System Planning</span>," 
-    EPRI, Palo Alto, CA, Rep. No. 3002021643, Dec. 2021.
-    <br />
-    [<a href="https://www.epri.com/research/products/000000003002021643">url</a>] 
-    <br /> 
-</td>
-</tr> 
+
     
     
 <tr>
 <td>
-    [24]
+    [26]
     "<span style="color:#4582ec">Capacity and Ramps Considerations for Dimensioning of Reserve Requirements</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002021780, Dec. 2021.
     <br />
@@ -38,7 +29,7 @@ Note that EPRI citations do not include authors' names.  The full list of invest
  
 <tr>
 <td>
-    [23]
+    [25]
     Program on Technology Innovation: "<span style="color:#4582ec">Dynamic Determination of Contingency Reserves: A Risk-Aware Approach</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002021799, Dec. 2021.
     <br />
@@ -48,6 +39,30 @@ Note that EPRI citations do not include authors' names.  The full list of invest
 </td>
 </tr>
 
+    
+<tr>
+<td>
+    [24]
+    "<span style="color:#4582ec">Overview and Status Update of EPRI's Board of Director's Initiative on Integrated Strategic System Planning</span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002021643, Dec. 2021.
+    <br />
+    [<a href="https://www.epri.com/research/products/000000003002021643">url</a>] 
+    <br /> 
+</td>
+</tr>
+    
+
+<tr>
+<td>
+    [23]
+    "<span style="color:#4582ec">Considering Uncertainty in Long-Term Resource Planning</span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002022004, Dec. 2021.
+    <br />
+    [<a href="https://www.epri.com/research/products/000000003002022004">url</a>] 
+    <br /> 
+</td>
+</tr> 
+    
     
 <tr>
 <td>
