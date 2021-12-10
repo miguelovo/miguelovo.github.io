@@ -12,7 +12,7 @@ Note that EPRI citations do not include authors' names.  The full list of invest
 
 <tr>
 <td>
-    [24]
+    [25]
     "<span style="color:#4582ec">Overview and Status Update of EPRI's Board of Director's Initiative on Integrated Strategic System Planning</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002021643, Dec. 2021.
     <br />
