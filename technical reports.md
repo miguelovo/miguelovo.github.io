@@ -11,6 +11,16 @@ Note that EPRI citations do not include authors' names.  The full list of invest
 <table class="table table-hover">
 
 
+<tr>
+<td>
+    [28]
+    "<span style="color:#4582ec">Generation of Multi-Resolution Scenarios of Stochastic Variables for Operating Planning Studies</span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002023327, Mar. 2022.
+    <br />
+    [<a href="https://www.epri.com/research/products/000000003002023327">url</a>] 
+    <br /> 
+</td>
+</tr> 
     
     
 <tr>
