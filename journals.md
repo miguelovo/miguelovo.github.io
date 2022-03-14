@@ -8,6 +8,18 @@ permalink: /journals/
 
 <table class="table table-hover">
 
+<tr>
+<td>
+    [31]
+    <u>N. Costilla-Enriquez</u>, <strong>M. A. Ortega-Vazquez</strong>, A. Tuohy, A. Motley, and R. Webb,  
+    "<span style="color:#4582ec">Operating Dynamic Reserve Dimensioning Using Probabilistic Forecasts</span>,"
+    <em>IEEE Trans. Power Syst.</em>, Vol. XX, Issue X, pp., XXX. 2022. 
+    <br />
+    [<a href="https://doi.org/10.48550/arXiv.2108.09362" target="_blank">arXiv</a>]
+    <br /> 
+</td>
+</tr>
+    
     
 <tr>
 <td>
@@ -422,7 +434,8 @@ permalink: /journals/
 <td>
     [02]
     <strong>M. A. Ortega-Vazquez</strong> and D. S. Kirschen, 
-    "<span style="color:#4582ec">Optimizing the Spinning Reserve Requirements Using a Cost/Benefit Analysis</span>," <em>IEEE Trans. Power Syst.</em>, Vol. 22, Issue 1, pp. 24-33, Feb. 2007.
+    "<span style="color:#4582ec">Optimizing the Spinning Reserve Requirements Using a Cost/Benefit Analysis</span>," 
+    <em>IEEE Trans. Power Syst.</em>, Vol. 22, Issue 1, pp. 24-33, Feb. 2007.
     <br />
     [<a href="https://doi.org/10.1109/TPWRS.2006.888951" target="_blank">DOI</a>]   
     [<a href="https://drive.google.com/open?id=1bqwxZllnMtJMaqi6SMU7M0odUq5ctMOi" target="_blank">BibTeX</a>] 
