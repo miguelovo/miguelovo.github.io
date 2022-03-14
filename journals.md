@@ -15,6 +15,7 @@ permalink: /journals/
     "<span style="color:#4582ec">Operating Dynamic Reserve Dimensioning Using Probabilistic Forecasts</span>,"
     <em>IEEE Trans. Power Syst.</em>, Vol. XX, Issue X, pp., XXX. 2022. 
     <br />
+    [DOI]
     [<a href="https://doi.org/10.48550/arXiv.2108.09362" target="_blank">arXiv</a>]
     <br /> 
 </td>
