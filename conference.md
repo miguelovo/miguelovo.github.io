@@ -14,7 +14,7 @@ permalink: /conference procedings/
     [24]
     <strong>M. A. Ortega-Vazquez</strong>
     "<span style="color:#4582ec">Generation of Multi-Resolution Scenarios of Stochastic Variables for Operation Planning</span>," 
-    <em>17th International Conference on Probabilistic Methods Applied to Power Systems, PMAPS 2022</em>, Manchester, UK, 12-15 June 2022, (virtual).
+    <em>17th International Conference on Probabilistic Methods Applied to Power Systems, (PMAPS) 2022</em>, Manchester, UK, 12-15 June 2022, (virtual).
     <br />
     [<a href="xxx" target="_blank">DOI</a>]
     <br /> 
