@@ -7,12 +7,28 @@ permalink: /conference procedings/
 <u>Underlining</u> indicates that the co-author is/was a student and <em>italics</em> that the co-author is/was a postdoc. 
 
 <table class="table table-hover">
+    
+    
+<tr>
+<td>
+    [24]
+    <strong>M. A. Ortega-Vazquez</strong>
+    "<span style="color:#4582ec">Generation of Multi-Resolution Scenarios of Stochastic Variables for Operation Planning</span>," 
+    <em>17th International Conference on Probabilistic Methods Applied to Power Systems, PMAPS 2022</em>, Manchester, UK, 12-15 June 2022, (virtual).
+    <br />
+    [<a href="xxx" target="_blank">DOI</a>]
+    <br /> 
+</td>
+</tr>
+    
+    
+    
 <tr>
 <td>
     [23]
     <strong>M. A. Ortega-Vazquez</strong>, <u>N. Costilla-Enriquez</u>, E. Ela, A. Tuohy, 
     "<span style="color:#4582ec">Risk-Based Reserve Procurement</span>,"
-    <em> 2020 International Conference on Probabilistic Methods Applied to Power Systems (PMAPS)</em>, Liege, Belgium, Aug. 18-21, 2020.
+    <em> 2020 International Conference on Probabilistic Methods Applied to Power Systems (PMAPS)</em>, Liege, Belgium, Aug. 18-21, 2020, (virtual).
     <br />
     [<a href="https://doi.org/10.1109/PMAPS47429.2020.9183585" target="_blank">DOI</a>] 
     [<a href="https://drive.google.com/open?id=1t_7TXVm_i67HH-gsuTnx2A_tVIzWyzoy" target="_blank">BibTeX</a>] 
