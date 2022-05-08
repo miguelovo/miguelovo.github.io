@@ -8,15 +8,30 @@ permalink: /journals/
 
 <table class="table table-hover">
 
+
+<tr>
+<td>
+    [32]
+    <em>R. Mieth</em>, Y. Dvorkin, and <strong>M. A. Ortega-Vazquez</strong>,  
+     "<span style="color:#4582ec">Risk-Aware Dimensioning and Procurement of Contingency Reserve</span>,"
+    <em>IEEE Trans. Power Syst.</em>, Vol. XX, Issue X, pp., XXX. 2022. 
+    <br />
+        [<a href="https://xxx" target="_blank">DOI</a>]
+        [<a href="https://doi.org/10.48550/arXiv.2106.00144" target="_blank">arXiv</a>]
+    <br /> 
+</td>
+</tr>
+    
+    
 <tr>
 <td>
     [31]
     <u>N. Costilla-Enriquez</u>, <strong>M. A. Ortega-Vazquez</strong>, A. Tuohy, A. Motley, and R. Webb,  
-    "<span style="color:#4582ec">Operating Dynamic Reserve Dimensioning Using Probabilistic Forecasts</span>,"
+   "<span style="color:#4582ec">Operating Dynamic Reserve Dimensioning Using Probabilistic Forecasts</span>,"
     <em>IEEE Trans. Power Syst.</em>, Vol. XX, Issue X, pp., XXX. 2022. 
     <br />
-    [<a href="https://doi.org/10.1109/TPWRS.2022.3163106" target="_blank">DOI</a>]
-    [<a href="https://doi.org/10.48550/arXiv.2108.09362" target="_blank">arXiv</a>]
+        [<a href="https://doi.org/10.1109/TPWRS.2022.3163106" target="_blank">DOI</a>]
+        [<a href="https://doi.org/10.48550/arXiv.2108.09362" target="_blank">arXiv</a>]
     <br /> 
 </td>
 </tr>
