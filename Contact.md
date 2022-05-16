@@ -23,4 +23,5 @@ permalink: /Contact/
 [Mendeley](https://www.mendeley.com/authors/14919910200/) <br>
 [LinkedIn](https://www.linkedin.com/in/miguel-a-ortega-vazquez/)  <br>
 [ResearchGate](https://www.researchgate.net/profile/Miguel_Ortega-Vazquez)  <br>
+[exaly](https://exaly.com/author/6033054/miguel-a-ortega-vazquez/) <br>
 
