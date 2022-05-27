@@ -18,6 +18,7 @@ Note that EPRI citations do not include authors' names.  The full list of invest
     EPRI, Palo Alto, CA, Rep. No. 3002023327, Mar. 2022.
     <br />
     [<a href="https://www.epri.com/research/products/000000003002023327">url</a>] 
+    [<a href="https://www.epri.com/research/products/000000003002024980">Video</a>] 
     <br /> 
 </td>
 </tr> 
