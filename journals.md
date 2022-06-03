@@ -14,7 +14,7 @@ permalink: /journals/
     [33]
     <u>S. Bhavsar</u>, R. Pitchumani, and <strong>M. A. Ortega-Vazquez</strong>,  
      "<span style="color:#4582ec">A Reforecasting-Based Dynamic Reserve Estimation for Variable Renewable Generation and Demand Uncertainty</span>,"
-    <em>Electric Power Systems Research</em>, pp., 108157. 2022. 
+    <em>Electric Power Systems Research</em>, pp., 108157, 2022. 
     <br />
         [<a href="https://doi.org/10.1016/j.epsr.2022.108157" target="_blank">DOI</a>]
     <br /> 
