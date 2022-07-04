@@ -360,8 +360,8 @@ Note that EPRI citations do not include authors' names.  The full list of invest
 <td>
     [02]
     L. Platbrood, S. Fliscounakis, F. Capitanescu, P. Panciatici, C. Merckx and <strong>M. A. Ortega-Vazquez</strong>, 
-    "<span style="color:#4582ec">D3.2: Development of prototype software for steady-state optimisation of the ETN<span>," 
-    <em>PEGASE</em>, 2011
+    "<span style="color:#4582ec">D3.2: Development of prototype software for steady-state optimisation of the ETN</span>," 
+    <em>PEGASE</em>, 2011.
     <br />
     [<a href="http://www.fp7-pegase.com/download.html">url</a>]
     [<a href="https://drive.google.com/open?id=1Vf9qaPmtnDRg5rkmeB2DDnGrpd3DYAS-" target="_blank">BibTeX</a>] 
