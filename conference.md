@@ -16,7 +16,7 @@ permalink: /conference procedings/
     "<span style="color:#4582ec">Generation of Multi-Resolution Scenarios of Stochastic Variables for Operation Planning</span>," 
     <em>17th International Conference on Probabilistic Methods Applied to Power Systems (PMAPS) 2022</em>, Manchester, UK, 12-15 June 2022, (virtual).
     <br />
-    [<a href="xxx" target="_blank">DOI</a>]
+    [<a href="https://doi.org/10.1109/PMAPS53380.2022.9810581" target="_blank">DOI</a>]
     <br /> 
 </td>
 </tr>
