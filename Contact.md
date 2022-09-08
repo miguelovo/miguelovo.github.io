@@ -11,8 +11,8 @@ permalink: /Contact/
 
 <br>
 Address: 3420 Hillview Avenue, Palo Alto CA, 94304-1338 USA
-e-mail: m.ortega-vazquez@ieee.org
 <br>
+e-mail: m.ortega-vazquez@ieee.org
 <br>
 
 --- Links ---
