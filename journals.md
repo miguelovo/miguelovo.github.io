@@ -395,7 +395,7 @@ permalink: /journals/
     [<a href="https://doi.org/10.1049/iet-gtd.2013.0624" target="_blank">DOI</a>]
     [<a href="https://drive.google.com/open?id=1Eg--qdXWnb5d0gcn_n_CtTikofby30QG" target="_blank">BibTeX</a>] 
     [<a href="https://drive.google.com/open?id=1wWfmYbcn36wnRFxpqD8u7o79lJFBkbtc" target="_blank">Slides</a>] 
-    [<a href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-gtd.2013.0624" target="_blank">Wiley Online</a>] 
+    [<a href="https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-gtd.2013.0624" target="_blank">Online</a>] 
     <br /> 
 </td>
 </tr>
