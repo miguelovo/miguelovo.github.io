@@ -21,8 +21,9 @@ Dr. Ortega-Vazquez's research interests revolve around the development and appli
 </p> 
   
 --------------------
+  
 <p>
-<b>Miguel A. Ortega-Vazquez</b>Miguel A. Ortega-Vázquez, (S'97–M'06–SM'14) recibió el título de Ingeniero Eléctrico del Instituto Tecnológico de Morelia, México, en 1999, el M.Sc. de la Universidad Autónoma de Nuevo León, Nuevo León, México, en 2001, y el Ph.D. de la Universidad de Manchester (anteriormente UMIST), Manchester, Reino Unido, en 2006, todos con énfasis en sistemas de potencia.
+<b>Miguel A. Ortega-Vazquez</b>, (S'97–M'06–SM'14) recibió el título de Ingeniero Eléctrico del Instituto Tecnológico de Morelia, México, en 1999, el M.Sc. de la Universidad Autónoma de Nuevo León, Nuevo León, México, en 2001, y el Ph.D. de la Universidad de Manchester (anteriormente UMIST), Manchester, Reino Unido, en 2006, todos con énfasis en sistemas de potencia.
 <br>
 <br>
 Fue investigador assistente en la Escuela de Ingeniería Eléctrica y Electrónica de la Universidad de Manchester hasta 2010 y Profesor Asistente en el Departamento de Energía y Medio Ambiente de la Universidad Tecnológica de Chalmers, Gotemburgo, Suecia, hasta 2011. En 2012 se incorporó a la Universidad de Washington (UW), Seattle WA, EE. UU., como Profesor Asistente de Investigación, y en 2013 como Profesor Asistente. Todavía es Profesor Asociado Afiliado en la UW. En 2017 se incorporó al grupo de Planificación y Operación de Redes del EPRI, donde es un Administrador de Projectos Principal.
