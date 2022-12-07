@@ -12,6 +12,17 @@ Note that EPRI citations do not include authors' names.  The full list of invest
 
 <tr>
 <td>
+    [31]
+    Program on Technology Innovation: "<span style="color:#4582ec">Weather-Driven Flexibility Reserve Dimensioning Explicit Consideration of Weather Features</span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002024638, Dec. 2022.
+    <br />
+    [<a href="https://xxx">url</a>] 
+    <br /> 
+</td>
+</tr> 
+    
+<tr>
+<td>
     [30]
     "<span style="color:#4582ec">Developing the Expansion Planning Modeling System: Applying Coordinated Expansion Planning to Industry Needs</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002024597, Dec. 2022.
