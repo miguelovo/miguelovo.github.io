@@ -12,7 +12,7 @@ Note that EPRI citations do not include authors' names.  The full list of invest
 
 <tr>
 <td>
-    [31]
+    [32]
     Program on Technology Innovation: "<span style="color:#4582ec">Weather-Driven Flexibility Reserve Dimensioning Explicit Consideration of Weather Features</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002024638, Dec. 2022.
     <br />
@@ -21,9 +21,10 @@ Note that EPRI citations do not include authors' names.  The full list of invest
 </td>
 </tr> 
     
+    
 <tr>
 <td>
-    [30]
+    [31]
     "<span style="color:#4582ec">Developing the Expansion Planning Modeling System: Applying Coordinated Expansion Planning to Industry Needs</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002024597, Dec. 2022.
     <br />
@@ -35,7 +36,7 @@ Note that EPRI citations do not include authors' names.  The full list of invest
     
 <tr>
 <td>
-    [29]
+    [30]
     "<span style="color:#4582ec">Dynamic Parametrization of Contingency Reserves</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002024297, Dec. 2022.
     <br />
@@ -49,7 +50,7 @@ Note that EPRI citations do not include authors' names.  The full list of invest
 
 <tr>
 <td>
-    [28]
+    [29]
     "<span style="color:#4582ec">Generation of Multi-Resolution Scenarios of Stochastic Variables for Operating Planning Studies</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002023327, Mar. 2022.
     <br />
@@ -62,7 +63,7 @@ Note that EPRI citations do not include authors' names.  The full list of invest
     
 <tr>
 <td>
-    [27]
+    [28]
     "<span style="color:#4582ec">Capacity and Ramps Considerations for Dimensioning of Reserve Requirements</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002021780, Dec. 2021.
     <br />
@@ -71,7 +72,18 @@ Note that EPRI citations do not include authors' names.  The full list of invest
     <br /> 
 </td>
 </tr> 
- 
+
+    
+<tr>
+<td>
+    [27]
+    "<span style="color:#4582ec">Video Tutorial: Illustrating Operating Reserve Needs and Methods—Operational Support Tools to Help Meet Variability and Uncertainty, Version 4.0</span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002021781, Nov. 2021.
+    <br />
+    [<a href="https://www.epri.com/research/products/000000003002021781">url</a>] 
+    <br /> 
+</td>
+</tr> 
 
  
 <tr>
