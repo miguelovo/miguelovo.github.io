@@ -218,7 +218,7 @@ permalink: /journals/
     "<span style="color:#4582ec">Optimal Operation of a Battery Energy Storage System: Trade-off between Grid Economics and Storage Health</span>," 
     <em>Electric Power Systems Research</em>, Vol. 152, pp. 342-349, Nov. 2017.
     <br />
-    [<a href="https://doi.org/10.1049/iet-gtd.2016.1014">DOI</a>]
+    [<a href="https://doi.org/10.1016/j.epsr.2017.07.007">DOI</a>]
     [<a href="https://drive.google.com/open?id=1o5OLhU9l6Jq_7PxheRZVy3oIQ8AZZjbP" target="_blank">BibTeX</a>] 
     <br /> 
 </td>
