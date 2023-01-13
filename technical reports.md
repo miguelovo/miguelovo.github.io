@@ -4,7 +4,7 @@ title: Technical Reports
 permalink: /technical teports/
 ---
 
-Note that EPRI citations do not include authors' names.  The full list of investigators available within the report.
+Note that EPRI citations do not include contributors' names.  The list/contacts is available within the report.
 
 
 
