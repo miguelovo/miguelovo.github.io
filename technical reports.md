@@ -29,6 +29,7 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     EPRI, Palo Alto, CA, Rep. No. 3002024597, Dec. 2022.
     <br />
     [<a href="https://www.epri.com/research/products/000000003002024597">url</a>] 
+    [<a href="https://www.epri.com/research/products/000000003002024594">ACEP v1.0</a>] 
     <br /> 
 </td>
 </tr> 
