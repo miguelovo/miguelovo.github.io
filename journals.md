@@ -8,7 +8,19 @@ permalink: /journals/
 
 <table class="table table-hover">
 
-
+<tr>
+<td>
+    [34]
+    <u>S. Bhavsar</u>, R. Pitchumani, <strong>M. A. Ortega-Vazquez</strong>, and N. Costilla-Enriquez,  
+     "<span style="color:#4582ec">A hybrid data-driven and model-based approach for computationally efficient stochastic unit commitment and economic dispatch under wind and solar uncertainty</span>,"
+    <em>International Journal of Electrical Power & Energy Systems</em>, Vol. 151, pp., 109144, 2023. 
+    <br />
+        [<a href="https://doi.org/10.1016/j.ijepes.2023.109144" target="_blank">DOI</a>]
+    <br /> 
+</td>
+</tr>
+    
+    
 <tr>
 <td>
     [33]
