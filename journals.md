@@ -51,9 +51,10 @@ permalink: /journals/
      "<span style="color:#4582ec">Risk-Aware Dimensioning and Procurement of Contingency Reserve</span>,"
     <em>IEEE Trans. Power Syst.</em>, Vol. 38, Issue 2, pp., 1081-1093. Mar. 2023. 
     <br />
+    <p align="right">
         [<a href="https://doi.org/10.1109/TPWRS.2022.3174343" target="_blank">DOI</a>]
         [<a href="https://doi.org/10.48550/arXiv.2106.00144" target="_blank">arXiv</a>]
-    <br /> 
+    </p> 
 </td>
 </tr>
     
