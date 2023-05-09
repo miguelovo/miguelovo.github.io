@@ -194,8 +194,9 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     Program on Technology Innovation: "<span style="color:#4582ec">Integrated Transmission and Distribution Planning of Non-Wires Alternatives: Perspectives on Coordination and Analytics</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002019507, Mar. 2021.
     <br />
+    <p align="right">
     [<a href="https://www.epri.com/research/products/000000003002019507">url</a>] 
-    <br /> 
+    </p> 
 </td>
 </tr>
  
