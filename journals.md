@@ -15,7 +15,7 @@ permalink: /journals/
      "<span style="color:#4582ec">Quantifying the Value of Probabilistic Forecasting for Power System Operation Planning</span>,"
     <em>Applied Energy</em>, Vol. X, pp., X, 2023. 
     <br />
-        <h2 align="right">[<a href="https://doi.org/">DOI</a>]</h2>
+        <h6 align="right">[<a href="https://doi.org/">DOI</a>]</h6>
     <br /> 
 </td>
 </tr>
