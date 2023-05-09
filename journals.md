@@ -15,7 +15,9 @@ permalink: /journals/
      "<span style="color:#4582ec">Quantifying the Value of Probabilistic Forecasting for Power System Operation Planning</span>,"
     <em>Applied Energy</em>, Vol. X, pp., X, 2023. 
     <br />
-        <p align="right">[<a href="https://doi.org/">DOI</a>]</p>
+        <p align="right">
+            [<a href="https://doi.org/">DOI</a>]
+    </p>
 </td>
 </tr>
     
@@ -26,7 +28,9 @@ permalink: /journals/
      "<span style="color:#4582ec">A hybrid data-driven and model-based approach for computationally efficient stochastic unit commitment and economic dispatch under wind and solar uncertainty</span>,"
     <em>International Journal of Electrical Power & Energy Systems</em>, Vol. 151, pp., 109144, 2023. 
     <br />
-        <p align="right">[<a href="https://doi.org/10.1016/j.ijepes.2023.109144" target="_blank">DOI</a>]</p>
+        <p align="right">
+            [<a href="https://doi.org/10.1016/j.ijepes.2023.109144" target="_blank">DOI</a>]
+    </p>
     
 </td>
 </tr>
@@ -39,7 +43,9 @@ permalink: /journals/
      "<span style="color:#4582ec">A Reforecasting-Based Dynamic Reserve Estimation for Variable Renewable Generation and Demand Uncertainty</span>,"
     <em>Electric Power Systems Research</em>, pp., 108157, 2022. 
     <br />
-        <p align="right">[<a href="https://doi.org/10.1016/j.epsr.2022.108157" target="_blank">DOI</a>]</p>
+        <p align="right">
+            [<a href="https://doi.org/10.1016/j.epsr.2022.108157" target="_blank">DOI</a>]
+    </p>
 </td>
 </tr>
     
@@ -66,9 +72,10 @@ permalink: /journals/
    "<span style="color:#4582ec">Operating Dynamic Reserve Dimensioning Using Probabilistic Forecasts</span>,"
     <em>IEEE Trans. Power Syst.</em>, Vol. 38, Issue 1, pp. 603-616, Jan. 2023. 
     <br />
+    <p align="right">
         [<a href="https://doi.org/10.1109/TPWRS.2022.3163106" target="_blank">DOI</a>]
         [<a href="https://doi.org/10.48550/arXiv.2108.09362" target="_blank">arXiv</a>]
-    <br /> 
+    </p> 
 </td>
 </tr>
     
@@ -80,8 +87,9 @@ permalink: /journals/
     "<span style="color:#4582ec">Machine Learning Enabled Reduced-Order Scenario Generation for Stochastic Analysis of Solar Power Forecasts</span>," 
     <em>Applied Energy</em>, Vol. 293, pp. 116964, Jul. 2021.
     <br />
+    <p align="right">
     [<a href="https://doi.org/10.1016/j.apenergy.2021.116964">DOI</a>]
-    <br /> 
+    </p> 
 </td>
 </tr>
     
@@ -93,9 +101,10 @@ permalink: /journals/
     "<span style="color:#4582ec">Research to Develop The Next Generation of Electric Power Capacity Expansion Tools: What Would Address the Needs of Planners?</span>," 
     <em>Int. Journal of Electrical Power & Energy Syst.</em>, Vol. 121, Oct. 2020.
     <br />
+    <p align="right">
     [<a href="https://doi.org/10.1016/j.ijepes.2020.106089">DOI</a>]
     [<a href="https://drive.google.com/file/d/11SAnCP6oRgKc1nPJ7i6SCMl8XzRmSRzA/view?usp=sharing" target="_blank">BibTeX</a>] 
-    <br /> 
+    </p> 
 </td>
 </tr>
     
