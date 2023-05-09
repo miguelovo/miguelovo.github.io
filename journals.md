@@ -26,8 +26,8 @@ permalink: /journals/
      "<span style="color:#4582ec">A hybrid data-driven and model-based approach for computationally efficient stochastic unit commitment and economic dispatch under wind and solar uncertainty</span>,"
     <em>International Journal of Electrical Power & Energy Systems</em>, Vol. 151, pp., 109144, 2023. 
     <br />
-        [<a href="https://doi.org/10.1016/j.ijepes.2023.109144" target="_blank">DOI</a>]
-    <br /> 
+        <p align="right">[<a href="https://doi.org/10.1016/j.ijepes.2023.109144" target="_blank">DOI</a>]</p>
+    
 </td>
 </tr>
     
@@ -39,8 +39,7 @@ permalink: /journals/
      "<span style="color:#4582ec">A Reforecasting-Based Dynamic Reserve Estimation for Variable Renewable Generation and Demand Uncertainty</span>,"
     <em>Electric Power Systems Research</em>, pp., 108157, 2022. 
     <br />
-        [<a href="https://doi.org/10.1016/j.epsr.2022.108157" target="_blank">DOI</a>]
-    <br /> 
+        <p align="right">[<a href="https://doi.org/10.1016/j.epsr.2022.108157" target="_blank">DOI</a>]</p>
 </td>
 </tr>
     
