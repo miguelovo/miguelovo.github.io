@@ -18,7 +18,7 @@ e-mail: &emsp; m.ortega-vazquez@ieee.org
 <br>
 
 --- Links ---
-
+<p align="right">
 [Google Scholar](https://scholar.google.com/citations?user=N59nVKwAAAAJ&hl=en) <br>
 [ORCiD](http://orcid.org/0000-0002-7601-4455) <br>
 [Scopus ID](https://www.scopus.com/authid/detail.uri?authorId=14919910200) <br>
@@ -27,4 +27,5 @@ e-mail: &emsp; m.ortega-vazquez@ieee.org
 [LinkedIn](https://www.linkedin.com/in/miguel-a-ortega-vazquez/)  <br>
 [ResearchGate](https://www.researchgate.net/profile/Miguel_Ortega-Vazquez)  <br>
 [exaly](https://exaly.com/author/6033054/miguel-a-ortega-vazquez/) <br>
+</p>
 
