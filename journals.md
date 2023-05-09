@@ -11,7 +11,7 @@ permalink: /journals/
 <tr>
 <td>
     [35]
-    Q. Wang, A. Tuohy, <strong>M. A. Ortega-Vazquez</strong>, M. Bello, E. Ela, D. Kirk-Davidoff, W. B. Hobbs, D. J. Aultb, and R. Philbrick
+    Q. Wang, A. Tuohy, <strong>M. A. Ortega-Vazquez</strong>, M. Bello, E. Ela, D. Kirk-Davidoff, W. B. Hobbs, D. J. Ault, and R. Philbrick
      "<span style="color:#4582ec">Quantifying the Value of Probabilistic Forecasting for Power System Operation Planning</span>,"
     <em>Applied Energy</em>, Vol. X, pp., X, 2023. 
     <br />
