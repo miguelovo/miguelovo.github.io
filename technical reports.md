@@ -18,7 +18,7 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     <br />
     <p align="right">
     [<a href="https://www.epri.com/research/products/000000003002024638">url</a>] 
-    <\p> 
+    </p> 
 </td>
 </tr> 
     
