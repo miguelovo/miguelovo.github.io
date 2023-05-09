@@ -10,6 +10,18 @@ permalink: /journals/
 
 <tr>
 <td>
+    [35]
+    Q. Wang, A. Tuohy, <strong>M. A. Ortega-Vazquez</strong>, M. Bello, E. Ela, D. Kirk-Davidoff, W. B. Hobbs, D. J. Aultb, and R. Philbrick
+     "<span style="color:#4582ec">Quantifying the Value of Probabilistic Forecasting for Power System Operation Planning</span>,"
+    <em>Applied Energy</em>, Vol. X, pp., X, 2023. 
+    <br />
+        [<a href="https://doi.org/10.1016/j.ijepes.2023.109144" target="_blank">DOI</a>]
+    <br /> 
+</td>
+</tr>
+    
+<tr>
+<td>
     [34]
     <u>S. Bhavsar</u>, R. Pitchumani, <strong>M. A. Ortega-Vazquez</strong>, and N. Costilla-Enriquez,  
      "<span style="color:#4582ec">A hybrid data-driven and model-based approach for computationally efficient stochastic unit commitment and economic dispatch under wind and solar uncertainty</span>,"
