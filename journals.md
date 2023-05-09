@@ -16,7 +16,6 @@ permalink: /journals/
     <em>Applied Energy</em>, Vol. X, pp., X, 2023. 
     <br />
         <p align="right">[<a href="https://doi.org/">DOI</a>]</p>
-    <br /> 
 </td>
 </tr>
     
