@@ -304,9 +304,10 @@ permalink: /journals/
     "<span style="color:#4582ec">Decentralized Coordination of a Building Manager and an Electric Vehicle Aggregator</span>," 
     <em>IEEE Trans. Smart Grid</em>, Vol. 9, Issue 4, pp. 2625-2637, Jul. 2018.
     <br />
+    <p align="right">
     [<a href="https://doi.org/10.1109/TSG.2016.2614768">DOI</a>]
     [<a href="https://drive.google.com/open?id=1qwz0gnKiANFVmPji5DZXILKfNYR9cTKO" target="_blank">BibTeX</a>] 
-    <br /> 
+    </p> 
 </td>
 </tr>
     
