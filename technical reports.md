@@ -17,8 +17,10 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     EPRI, Palo Alto, CA, Rep. No. 3002024638, Dec. 2022.
     <br />
     <p align="right">
+        <samp>
     [<a href="https://www.epri.com/research/products/000000003002024638">url</a>] 
-    </p> 
+    </samp>
+            </p> 
 </td>
 </tr> 
     
