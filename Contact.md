@@ -27,5 +27,5 @@ e-mail: &emsp; m.ortega-vazquez@ieee.org
 [LinkedIn](https://www.linkedin.com/in/miguel-a-ortega-vazquez/)  <br>
 [ResearchGate](https://www.researchgate.net/profile/Miguel_Ortega-Vazquez)  <br>
 [exaly](https://exaly.com/author/6033054/miguel-a-ortega-vazquez/) <br>
-</p>
+
 
