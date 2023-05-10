@@ -340,9 +340,10 @@ permalink: /conference procedings/
         "<span style="color:#4582ec">Generation Investment Evaluation Under Uncertainty in a Competitive Environment</span>," 
         <em>11th International Conference on Probabilistic Methods Applied to Power Systems (PMAPS)</em>, Singapore, 14-17 Jun. 2010.
     <br />
+    <p align="right">
     [<a href="https://doi.org/10.1109/PMAPS.2010.5528421" target="_blank">DOI</a>]
     [<a href="https://drive.google.com/open?id=1cDolSIv1O4Cw5xb0NAl0MSxS7tNxeiOU" target="_blank">BibTeX</a>] 
-    <br /> 
+    </p> 
 </td>
 </tr>
     
