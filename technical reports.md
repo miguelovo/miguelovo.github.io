@@ -193,7 +193,7 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     <p align="right">
         <samp>
     [<a href="https://www.epri.com/research/products/000000003002022431">url</a>] 
-            <samp>
+            </samp>
     </p> 
 </td>
 </tr>
@@ -256,8 +256,10 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     EPRI, Palo Alto, CA, Rep. No. 3002018763, Dec. 2020.
     <br />
     <p align="right">
+        <samp>
     [<a href="https://www.epri.com/research/products/000000003002018763">url</a>] 
     [<a href="https://www.epri.com/research/products/000000003002022654">Video</a>]
+            </samp>
     </p> 
 </td>
 </tr>
