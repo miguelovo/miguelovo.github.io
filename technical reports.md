@@ -32,8 +32,10 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     EPRI, Palo Alto, CA, Rep. No. 3002024597, Dec. 2022.
     <br />
     <p align="right">
+        <samp>
     [<a href="https://www.epri.com/research/products/000000003002024597">url</a>] 
     [<a href="https://www.epri.com/research/products/000000003002024594">ACEP v1.0</a>] 
+            </samp>
     </p> 
 </td>
 </tr> 
@@ -46,10 +48,12 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     EPRI, Palo Alto, CA, Rep. No. 3002024297, Dec. 2022.
     <br />
     <p align="right">
+        <samp>
     [<a href="https://www.epri.com/research/products/000000003002024297">url</a>] 
     [<a href="https://www.epri.com/research/products/000000003002024292">DynADOR v5.1</a>] 
     [<a href="https://www.epri.com/research/products/000000003002026307">DynADOR v5.2</a>] 
     [<a href="https://www.epri.com/research/products/000000003002024295">DynADCR v1.0</a>] 
+            </samp>
     </p> 
 </td>
 </tr> 
@@ -63,8 +67,10 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     EPRI, Palo Alto, CA, Rep. No. 3002023327, Mar. 2022.
     <br />
     <p align="right">
+        <samp>
     [<a href="https://www.epri.com/research/products/000000003002023327">url</a>] 
     [<a href="https://www.epri.com/research/products/000000003002024980">Video</a>] 
+            </samp>
     </p> 
 </td>
 </tr> 
@@ -77,8 +83,10 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     EPRI, Palo Alto, CA, Rep. No. 3002021780, Dec. 2021.
     <br />
     <p align="right">
+        <samp>
     [<a href="https://www.epri.com/research/products/000000003002021780">url</a>] 
     [<a href="https://www.epri.com/research/products/000000003002021778">DynADOR v5.0</a>] 
+            </samp>
     </p> 
 </td>
 </tr> 
@@ -91,7 +99,9 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     EPRI, Palo Alto, CA, Rep. No. 3002021781, Nov. 2021.
     <br />
     <p align="right">
+        <samp>
     [<a href="https://www.epri.com/research/products/000000003002021781">url</a>] 
+            </samp>
     </p> 
 </td>
 </tr> 
@@ -104,8 +114,10 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     EPRI, Palo Alto, CA, Rep. No. 3002021799, Dec. 2021.
     <br />
     <p align="right">
+        <samp>
     [<a href="https://www.epri.com/research/products/000000003002021799">url</a>] 
     [<a href="https://arxiv.org/abs/2106.00144">arXiv</a>] 
+            </samp>
     </p> 
 </td>
 </tr>
