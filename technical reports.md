@@ -130,7 +130,9 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     EPRI, Palo Alto, CA, Rep. No. 3002023154, Dec. 2021.
     <br />
     <p align="right">
+        <samp>
     [<a href="https://www.epri.com/research/products/000000003002023154">url</a>] 
+            </samp>
     </p> 
 </td>
 </tr>
@@ -144,7 +146,9 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     EPRI, Palo Alto, CA, Rep. No. 3002021643, Dec. 2021.
     <br />
     <p align="right">
+        <samp>
     [<a href="https://www.epri.com/research/products/000000003002021643">url</a>] 
+            </samp>
     </p> 
 </td>
 </tr>
@@ -157,7 +161,9 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     EPRI, Palo Alto, CA, Rep. No. 3002022004, Dec. 2021.
     <br />
     <p align="right">
+        <samp>
     [<a href="https://www.epri.com/research/products/000000003002022004">url</a>] 
+            </samp>
     </p> 
 </td>
 </tr> 
@@ -170,7 +176,9 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     EPRI, Palo Alto, CA, Rep. No. 3002023056, Nov. 2021.
     <br />
     <p align="right">
+        <samp>
     [<a href="https://www.epri.com/research/products/000000003002023056">url</a>] 
+            </samp>
     </p> 
 </td>
 </tr>
@@ -183,7 +191,9 @@ Note that EPRI citations do not include contributors' names.  The list is availa
      EPRI, Palo Alto, CA, Rep. No. 3002022431, Jun. 2021
     <br />
     <p align="right">
+        <samp>
     [<a href="https://www.epri.com/research/products/000000003002022431">url</a>] 
+            <samp>
     </p> 
 </td>
 </tr>
@@ -196,7 +206,9 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     EPRI, Palo Alto, CA, Rep. No. 3002018762, Mar. 2021.
     <br />
     <p align="right">
+        <samp>
     [<a href="https://www.epri.com/research/products/000000003002018762">url</a>] 
+            </samp>
     </p> 
 </td>
 </tr>
@@ -209,7 +221,9 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     EPRI, Palo Alto, CA, Rep. No. 3002019507, Mar. 2021.
     <br />
     <p align="right">
+        <samp>
     [<a href="https://www.epri.com/research/products/000000003002019507">url</a>] 
+            </samp>
     </p> 
 </td>
 </tr>
@@ -222,11 +236,13 @@ Note that EPRI citations do not include contributors' names.  The list is availa
  EPRI, Palo Alto, CA, Rep. No. 3002018758, Dec. 2020.
     <br />
     <p align="right">
+        <samp>
     [<a href="https://www.epri.com/research/products/000000003002018758">url</a>] 
     [<a href="https://www.epri.com/research/products/000000003002020169">Risk Video</a>] 
     [<a href="https://www.epri.com/research/products/000000003002018760">DynADOR v4.0</a>] 
     [<a href="https://www.epri.com/research/products/000000003002020419">DynADOR v4.1</a>] 
     [<a href="https://www.epri.com/research/products/000000003002020168">DynADOR Video</a>] 
+            </samp>
     </p> 
 </td>
 </tr>
@@ -254,12 +270,14 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     EPRI, Palo Alto, CA, Rep. No. 3002020160, Dec. 2020.
     <br />
     <p align="right">
+        <samp>
     [<a href="https://www.epri.com/research/products/000000003002020160">url</a>] 
     [<a href="https://www.epri.com/research/products/000000003002018761">JHSMINE v1.0</a>] 
     [<a href="https://www.epri.com/research/products/000000003002021771">JHSMINE v1.1</a>]
     [<a href="https://www.epri.com/research/products/000000003002021770">JHSMINE v2.0</a>] 
     [<a href="https://www.epri.com/research/products/000000003002023567">JHSMINE v2.1</a>] 
     [<a href="https://www.epri.com/research/products/000000003002022654">Video</a>]
+            </samp>
     </p> 
 </td>
 </tr>
@@ -272,7 +290,9 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     EPRI, Palo Alto, CA, Rep. No. 3002017376, Feb. 2020.
     <br />
     <p align="right">
+        <samp>
     [<a href="http://www.epri.com/abstracts/Pages/ProductAbstract.aspx?ProductId=000000003002017376">url</a>] 
+            </samp>
     </p> 
 </td>
 </tr>
@@ -285,7 +305,9 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     EPRI, Palo Alto, CA, Rep. No. 3002016661. Dec. 2019.
     <br />
     <p align="right">
+        <samp>
     [<a href="https://www.epri.com/#/pages/product/000000003002016661/?lang=en-US">url</a>] 
+            </samp>
     </p> 
 </td>
 </tr>
@@ -299,9 +321,11 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     EPRI, Palo Alto, CA, Rep. No. 3002016312. Dec. 2019.
     <br />
     <p align="right">
+        <samp>
     [<a href="https://www.epri.com/#/pages/product/000000003002016312/?lang=en-US">url</a>]
     [<a href="https://www.epri.com/#/pages/product/000000003002016311/?lang=en-US">DynADOR v3.0</a>]
     [<a href="https://epri.box.com/s/xk7niq4vgptpp3kmq6dvdxrcg3h2owfn">Video</a>]    
+            </samp>
     </p> 
 </td>
 </tr>
@@ -314,8 +338,10 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     EPRI, Palo Alto, CA, Rep. No. 3002016693. Jan. 2019.
     <br />
     <p align="right">
+        <samp>
     [<a href="https://www.epri.com/#/pages/product/000000003002016693/?lang=en-US">url</a>]
     [<a href="https://www.ferc.gov/CalendarFiles/20190626080516-2%20-%20Ortega-Vazquez_VoMCUC.PDF">Slides</a>]
+            </samp>
     </p> 
 </td>
 </tr>
@@ -328,9 +354,11 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     EPRI, Palo Alto, CA, Rep. No. 3002017228 & 3002013727, Sep. 2019.
     <br />
     <p align="right">
+        <samp>
     Part 1: "Electric Storage Resources," [<a href="https://www.epri.com/#/pages/product/3002017228/">url</a>].
     <br />
     Part 2: "Dynamic Reserve and Flexibility Assessment," [<a href="https://www.epri.com/#/pages/product/3002013726/">url</a>]
+            </samp>
     </p> 
 </td>
 </tr>
@@ -342,9 +370,11 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     "<span style="color:#4582ec">Feasibility Study for an Energy Storage System Project in Colombia (Celsia)</span>:
     <br />
     <p align="right">
+        <samp>
     Task 2: "Regulatory Assessment" [url]
     <br />
     Task 8: "Technical, Economic, and Regulatory Viability" [url]
+            </samp>
     </p> 
 </td>
 </tr>
@@ -357,9 +387,11 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     EPRI, Palo Alto, CA, Rep. No. 3002013677, Dec. 2018.
     <br />
     <p align="right">
+        <samp>
     [<a href="http://www.epri.com/abstracts/Pages/ProductAbstract.aspx?ProductId=000000003002013677">url</a>]
     [<a href="https://www.epri.com/#/pages/product/000000003002013678/?lang=en-US">DynADOR v2.0</a>]
     [<a href="https://www.epri.com/#/pages/product/000000003002016310/?lang=en-US">DynADOR v2.1</a>]
+            </samp>
     </p> 
 </td>
 </tr>
@@ -372,7 +404,9 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     EPRI, Palo Alto, CA, Rep. No. 3002013679, Dec. 2018.
     <br />
     <p align="right">
+        <samp>
     [<a href="http://www.epri.com/abstracts/Pages/ProductAbstract.aspx?ProductId=000000003002013679">url</a>]
+            </samp>
     </p> 
 </td>
 </tr>
@@ -385,9 +419,11 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     EPRI, Palo Alto, CA, Rep. No. 3002010941, Dec. 2017.
     <br />
     <p align="right">
+        <samp>
     [<a href="http://www.epri.com/abstracts/Pages/ProductAbstract.aspx?ProductId=000000003002010941">url</a>]
     [<a href="https://drive.google.com/open?id=1Qb59__LJMbnavGXB_CSdJGdhMwpzUNoQ">BibTeX</a>]
     [<a href="https://www.epri.com/#/pages/product/000000003002010942/?lang=en-US">DynADOR v1.0</a>]
+            </samp>
     </p> 
 </td>
 </tr>
@@ -400,8 +436,10 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     EPRI, Palo Alto, CA, Rep. No. 3002012155, Nov. 2017.
     <br />
     <p align="right">
+        <samp>
     [<a href="http://www.epri.com/abstracts/Pages/ProductAbstract.aspx?ProductId=000000003002012155">url</a>]
     [<a href="https://drive.google.com/open?id=1Qb59__LJMbnavGXB_CSdJGdhMwpzUNoQ">BibTeX</a>]
+            </samp>
     </p> 
 </td>
 </tr>
@@ -415,7 +453,9 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     Department of Commerce, 2016.
     <br />
     <p align="right">
+        <samp>
     [<a href="http://www.commerce.wa.gov/wp-content/uploads/2019/09/CEF-Bess-Operation-Using-Volttron-Multi-Agent-Platform.pdf">url</a>]
+            </samp>
     </p> 
 </td>
 </tr>
@@ -429,8 +469,10 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     <em>Grid-4-Vehicles</em>, 2011.
     <br />
     <p align="right">
+        <samp>
     [<a href="http://www.g4v.eu/downloads.html">url</a>]
     [<a href="https://drive.google.com/open?id=1oA8LKEuFmwK4GkcGhxEnc1D3N7JsR49I" target="_blank">BibTeX</a>] 
+    </samp>
     </p> 
 </td>
 </tr>
@@ -444,8 +486,10 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     <em>Grid-4-Vehicles</em>, 2011.
     <br />
     <p align="right">
+        <samp>
     [<a href="http://www.g4v.eu/downloads.html">url</a>]
     [<a href="https://drive.google.com/open?id=1P5aF9GKU_OawNArM6iuMZqmIHHtUauH8" target="_blank">BibTeX</a>] 
+            </samp>
     </p> 
 </td>
 </tr>
@@ -459,8 +503,10 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     <em>PEGASE</em>, 2011.
     <br />
     <p align="right">
+        <samp>
     [<a href="http://www.fp7-pegase.com/download.html">url</a>]
     [<a href="https://drive.google.com/open?id=1Vf9qaPmtnDRg5rkmeB2DDnGrpd3DYAS-" target="_blank">BibTeX</a>] 
+            </samp>
     </p> 
 </td>
 </tr>
@@ -474,8 +520,10 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     <em>PEGASE</em>, 2011.
     <br />
     <p align="right">
+        <samp>
     [<a href="http://www.fp7-pegase.com/download.html">url</a>]
     [<a href="https://drive.google.com/open?id=1Vf9qaPmtnDRg5rkmeB2DDnGrpd3DYAS-" target="_blank">BibTeX</a>] 
+            </samp>
     </p> 
 </td>
 </tr>
