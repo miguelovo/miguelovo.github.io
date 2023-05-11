@@ -53,8 +53,8 @@ permalink: /Other Publications/
     <br />
     <p align="right">
         <samp>
-    [<a href="http://www.wiley.com//legacy/wileychi/powersystemeconomics/" target="_blank">1ed</a>]
-    [<a href="http://bcs.wiley.com/he-bcs/Books?action=index&itemId=111921324X&bcsId=11264" target="_blank">2ed</a>]
+    [<a href="http://www.wiley.com//legacy/wileychi/powersystemeconomics/" target="_blank">1st edition</a>]
+    [<a href="http://bcs.wiley.com/he-bcs/Books?action=index&itemId=111921324X&bcsId=11264" target="_blank">2nd edition</a>]
             </samp>
     </p> 
 </td>
