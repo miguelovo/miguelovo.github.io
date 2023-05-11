@@ -155,8 +155,10 @@ permalink: /conference procedings/
     <em>2017 IEEE PES Innovative Smart Grid Technologies Conference (ISGT)</em>, Arlington, VA, 23-26 Apr. 2017.
     <br />
     <p align="right">
+        <samp>
     [<a href="https://doi.org/10.1109/ISGT.2017.8086006" target="_blank">DOI</a>]
     [<a href="https://drive.google.com/open?id=1_2RsxTcM_Bu2CPRd5nWgfcTH28wE4sgp" target="_blank">BibTeX</a>]
+            </samp>
     </p> 
 </td>
 </tr>
