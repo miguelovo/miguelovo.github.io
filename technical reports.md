@@ -33,7 +33,7 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     <br />
     <p align="right">
         <samp>
-    [<a href="https://www.epri.com/research/products/000000003002024597">url</a>] 
+    [<a href="https://www.epri.com/research/products/000000003002024596">url</a>] 
     [<a href="https://www.epri.com/research/products/000000003002024594">ACEP v1.0</a>] 
             </samp>
     </p> 
