@@ -79,7 +79,7 @@ permalink: /journals/
     [31]
     <u>N. Costilla-Enriquez</u>, <strong>M. A. Ortega-Vazquez</strong>, A. Tuohy, A. Motley, and R. Webb,  
    "<span style="color:#4582ec">Operating Dynamic Reserve Dimensioning Using Probabilistic Forecasts</span>,"
-    <em>IEEE Trans. Power Syst.</em>, Vol. 38, Issue 1, pp. 603-616, Jan. 2023. 
+    <em>IEEE Trans. Power Syst.</em>, Vol. 38, Issue 1, pp. 603-616, Jan. 2023.
     <br />
     <p align="right">
         <samp>
