@@ -83,6 +83,7 @@ permalink: /journals/
     <br />
     <p align="right">
         <samp>
+            [<a href="https://drive.google.com/file/d/190Z_iEELDjiAtQmDClYI1ct1JxcRgEQS/view?usp=drive_link">PRA</a>]
         [<a href="https://doi.org/10.1109/TPWRS.2022.3163106" target="_blank">DOI</a>]
         [<a href="https://doi.org/10.48550/arXiv.2108.09362" target="_blank">arXiv</a>]
             </samp>
