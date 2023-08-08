@@ -19,6 +19,7 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     <p align="right">
         <samp>
     [<a href="https://www.epri.com/research/products/000000003002025442">url</a>] 
+    [<a href="https://www.epri.com/optsun">web</a>] 
     </samp>
             </p> 
 </td>
