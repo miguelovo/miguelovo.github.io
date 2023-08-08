@@ -12,6 +12,21 @@ Note that EPRI citations do not include contributors' names.  The list is availa
 
 <tr>
 <td>
+    [33]
+    "<span style="color:#4582ec">Operational Probabilistic Tools for Solar Uncertainty (OPTSUN): Final Project Report for DOE Solar Forecasting II Project</span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002025442, Oct. 2022.
+    <br />
+    <p align="right">
+        <samp>
+    [<a href="https://www.epri.com/research/products/000000003002025442">url</a>] 
+    </samp>
+            </p> 
+</td>
+</tr> 
+
+
+<tr>
+<td>
     [32]
     Program on Technology Innovation: "<span style="color:#4582ec">Weather-Driven Flexibility Reserve Dimensioning Explicit Consideration of Weather Features</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002024638, Dec. 2022.
