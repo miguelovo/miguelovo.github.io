@@ -18,6 +18,7 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     <br />
     <p align="right">
         <samp>
+    [<a href="https://drive.google.com/file/d/190Z_iEELDjiAtQmDClYI1ct1JxcRgEQS/view?usp=drive_link">PRA</a>]
     [<a href="https://www.epri.com/research/products/000000003002025442">url</a>] 
     [<a href="https://www.epri.com/optsun">web</a>] 
     </samp>
