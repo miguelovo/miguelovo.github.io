@@ -14,7 +14,7 @@ Note that EPRI citations do not include contributors' names.  The list is availa
 <td>
     [34]
     "<span style="color:#4582ec">Locational Contingency Reserve Requirements</span>," 
-    EPRI, Palo Alto, CA, Rep. No. 3002025442, Oct. 2022.
+    EPRI, Palo Alto, CA, Rep. No. 3002027152, Oct. 2022.
     <br />
     <p align="right">
         <samp>
