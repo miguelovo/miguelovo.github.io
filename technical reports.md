@@ -12,6 +12,25 @@ Note that EPRI citations do not include contributors' names.  The list is availa
 
 <tr>
 <td>
+    [34]
+    "<span style="color:#4582ec">Locational Contingency Reserve Requirements</span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002025442, Oct. 2022.
+    <br />
+    <p align="right">
+        <samp>
+    [<a href="https://www.epri.com/research/products/000000003002027152">url</a>]
+    [<a href="https://www.epri.com/research/products/000000003002026307">DynADOR v5.2</a>]
+    [<a href="https://www.epri.com/research/products/000000003002027153">DynADCR v2.0</a>]
+    [<a href="https://www.epri.com/research/products/000000003002027155">DynADCR Video</a>] 
+    </samp>
+    </p> 
+</td>
+</tr> 
+
+
+
+<tr>
+<td>
     [33]
     "<span style="color:#4582ec">Operational Probabilistic Tools for Solar Uncertainty (OPTSUN): Final Project Report for DOE Solar Forecasting II Project</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002025442, Oct. 2022.
@@ -22,7 +41,7 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     [<a href="https://www.epri.com/research/products/000000003002025442">url</a>] 
     [<a href="https://www.epri.com/optsun">web</a>] 
     </samp>
-            </p> 
+    </p> 
 </td>
 </tr> 
 
@@ -68,9 +87,7 @@ Note that EPRI citations do not include contributors' names.  The list is availa
         <samp>
     [<a href="https://www.epri.com/research/products/000000003002024297">url</a>] 
     [<a href="https://www.epri.com/research/products/000000003002024292">DynADOR v5.1</a>] 
-    [<a href="https://www.epri.com/research/products/000000003002026307">DynADOR v5.2</a>] 
     [<a href="https://www.epri.com/research/products/000000003002024295">DynADCR v1.0</a>] 
-    [<a href="https://www.epri.com/research/products/000000003002027155">DynADCR Video</a>] 
             </samp>
     </p> 
 </td>
