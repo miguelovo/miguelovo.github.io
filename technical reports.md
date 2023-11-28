@@ -12,7 +12,7 @@ Note that EPRI citations do not include contributors' names.  The list is availa
 
 <tr>
 <td>
-    [35]
+    [36]
     "<span style="color:#4582ec">Locational Contingency Reserve Requirements</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002027152, Dec. 2023.
     <br />
@@ -30,9 +30,24 @@ Note that EPRI citations do not include contributors' names.  The list is availa
 
 <tr>
 <td>
-    [34]
+    [35]
     "<span style="color:#4582ec">Resiliency-Aware Expansion Planning with High-Temporal Fidelity & Chronology</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002027035, Dec. 2023.
+    <br />
+    <p align="right">
+        <samp>
+    [<a href="https://www.epri.com/research/products/000000003002027035">url</a>]
+    </samp>
+    </p> 
+</td>
+</tr> 
+
+
+<tr>
+<td>
+    [34]
+    "<span style="color:#4582ec">Integrated Strategic System Planning Initiative: Modeling Framework, Demonstration Study Results, and Key Insights</span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002028640, Nov. 2023.
     <br />
     <p align="right">
         <samp>
