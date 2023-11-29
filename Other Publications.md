@@ -32,7 +32,7 @@ permalink: /Other Publications/
     <strong>M. A. Ortega-Vazquez</strong> 
     "<span style="color:#4582ec">Modelado y Simulación Dinámica de Esquemas de Cogeneración</span>," 
     M.Sc. Thesis, Facultad de Ingeniería Mecánica y Eléctrica, 
-    <em>Universidad Autonóma de Nuevo León</em>, Mexico, 2001.
+    <em>Universidad Autonóma de Nuevo León</em>, Monterrey, Mexico, 2001.
     <br />
     <p align="right">
         <samp>
