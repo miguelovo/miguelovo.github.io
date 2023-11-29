@@ -52,6 +52,7 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     <p align="right">
         <samp>
     [<a href="https://www.epri.com/research/products/000000003002028640">url</a>]
+    [<a href="https://www.epri.com/issp">web</a>]
     </samp>
     </p> 
 </td>
