@@ -502,7 +502,6 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     <p align="right">
         <samp>
     [<a href="http://www.epri.com/abstracts/Pages/ProductAbstract.aspx?ProductId=000000003002010941">url</a>]
-    [<a href="https://drive.google.com/open?id=1Qb59__LJMbnavGXB_CSdJGdhMwpzUNoQ">BibTeX</a>]
     [<a href="https://www.epri.com/#/pages/product/000000003002010942/?lang=en-US">DynADOR v1.0</a>]
             </samp>
     </p> 
