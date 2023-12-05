@@ -267,7 +267,7 @@ Note that EPRI citations do not include contributors' names.  The list is availa
 <td>
     [21]
     "<span style="color:#4582ec">Dynamic Reserve Requirements to Accommodate VRES Vagaries - California Independent System Operator (CAISO)</span>," 
-     EPRI, Palo Alto, CA, Rep. No. 3002022431, Jun. 2021
+     EPRI, Palo Alto, CA, Rep. No. 3002022431, Jun. 2021.
     <br />
     <p align="right">
         <samp>
