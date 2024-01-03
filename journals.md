@@ -11,7 +11,7 @@ permalink: /journals/
 <tr>
 <td>
     [35]
-    Q. Wang, A. Tuohy, <strong>M. A. Ortega-Vazquez</strong>, M. Bello, E. Ela, D. Kirk-Davidoff, W. B. Hobbs, D. J. Ault, and R. Philbrick
+    Q. Wang, A. Tuohy, <strong>M. A. Ortega-Vazquez</strong>, M. Bello, E. Ela, D. Kirk-Davidoff, W. B. Hobbs, D. J. Ault, and R. Philbrick, 
      "<span style="color:#4582ec">Quantifying the Value of Probabilistic Forecasting for Power System Operation Planning</span>,"
     <em>Applied Energy</em>, Vol. X, pp., X, 2023. 
     <br />
@@ -44,7 +44,7 @@ permalink: /journals/
 <tr>
 <td>
     [33]
-    <u>S. Bhavsar</u>, R. Pitchumani, and <strong>M. A. Ortega-Vazquez</strong>,  
+    <u>S. Bhavsar</u>, R. Pitchumani, and <strong>M. A. Ortega-Vazquez</strong>, 
      "<span style="color:#4582ec">A Reforecasting-Based Dynamic Reserve Estimation for Variable Renewable Generation and Demand Uncertainty</span>,"
     <em>Electric Power Systems Research</em>, pp., 108157, 2022. 
     <br />
