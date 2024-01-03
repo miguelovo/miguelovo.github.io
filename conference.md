@@ -12,7 +12,7 @@ permalink: /conference procedings/
 <tr>
 <td>
     [25]
-    <strong>M. A. Ortega-Vazquez</strong>
+    <strong>M. A. Ortega-Vazquez, </strong>
     "<span style="color:#4582ec">Generation of Multi-Resolution Scenarios of Stochastic Variables for Operation Planning</span>," 
     <em>17th International Conference on Probabilistic Methods Applied to Power Systems (PMAPS) 2022</em>, Manchester, UK, 12-15 June 2022, (virtual).
     <br />
@@ -28,7 +28,7 @@ permalink: /conference procedings/
 <tr>
 <td>
     [24]
-    D. P. Larson, A. Tuohy, D. B Kirk-Davidoff, N. Singhal, Q. Wang, and <strong>M. A. Ortega-Vazquez</strong>
+    D. P. Larson, A. Tuohy, D. B Kirk-Davidoff, N. Singhal, Q. Wang, and <strong>M. A. Ortega-Vazquez, </strong>
     "<span style="color:#4582ec">Operational Probabilistic Tools for Solar Uncertainty Management</span>," 
     <em>101st American Meteorological Society Annual Meeting</em>, 10-15 Jan. 2021, (virtual).
     <br />
