@@ -83,12 +83,12 @@ permalink: /Other Publications/
     <span style="color:#4582ec">Dynamic Assessment and Determination of Operating Reserves</span>: 
     The Dynamic Assessment and Determination of Operating Reserve (DynADOR) tool is a software tool that is used primarily by balancing area authorities, control area authorities, and power system operators.  The tool evaluates historical load, variable renewable energy resources, scheduling parameters, and information on specific reserve definitions/products to compute what the historical operating reserve needs were for every forecasting error.  Based on this, it produces a statistical characterization of the forecast errors to the parametrize reserves for future operating conditions.  Such parametrization can be done based on risk criteria (expectation of reserve shortages), or on probabilistic methods that identify dominant explanatory variables for correlation.  The tool can also use probabilistic forecast to account for uncertainty captured by weather variables that is expected in the near future, and that may have not been captured on historical datasets.  
 DynADOR is a mature tool that has been applied in a variety of contexts by utilities and system operators to determine reserves in actual system operation, cost/benefit studies and comparison against alternatives (e.g., utilization storage resources), determination of reserve requirements in future generation matrices (deep penetrations of renewables), among others.  
-The DynADOR tool is a recipient of EPRI’s Chauncey Award.
+The DynADOR tool is a recipient of 2024 EPRI’s Chauncey Award.
 
     <br />
     <p align="right">
      <samp>
-     [<a href="https://electricpowerresearch.sharepoint.com/sites/ChaunceyAwards" target="_blank">CS_As</a>]
+     [<a href="https://electricpowerresearch.sharepoint.com/sites/ChaunceyAwards" target="_blank">Chauncey_Award</a>]
     [<a href="https://www.epri.com/research/products/000000003002026307" target="_blank">url</a>]
     </samp>
     </p> 
