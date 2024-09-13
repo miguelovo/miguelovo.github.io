@@ -20,6 +20,7 @@ e-mail: &emsp; m.ortega-vazquez@ieee.org
 --- Links ---
 
 [Google Scholar](https://scholar.google.com/citations?user=N59nVKwAAAAJ&hl=en) <br>
+[Semantic Scholar](https://www.semanticscholar.org/author/M.-Ortega-Vazquez/1414289158) <br>
 [ORCiD](http://orcid.org/0000-0002-7601-4455) <br>
 [Scopus ID](https://www.scopus.com/authid/detail.uri?authorId=14919910200) <br>
 [IEEE Xplore](https://ieeexplore.ieee.org/author/38272579300) <br>
