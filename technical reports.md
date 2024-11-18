@@ -12,6 +12,66 @@ Note that EPRI citations do not include contributors' names.  The list is availa
 
 <tr>
 <td>
+    [41]
+    "<span style="color:#4582ec">Energy Storage: Boosting System Performance and Cutting Cost -- But What About Operating Risk?</span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002031321, Dec. 2024.
+    <br />
+    <p align="right">
+        <samp>
+    [<a href="https://www.epri.com/research/products/000000003002031321">url</a>]
+    </samp>
+    </p> 
+</td>
+</tr> 
+
+
+<tr>
+<td>
+    [40]
+    "<span style="color:#4582ec">Risk-Based Flexibility Reserve Dimensioning from Multiple Probabilistic Sources</span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002030176, Dec. 2024.
+    <br />
+    <p align="right">
+        <samp>
+    [<a href="https://www.epri.com/research/products/000000003002030176">url</a>]
+    </samp>
+    </p> 
+</td>
+</tr> 
+
+
+<tr>
+<td>
+    [39]
+    "<span style="color:#4582ec">Contingency Reserve Parametrization with Frequency Response Monitoring</span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002031322, Dec. 2024.
+    <br />
+    <p align="right">
+        <samp>
+    [<a href="https://www.epri.com/research/products/000000003002031322">url</a>]
+    </samp>
+    </p> 
+</td>
+</tr> 
+
+
+<tr>
+<td>
+    [38]
+    "<span style="color:#4582ec">Resilient Coodinated Expansion Planning</span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002029741, Dec. 2024.
+    <br />
+    <p align="right">
+        <samp>
+    [<a href="https://www.epri.com/research/products/000000003002029741">url</a>]
+    </samp>
+    </p> 
+</td>
+</tr> 
+
+
+<tr>
+<td>
     [37]
     "<span style="color:#4582ec">Locational Contingency Reserve Requirements</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002027152, Dec. 2023.
