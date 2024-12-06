@@ -29,7 +29,7 @@ permalink: /journals/
     [34]
     <u>S. Bhavsar</u>, R. Pitchumani, <strong>M. A. Ortega-Vazquez</strong>, and N. Costilla-Enriquez,  
      "<span style="color:#4582ec">A hybrid data-driven and model-based approach for computationally efficient stochastic unit commitment and economic dispatch under wind and solar uncertainty</span>,"
-    <em>International Journal of Electrical Power & Energy Systems</em>, Vol. 151, pp., 109144, 2023. 
+    <em>International Journal of Electrical Power & Energy Systems</em>, Vol. 151, pp., 109144, Sep. 2023. 
     <br />
         <p align="right">
             <samp>
@@ -46,7 +46,7 @@ permalink: /journals/
     [33]
     <u>S. Bhavsar</u>, R. Pitchumani, and <strong>M. A. Ortega-Vazquez</strong>, 
      "<span style="color:#4582ec">A Reforecasting-Based Dynamic Reserve Estimation for Variable Renewable Generation and Demand Uncertainty</span>,"
-    <em>Electric Power Systems Research</em>, pp., 108157, 2022. 
+    <em>Electric Power Systems Research</em>, pp., 108157, Oct. 2022. 
     <br />
         <p align="right">
             <samp>
