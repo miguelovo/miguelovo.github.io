@@ -496,9 +496,9 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     <br />
     <p align="right">
         <samp>
-    Part 1: "Electric Storage Resources" [<a href="https://www.epri.com/#/pages/product/3002017228/">url</a>]
+    Part 1: "Electric Storage Resources" [<a href="https://www.epri.com/research/products/000000003002017228">url</a>]
     <br />
-    Part 2: "Dynamic Reserve and Flexibility Assessment" [<a href="https://www.epri.com/#/pages/product/3002013726/">url</a>]
+    Part 2: "Dynamic Reserve and Flexibility Assessment" [<a href="https://www.epri.com/research/products/000000003002013726">url</a>]
             </samp>
     </p> 
 </td>
@@ -529,7 +529,7 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     <br />
     <p align="right">
         <samp>
-    [<a href="http://www.epri.com/abstracts/Pages/ProductAbstract.aspx?ProductId=000000003002013677">url</a>]
+    [<a href="https://www.epri.com/research/products/000000003002013677">url</a>]
     [<a href="https://www.epri.com/#/pages/product/000000003002013678/?lang=en-US">DynADOR v2.0</a>]
     [<a href="https://www.epri.com/#/pages/product/000000003002016310/?lang=en-US">DynADOR v2.1</a>]
             </samp>
@@ -546,7 +546,7 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     <br />
     <p align="right">
         <samp>
-    [<a href="http://www.epri.com/abstracts/Pages/ProductAbstract.aspx?ProductId=000000003002013679">url</a>]
+    [<a href="https://www.epri.com/research/products/000000003002013679">url</a>]
             </samp>
     </p> 
 </td>
@@ -561,7 +561,7 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     <br />
     <p align="right">
         <samp>
-    [<a href="http://www.epri.com/abstracts/Pages/ProductAbstract.aspx?ProductId=000000003002010941">url</a>]
+    [<a href="https://www.epri.com/research/products/000000003002010941">url</a>]
     [<a href="https://www.epri.com/#/pages/product/000000003002010942/?lang=en-US">DynADOR v1.0</a>]
             </samp>
     </p> 
