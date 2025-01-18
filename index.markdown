@@ -7,7 +7,7 @@ layout: page
 
 <div>
 <!-- <center> -->
-<p style="float: left;"><img src="Files/Vazquez.Miguel-0017me.jpg" alt="" align="left" style="width:200px;margin:0px 30px"></p>
+<p style="float: left;"><img src="Files/Vazquez.Miguel-0017me.png" alt="" align="left" style="width:200px;margin:0px 30px"></p>
 <!-- </center> -->
 
 <p>
