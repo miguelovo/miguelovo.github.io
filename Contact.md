@@ -5,7 +5,7 @@ permalink: /Contact/
 ---
 
 <!-- <center> -->
-<img src="/Files/Ortega-Vazquez_CEI_2e.png" alt="" class="center" width="420">
+<img src="/Files/Ortega-Vazquez_CEI_2e.png" alt="" class="center" width="360">
 <!-- </center> -->
 
 
