@@ -5,6 +5,14 @@
 layout: page
 ---
 
+<head>
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+</head>head
+
+
 <div>
 <!-- <center> -->
 <p style="float: left;"><img src="Files/Vazquez.Miguel-0017me.png" alt="" align="left" style="width:200px;margin:0px 30px"></p>
