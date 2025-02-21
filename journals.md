@@ -17,7 +17,7 @@ permalink: /journals/
     <br />
         <p align="right">
             <samp>
-            [<a href="https://doi.org/10.1016/j.apenergy.2023.121254">DOI</a>]
+            [<a href="https://doi.org/xxx">DOI</a>]
                 </samp>
     </p>
 </td>
