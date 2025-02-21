@@ -11,7 +11,7 @@ permalink: /journals/
 <tr>
 <td>
     [36]
-    Q. Wang,  <strong>M. Ortega-Vazquez</strong>strong>, A. Tuohy,  E. Ela,  M. Bello, D. Kirk-Davidoff, W.B. Hobbs, and <u>V. Kumar</u>, 
+    Q. Wang,  <strong>M. Ortega-Vazquez</strong>, A. Tuohy,  E. Ela,  M. Bello, D. Kirk-Davidoff, W.B. Hobbs, and <u>V. Kumar</u>, 
      "<span style="color:#4582ec">Assessing Dynamic Reserves vs. Stochastic Optimization for Effective Integration of Operating Probabilistic Forecasts</span>,"
     <em>IEEE Trans. on Sust. Energy </em>, Vol. XX, pp.  XX, Month. 2025. 
     <br />
