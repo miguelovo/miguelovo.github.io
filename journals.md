@@ -10,6 +10,23 @@ permalink: /journals/
 
 <tr>
 <td>
+    [36]
+    Q. Wang,  <strong>M. Ortega-Vazquez</strong>strong>, A. Tuohy,  E. Ela,  M. Bello, D. Kirk-Davidoff, W.B. Hobbs, and <u>V. Kumar</u>, 
+     "<span style="color:#4582ec">Assessing Dynamic Reserves vs. Stochastic Optimization for Effective Integration of Operating Probabilistic Forecasts</span>,"
+    <em>IEEE Trans. on Sust. Energy </em>, Vol. XX, pp.  XX, Month. 2025. 
+    <br />
+        <p align="right">
+            <samp>
+            [<a href="https://doi.org/10.1016/j.apenergy.2023.121254">DOI</a>]
+                </samp>
+    </p>
+</td>
+</tr>
+
+
+
+<tr>
+<td>
     [35]
     Q. Wang, A. Tuohy, <strong>M. A. Ortega-Vazquez</strong>, M. Bello, E. Ela, D. Kirk-Davidoff, W. B. Hobbs, D. J. Ault, and R. Philbrick, 
      "<span style="color:#4582ec">Quantifying the Value of Probabilistic Forecasting for Power System Operation Planning</span>,"
