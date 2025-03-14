@@ -12,7 +12,7 @@ Note that EPRI citations do not include contributors' names.  The list is availa
 
 <tr>
 <td>
-    [41]
+    [42]
     "<span style="color:#4582ec">Co-locating Large Loads and Generating Facilities: Exploring Operations, Planning, and Allocation under Co-located Configurations: Summary of the FERC Technical Conference on Large Loads Co-located at Generating Facilities</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002031888, Feb. 2025.
     <br />
