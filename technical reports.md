@@ -12,6 +12,22 @@ Note that EPRI citations do not include contributors' names.  The list is availa
 
 <tr>
 <td>
+    [43]
+    "<span style="color:#4582ec">Uncertainty Agnostic Flexibility Reserve Parametrization</span>," 
+    EPRI, Palo Alto, CA, Rep. No. 300203XXXX, MMM 2025.
+    <br />
+    <p align="right">
+        <samp>
+        [<a href="https://www.epri.com/research/products/00000000300203XXXX">url</a>]
+        [<a href="https://www.epri.com/research/products/00000000300203XXXX">DynADOR-CMD v6.0</a>]
+    </samp>
+    </p> 
+</td>
+</tr> 
+
+
+<tr>
+<td>
     [42]
     "<span style="color:#4582ec">Co-locating Large Loads and Generating Facilities: Exploring Operations, Planning, and Allocation under Co-located Configurations: Summary of the FERC Technical Conference on Large Loads Co-located at Generating Facilities</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002031888, Feb. 2025.
