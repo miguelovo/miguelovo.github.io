@@ -88,7 +88,7 @@ The DynADOR tool is a recipient of 2024 EPRI’s Chauncey Award.
     <br />
     <p align="right">
      <samp>
-     [<a href="https://electricpowerresearch.sharepoint.com/sites/ChaunceyAwards" target="_blank">Chauncey_Award</a>]
+     [<a href="https://electricpowerresearch.sharepoint.com/sites/ChaunceyAwards/SitePages/2024-Chauncey-Award-Winners.aspx" target="_blank">2024_Chauncey_Award</a>]
     [<a href="https://www.epri.com/research/products/000000003002026307" target="_blank">url</a>]
     </samp>
     </p> 
@@ -99,3 +99,4 @@ The DynADOR tool is a recipient of 2024 EPRI’s Chauncey Award.
     
    
 </table>
+
