@@ -9,16 +9,30 @@ Note that EPRI citations do not include contributors' names.  The list is availa
 
 
 <table class="table table-hover">
+<tr>
+<td>
+    [44]
+    "<span style="color:#4582ec">Updating of Day-Ahead Forecasts for Reliable Intra-Day Operations</span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002033051, Dec 2025.
+    <br />
+    <p align="right">
+        <samp>
+        [<a href="https://www.epri.com/research/products/000000003002033051">url</a>]
+    </samp>
+    </p> 
+</td>
+</tr> 
+
 
 <tr>
 <td>
     [43]
-    "<span style="color:#4582ec">Uncertainty Agnostic Flexibility Reserve Parametrization</span>," 
-    EPRI, Palo Alto, CA, Rep. No. 300203XXXX, MMM 2025.
+    "<span style="color:#4582ec">Uncertainty-Agnostic Parametrization of Flexibility Reserves</span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002030843, Dec 2025.
     <br />
     <p align="right">
         <samp>
-        [<a href="https://www.epri.com/research/products/00000000300203XXXX">url</a>]
+        [<a href="https://www.epri.com/research/products/000000003002030843">url</a>]
         [<a href="https://www.epri.com/research/products/000000003002033116">DynADOR-CMD v6.0</a>]
     </samp>
     </p> 
