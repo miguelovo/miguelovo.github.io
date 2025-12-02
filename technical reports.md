@@ -13,7 +13,7 @@ Note that EPRI citations do not include contributors' names.  The list is availa
 <tr>
 <td>
     [45]
-    "<span style="color:#4582ec">Capacity Exoansion Planning with Dynamic Resoution</span>," 
+    "<span style="color:#4582ec">Capacity Expansion Planning with Dynamic Resoution</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002033096, Dec 2025.
     <br />
     <p align="right">
