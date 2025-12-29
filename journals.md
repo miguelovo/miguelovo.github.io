@@ -10,6 +10,23 @@ permalink: /journals/
 
 <tr>
 <td>
+    [37]
+    J. Bukenberger, <strong>M. A. Ortega-Vazquez</strong>, S. Püschel-Løvengreen, and P. Mancarella,  
+   "<span style="color:#4582ec">Integrating Resilience into Transmission and Generation Expansion Planning via Probability-Free, Multi-Criteria, Multi-Hazard Stress Tests</span>,"
+    <em>IEEE Trans. Power Syst.</em>, Vol. XX, Issue YY, pp. ZZ, Mon. 2026.
+    <br />
+    <p align="right">
+        <samp>
+        [<a href="https://doi.org/10.1109/TPWRS.2026.1234567" target="_blank">DOI</a>]
+            </samp>
+    </p> 
+</td>
+</tr>
+
+
+
+<tr>
+<td>
     [36]
     Q. Wang,  <strong>M. A. Ortega-Vazquez</strong>, A. Tuohy,  E. Ela,  M. Bello, D. Kirk-Davidoff, W. B. Hobbs, and <u>V. Kumar</u>, 
      "<span style="color:#4582ec">Assessing Dynamic Reserves vs. Stochastic Optimization for Effective Integration of Operating Probabilistic Forecasts</span>,"
