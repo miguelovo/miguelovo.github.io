@@ -17,7 +17,7 @@ permalink: /journals/
     <br />
     <p align="right">
         <samp>
-        [<a href="https://doi.org/10.1109/TPWRS.2026.1234567" target="_blank">DOI</a>]
+        [<a href="https://doi.org/10.1109/TPWRS.2026.3651225" target="_blank">DOI</a>]
             </samp>
     </p> 
 </td>
