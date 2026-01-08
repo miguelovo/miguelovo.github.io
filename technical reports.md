@@ -28,7 +28,7 @@ Note that EPRI citations do not include contributors' names.  The list is availa
 <tr>
 <td>
     [44]
-    "<span style="color:#4582ec">Updating of Day-Ahead Forecasts for Reliable Intra-Day Operations</span>," 
+    "<span style="color:#4582ec">Conditional Updating of Day-Ahead Forecast Distributions for Reliable Intra-Day Operations</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002033051, Dec 2025.
     <br />
     <p align="right">
