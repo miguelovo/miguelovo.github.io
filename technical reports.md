@@ -57,7 +57,7 @@ Note that EPRI citations do not include contributors' names.  The list is availa
 
 <tr>
 <td>
-    [44]
+    [43]
     "<span style="color:#4582ec">Integrating Data Centers into the Grid: Benefits of Flexibility and Strategic Siting</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002033797, Nov. 2025.
     <br />
