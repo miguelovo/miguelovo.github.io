@@ -12,7 +12,7 @@ Note that EPRI citations do not include contributors' names.  The list is availa
 
 <tr>
 <td>
-    [45]
+    [46]
     "<span style="color:#4582ec">Capacity Expansion Planning with Dynamic Resoution</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002033096, Dec 2025.
     <br />
@@ -27,7 +27,7 @@ Note that EPRI citations do not include contributors' names.  The list is availa
 
 <tr>
 <td>
-    [44]
+    [45]
     "<span style="color:#4582ec">Conditional Updating of Day-Ahead Forecast Distributions for Reliable Intra-Day Operations</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002033051, Dec 2025.
     <br />
@@ -42,14 +42,28 @@ Note that EPRI citations do not include contributors' names.  The list is availa
 
 <tr>
 <td>
-    [43]
+    [44]
     "<span style="color:#4582ec">Uncertainty-Agnostic Parametrization of Flexibility Reserves</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002030843, Dec 2025.
     <br />
     <p align="right">
         <samp>
         [<a href="https://www.epri.com/research/products/000000003002030843">url</a>]
-        [<a href="https://www.epri.com/research/products/000000003002033116">DynADOR-CMD v6.0</a>]
+    </samp>
+    </p> 
+</td>
+</tr> 
+
+
+<tr>
+<td>
+    [44]
+    "<span style="color:#4582ec">Integrating Data Centers into the Grid: Benefits of Flexibility and Strategic Siting</span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002033797, Nov 2025.
+    <br />
+    <p align="right">
+        <samp>
+        [<a href="https://www.epri.com/research/products/000000003002033797">url</a>]
     </samp>
     </p> 
 </td>
