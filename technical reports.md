@@ -43,7 +43,7 @@ Note that EPRI citations do not include contributors' names.  The list is availa
 <tr>
 <td>
     [44]
-    "<span style="color:#4582ec">Uncertainty-Agnostic Parametrization of Flexibility Reserves</span>," 
+    "<span style="color:#4582ec">Source-Agnostic Parametrization of Flexibility Reserves</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002030843, Dec. 2025.
     <br />
     <p align="right">
