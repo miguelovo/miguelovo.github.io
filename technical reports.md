@@ -48,7 +48,7 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     <br />
     <p align="right">
         <samp>
-        [<a href="https://www.epri.com/research/products/00000000300203116">DynADOR v6.0</a>]
+        [<a href="https://www.epri.com/research/products/00000000300203116">DynADOR-CMD v6.0</a>]
         [<a href="https://www.epri.com/research/products/000000003002030843">url</a>]
     </samp>
     </p> 
