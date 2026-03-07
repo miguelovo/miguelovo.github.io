@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Conference Proceedings
-permalink: /conference procedings/
+permalink: /conference-proceedings/
 ---
 
 <u>Underlining</u> indicates that the co-author is/was a student and <em>italics</em> that the co-author is/was a postdoc. 
