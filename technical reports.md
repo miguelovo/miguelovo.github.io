@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Technical Reports
-permalink: /technical teports/
+permalink: /technical-reports/
 ---
 
 Note that EPRI citations do not include contributors' names.  The list is available within the report.
