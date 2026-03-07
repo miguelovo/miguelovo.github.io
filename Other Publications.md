@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Other Publications
-permalink: /Other Publications/
+permalink: /Other-Publications/
 ---
 
 
@@ -99,4 +99,5 @@ The DynADOR tool is a recipient of 2024 EPRI’s Chauncey Award.
     
    
 </table>
+
 
