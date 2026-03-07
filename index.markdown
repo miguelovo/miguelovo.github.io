@@ -37,7 +37,7 @@ Dr. Ortega-Vazquez's research interests revolve around the development and appli
 Fue investigador assistente en la Escuela de Ingeniería Eléctrica y Electrónica de la Universidad de Manchester hasta 2010 y Profesor Asistente en el Departamento de Energía y Medio Ambiente de la Universidad Tecnológica de Chalmers, Gotemburgo, Suecia, hasta 2011. En 2012 se incorporó a la Universidad de Washington (UW), Seattle WA, EE. UU., como Profesor Asistente de Investigación, y en 2013 como Profesor Asistente. Todavía es Profesor Asociado Afiliado en la UW. En 2017 se incorporó al grupo de Planificación y Operación de Redes del EPRI, donde es un Principal.
 <br>
 <br>
-Los intereses de investigación del Dr. Ortega-Vázquez giran en torno al desarrollo y la aplicación de métodos para facilitar una operación y planificación eficiente, segura, y sostenible de los sistemas de energía.
+Los intereses de investigación del Dr. Ortega-Vázquez giran en torno al desarrollo y la aplicación de métodos para facilitar una operación y planificación eficiente, segura, y sustentable de los sistemas de energía.
 </p>
   
 </div>
