@@ -292,6 +292,20 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     <p align="right">
         <samp>
     [<a href="https://www.epri.com/research/products/000000003002024596">url</a>] 
+            </samp>
+    </p> 
+</td>
+</tr> 
+
+
+<tr>
+<td>
+    [31]
+    "<span style="color:#4582ec">Adaptive Coordinated Expansion Planning - ACEP v1.0</span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002024594, Dec. 2022.
+    <br />
+    <p align="right">
+        <samp>
     [<a href="https://www.epri.com/research/products/000000003002024594">ACEP v1.0</a>] 
             </samp>
     </p> 
@@ -308,13 +322,39 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     <p align="right">
         <samp>
     [<a href="https://www.epri.com/research/products/000000003002024297">url</a>] 
-    [<a href="https://www.epri.com/research/products/000000003002024292">DynADOR v5.1</a>] 
-    [<a href="https://www.epri.com/research/products/000000003002024295">DynADCR v1.0</a>] 
             </samp>
     </p> 
 </td>
 </tr> 
        
+
+<tr>
+<td>
+    [30]
+    "<span style="color:#4582ec">Dynamic Assessment and Determination of Contingency Reserve - DynADCR v1.0</span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002024295, Dec. 2022.
+    <br />
+    <p align="right">
+        <samp>
+    [<a href="https://www.epri.com/research/products/000000003002024295">DynADCR v1.0</a>] 
+            </samp>
+    </p> 
+</td>
+</tr> 
+
+<tr>
+<td>
+    [30]
+    "<span style="color:#4582ec">Dynamic Assessment and Determination of Operating Reserves - DynADOR v5.1</span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002024292, Dec. 2022.
+    <br />
+    <p align="right">
+        <samp>
+    [<a href="https://www.epri.com/research/products/000000003002024292">DynADOR v5.1</a>] 
+            </samp>
+    </p> 
+</td>
+</tr> 
  
 
 <tr>
