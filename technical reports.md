@@ -12,7 +12,7 @@ Note that EPRI citations do not include contributors' names.  The list is availa
 
 <tr>
 <td>
-    [47]
+    [52]
     "<span style="color:#4582ec">Capacity Expansion Planning with Dynamic Resolution</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002033096, Dec. 2025.
     <br />
@@ -27,7 +27,7 @@ Note that EPRI citations do not include contributors' names.  The list is availa
 
 <tr>
 <td>
-    [46]
+    [51]
     "<span style="color:#4582ec">Conditional Updating of Day-Ahead Forecast Distributions for Reliable Intra-Day Operations</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002033051, Dec. 2025.
     <br />
@@ -42,7 +42,7 @@ Note that EPRI citations do not include contributors' names.  The list is availa
 
 <tr>
 <td>
-    [45]
+    [50]
     "<span style="color:#4582ec">Source-Agnostic Parametrization of Flexibility Reserves</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002030843, Dec. 2025.
     <br />
@@ -57,7 +57,7 @@ Note that EPRI citations do not include contributors' names.  The list is availa
 
 <tr>
 <td>
-    [44]
+    [49]
     "<span style="color:#4582ec">Dynamic Assesment and Determination of Operating Reserves - DynADOR-CMD v6.0 </span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002033116, May 2025.
     <br />
@@ -72,7 +72,7 @@ Note that EPRI citations do not include contributors' names.  The list is availa
 
 <tr>
 <td>
-    [43]
+    [48]
     "<span style="color:#4582ec">Integrating Data Centers into the Grid: Benefits of Flexibility and Strategic Siting</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002033797, Nov. 2025.
     <br />
@@ -87,7 +87,7 @@ Note that EPRI citations do not include contributors' names.  The list is availa
 
 <tr>
 <td>
-    [42]
+    [47]
     "<span style="color:#4582ec">Co-locating Large Loads and Generating Facilities: Exploring Operations, Planning, and Allocation under Co-located Configurations: Summary of the FERC Technical Conference on Large Loads Co-located at Generating Facilities</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002031888, Feb. 2025.
     <br />
@@ -102,7 +102,7 @@ Note that EPRI citations do not include contributors' names.  The list is availa
 
 <tr>
 <td>
-    [41]
+    [46]
     "<span style="color:#4582ec">Energy Storage: Boosting System Performance and Cutting Cost -- But What About Operating Risk?</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002031321, Dec. 2024.
     <br />
@@ -117,7 +117,7 @@ Note that EPRI citations do not include contributors' names.  The list is availa
 
 <tr>
 <td>
-    [40]
+    [45]
     "<span style="color:#4582ec">Risk-Based Flexibility Reserve Dimensioning from Multiple Probabilistic Sources</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002030176, Dec. 2024.
     <br />
@@ -132,7 +132,7 @@ Note that EPRI citations do not include contributors' names.  The list is availa
 
 <tr>
 <td>
-    [39]
+    [44]
     "<span style="color:#4582ec">Contingency Reserve Parametrization with Frequency Response Monitoring</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002031322, Dec. 2024.
     <br />
@@ -147,7 +147,7 @@ Note that EPRI citations do not include contributors' names.  The list is availa
 
 <tr>
 <td>
-    [38]
+    [43]
     "<span style="color:#4582ec">Resilient Coordinated Expansion Planning</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002029741, Dec. 2024.
     <br />
@@ -162,7 +162,7 @@ Note that EPRI citations do not include contributors' names.  The list is availa
 
 <tr>
 <td>
-    [37]
+    [42]
     "<span style="color:#4582ec">Locational Contingency Reserve Requirements</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002027152, Dec. 2023.
     <br />
@@ -177,7 +177,7 @@ Note that EPRI citations do not include contributors' names.  The list is availa
 
 <tr>
 <td>
-    [37]
+    [41]
     "<span style="color:#4582ec">Dynamic Assessment and Dertermination of Operating Reserves - DynADOR v5.2</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002026307, Mar. 2023.
     <br />
@@ -192,7 +192,7 @@ Note that EPRI citations do not include contributors' names.  The list is availa
 
 <tr>
 <td>
-    [37]
+    [40]
     "<span style="color:#4582ec">Dynamic Assessment and Dertermination of Contingency Reserves - DynADCR v2.0</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002027153, Mar. 2023.
     <br />
@@ -208,7 +208,7 @@ Note that EPRI citations do not include contributors' names.  The list is availa
 
 <tr>
 <td>
-    [36]
+    [39]
     "<span style="color:#4582ec">Resiliency-Aware Expansion Planning with High-Temporal Fidelity & Chronology</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002027035, Dec. 2023.
     <br />
@@ -222,7 +222,7 @@ Note that EPRI citations do not include contributors' names.  The list is availa
 
 <tr>
 <td>
-    [35]
+    [38]
     "<span style="color:#4582ec">Assessment of Long-Duration Storage Resources in Expansion Planning</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002027040, Mar. 2024.
     <br />
@@ -237,7 +237,7 @@ Note that EPRI citations do not include contributors' names.  The list is availa
 
 <tr>
 <td>
-    [34]
+    [37]
     "<span style="color:#4582ec">Integrated Strategic System Planning Initiative: Modeling Framework, Demonstration Study Results, and Key Insights</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002028640, Nov. 2023.
     <br />
@@ -253,7 +253,7 @@ Note that EPRI citations do not include contributors' names.  The list is availa
 
 <tr>
 <td>
-    [33]
+    [36]
     "<span style="color:#4582ec">Operational Probabilistic Tools for Solar Uncertainty (OPTSUN): Final Project Report for DOE Solar Forecasting II Project</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002025442, Oct. 2022.
     <br />
@@ -270,7 +270,7 @@ Note that EPRI citations do not include contributors' names.  The list is availa
 
 <tr>
 <td>
-    [32]
+    [35]
     Program on Technology Innovation: "<span style="color:#4582ec">Weather-Driven Flexibility Reserve Dimensioning Explicit Consideration of Weather Features</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002024638, Dec. 2022.
     <br />
@@ -285,7 +285,7 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     
 <tr>
 <td>
-    [31]
+    [34]
     "<span style="color:#4582ec">Developing the Expansion Planning Modeling System: Applying Coordinated Expansion Planning to Industry Needs</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002024597, Dec. 2022.
     <br />
@@ -300,7 +300,7 @@ Note that EPRI citations do not include contributors' names.  The list is availa
 
 <tr>
 <td>
-    [31]
+    [33]
     "<span style="color:#4582ec">Adaptive Coordinated Expansion Planning - ACEP v1.0</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002024594, Dec. 2022.
     <br />
@@ -315,7 +315,7 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     
 <tr>
 <td>
-    [30]
+    [32]
     "<span style="color:#4582ec">Dynamic Parametrization of Contingency Reserves</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002024297, Dec. 2022.
     <br />
@@ -330,7 +330,7 @@ Note that EPRI citations do not include contributors' names.  The list is availa
 
 <tr>
 <td>
-    [30]
+    [31]
     "<span style="color:#4582ec">Dynamic Assessment and Determination of Contingency Reserve - DynADCR v1.0</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002024295, Dec. 2022.
     <br />
