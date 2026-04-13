@@ -169,9 +169,6 @@ Note that EPRI citations do not include contributors' names.  The list is availa
     <p align="right">
         <samp>
     [<a href="https://www.epri.com/research/products/000000003002027152">url</a>]
-    [<a href="https://www.epri.com/research/products/000000003002026307">DynADOR v5.2</a>]
-    [<a href="https://www.epri.com/research/products/000000003002027153">DynADCR v2.0</a>]
-    [<a href="https://www.epri.com/research/products/000000003002027155">DynADCR Video</a>] 
     </samp>
     </p> 
 </td>
@@ -197,7 +194,7 @@ Note that EPRI citations do not include contributors' names.  The list is availa
 <td>
     [37]
     "<span style="color:#4582ec">Dynamic Assessment and Dertermination of Contingency Reserves - DynADCR v2.0</span>," 
-    EPRI, Palo Alto, CA, Rep. No. 3002026307, Mar. 2023.
+    EPRI, Palo Alto, CA, Rep. No. 3002027153, Mar. 2023.
     <br />
     <p align="right">
         <samp>
