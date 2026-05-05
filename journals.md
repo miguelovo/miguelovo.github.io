@@ -18,7 +18,8 @@ permalink: /journals/
     <p align="right">
         <samp>
         [<a href="https://doi.org/10.1109/TPWRS.2026.3651225" target="_blank">DOI</a>]
-            </samp>
+        [<a href="https://drive.google.com/file/d/175ygItwYiJ6AjeEVq8rh5on1VaUJT6wj/view?usp=drive_link">BibTeX</a>] 
+        </samp>
     </p> 
 </td>
 </tr>
@@ -35,7 +36,8 @@ permalink: /journals/
         <p align="right">
             <samp>
             [<a href="https://doi.org/10.1109/TSTE.2025.3547561">DOI</a>]
-                </samp>
+            [<a href="https://drive.google.com/file/d/1fKTjJRgl3h8GugK5TvcI0J1OHe3K_LG0/view?usp=drive_link">BibTeX</a>] 
+            </samp>
     </p>
 </td>
 </tr>
@@ -152,7 +154,7 @@ permalink: /journals/
         <samp>
     [<a href="https://doi.org/10.1016/j.ijepes.2020.106089">DOI</a>]
     [<a href="https://drive.google.com/file/d/11SAnCP6oRgKc1nPJ7i6SCMl8XzRmSRzA/view?usp=sharing" target="_blank">BibTeX</a>] 
-            </samp>
+        </samp>
     </p> 
 </td>
 </tr>
