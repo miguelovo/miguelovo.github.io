@@ -54,7 +54,8 @@ permalink: /journals/
         <p align="right">
             <samp>
             [<a href="https://doi.org/10.1016/j.apenergy.2023.121254">DOI</a>]
-                </samp>
+            [<a href="https://drive.google.com/file/d/1hJgJWswRHlOYaS7JnNRb5vPVrNLquc9y/view?usp=drive_link">BibTeX</a>] 
+            </samp>
     </p>
 </td>
 </tr>
@@ -70,7 +71,8 @@ permalink: /journals/
         <p align="right">
             <samp>
             [<a href="https://doi.org/10.1016/j.ijepes.2023.109144" target="_blank">DOI</a>]
-                </samp>
+            [<a href="https://drive.google.com/file/d/1O54K1ZyZ7AVX49XPekkC3NHpY1MKXLYv/view?usp=drive_link">BibTeX</a>] 
+            </samp>
     </p>
     
 </td>
@@ -87,7 +89,8 @@ permalink: /journals/
         <p align="right">
             <samp>
             [<a href="https://doi.org/10.1016/j.epsr.2022.108157" target="_blank">DOI</a>]
-                </samp>
+             [<a href="https://drive.google.com/file/d/1zrC0Pc8JG3W8mAsln_kRavn_vKXP-_28/view?usp=drive_link">BibTeX</a>]     
+            </samp>
     </p>
 </td>
 </tr>
