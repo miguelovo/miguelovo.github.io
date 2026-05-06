@@ -18,8 +18,9 @@ permalink: /conferences/
     <br />
     <p align="right">
         <samp>
-    [<a href="https://doi.org/10.1109/PMAPS53380.2022.9810581" target="_blank">DOI</a>]
-            </samp>
+        [<a href="https://doi.org/10.1109/PMAPS53380.2022.9810581" target="_blank">DOI</a>]
+        [<a href="https://drive.google.com/file/d/1i7ovmr-ZndVDWHmos2rOuX97Kv9FFih5/view?usp=drive_link">BibTeX</a>] 
+        </samp>
     </p> 
 </td>
 </tr>
@@ -34,8 +35,8 @@ permalink: /conferences/
     <br />
     <p align="right">
         <samp>
-    [<a href="https://ams.confex.com/ams/101ANNUAL/meetingapp.cgi/Paper/384037" target="_blank">url</a>]
-            </samp>
+        [<a href="https://ams.confex.com/ams/101ANNUAL/meetingapp.cgi/Paper/384037" target="_blank">url</a>]
+        </samp>
     </p> 
 </td>
 </tr>
@@ -50,11 +51,11 @@ permalink: /conferences/
     <br />
     <p align="right">
         <samp>
-    [<a href="https://doi.org/10.1109/PMAPS47429.2020.9183585" target="_blank">DOI</a>] 
-    [<a href="https://drive.google.com/open?id=1t_7TXVm_i67HH-gsuTnx2A_tVIzWyzoy" target="_blank">BibTeX</a>] 
-    [<a href="https://epri.app.box.com/s/9c2z6s2qjyf56pxefvpvw7fc06bimn9p" target="_blank">Video (EN)</a>] 
-    [<a href="https://epri.app.box.com/s/z2zedfpydnk9in6ic2jyp8q27elthvsm" target="_blank">Video (SP)</a>]     
-            </samp>
+        [<a href="https://doi.org/10.1109/PMAPS47429.2020.9183585" target="_blank">DOI</a>] 
+        [<a href="https://drive.google.com/open?id=1t_7TXVm_i67HH-gsuTnx2A_tVIzWyzoy" target="_blank">BibTeX</a>] 
+        [<a href="https://epri.app.box.com/s/9c2z6s2qjyf56pxefvpvw7fc06bimn9p" target="_blank">Video (EN)</a>] 
+        [<a href="https://epri.app.box.com/s/z2zedfpydnk9in6ic2jyp8q27elthvsm" target="_blank">Video (SP)</a>]     
+        </samp>
     </p> 
 </td>
 </tr>
