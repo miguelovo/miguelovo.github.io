@@ -107,7 +107,8 @@ permalink: /journals/
         <samp>
         [<a href="https://doi.org/10.1109/TPWRS.2022.3174343" target="_blank">DOI</a>]
         [<a href="https://doi.org/10.48550/arXiv.2106.00144" target="_blank">arXiv</a>]
-            </samp>
+        [<a href="https://drive.google.com/file/d/1iUQEYerj6yrA4hUV_DdLdrFqzkOKRdu6/view?usp=drive_link">BibTeX</a>] 
+        </samp>
     </p> 
 </td>
 </tr>
@@ -124,7 +125,8 @@ permalink: /journals/
         <samp>
         [<a href="https://doi.org/10.1109/TPWRS.2022.3163106" target="_blank">DOI</a>]
         [<a href="https://doi.org/10.48550/arXiv.2108.09362" target="_blank">arXiv</a>]
-            </samp>
+        [<a href="https://drive.google.com/file/d/10VqyydOR6JxmkmXUde0_ZNNY6qWFqeR7/view?usp=drive_link">BibTeX</a>] 
+        </samp>
     </p> 
 </td>
 </tr>
@@ -139,8 +141,9 @@ permalink: /journals/
     <br />
     <p align="right">
         <samp>
-    [<a href="https://doi.org/10.1016/j.apenergy.2021.116964">DOI</a>]
-            </samp>
+        [<a href="https://doi.org/10.1016/j.apenergy.2021.116964">DOI</a>]
+        [<a href="https://drive.google.com/file/d/1PYaKlEUVJEDyxZIUnldNCNSFznpQ-Dxq/view?usp=drive_link">BibTeX</a>] 
+        </samp>
     </p> 
 </td>
 </tr>
