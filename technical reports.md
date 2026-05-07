@@ -12,7 +12,7 @@ Note that EPRI’s citation format does not include contributor names; authorshi
 
 <tr>
 <td>
-    [52]
+    [53]
     "<span style="color:#4582ec">Capacity Expansion Planning with Dynamic Resolution</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002033096, Dec. 2025.
     <br />
@@ -27,7 +27,7 @@ Note that EPRI’s citation format does not include contributor names; authorshi
 
 <tr>
 <td>
-    [51]
+    [52]
     "<span style="color:#4582ec">Conditional Updating of Day-Ahead Forecast Distributions for Reliable Intra-Day Operations</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002033051, Dec. 2025.
     <br />
@@ -42,13 +42,28 @@ Note that EPRI’s citation format does not include contributor names; authorshi
 
 <tr>
 <td>
-    [50]
+    [51]
     "<span style="color:#4582ec">Source-Agnostic Parametrization of Flexibility Reserves</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002030843, Dec. 2025.
     <br />
     <p align="right">
         <samp>
         [<a href="https://www.epri.com/research/products/000000003002030843">url</a>]
+    </samp>
+    </p> 
+</td>
+</tr> 
+
+
+<tr>
+<td>
+    [50]
+    "<span style="color:#4582ec">owerful Pathways of Transmission: Transmission Expansion for Robust System Development</span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002034143, Dec. 2025.
+    <br />
+    <p align="right">
+        <samp>
+        [<a href="https://www.epri.com/research/products/000000003002034123">url</a>]
     </samp>
     </p> 
 </td>
