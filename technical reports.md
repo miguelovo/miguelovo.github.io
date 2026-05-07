@@ -58,7 +58,7 @@ Note that EPRI’s citation format does not include contributor names; authorshi
 <tr>
 <td>
     [50]
-    "<span style="color:#4582ec">owerful Pathways of Transmission: Transmission Expansion for Robust System Development</span>," 
+    "<span style="color:#4582ec">Powerful Pathways of Transmission: Transmission Expansion for Robust System Development</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002034143, Dec. 2025.
     <br />
     <p align="right">
