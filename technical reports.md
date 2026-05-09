@@ -605,8 +605,8 @@ Note that EPRI’s citation format does not include contributor names; authorshi
     <br />
     <p align="right">
         <samp>
-    [<a href="http://www.epri.com/abstracts/Pages/ProductAbstract.aspx?ProductId=000000003002017376">url</a>] 
-            </samp>
+        [<a href="http://www.epri.com/abstracts/Pages/ProductAbstract.aspx?ProductId=000000003002017376">url</a>] 
+        </samp>
     </p> 
 </td>
 </tr>
@@ -620,26 +620,74 @@ Note that EPRI’s citation format does not include contributor names; authorshi
     <br />
     <p align="right">
         <samp>
-    [<a href="https://www.epri.com/#/pages/product/000000003002016661/?lang=en-US">url</a>] 
-            </samp>
+        [<a href="https://www.epri.com/#/pages/product/000000003002016661/?lang=en-US">url</a>] 
+        </samp>
     </p> 
 </td>
 </tr>
     
     
-    
 <tr>
 <td>
-    [13]
+    [16]
     "<span style="color:#4582ec">Probabilistic Dynamic Reserve Determination and Risk Assessment</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002016312. Dec. 2019.
     <br />
     <p align="right">
         <samp>
-    [<a href="https://www.epri.com/#/pages/product/000000003002016312/?lang=en-US">url</a>]
-    [<a href="https://www.epri.com/#/pages/product/000000003002016311/?lang=en-US">DynADOR v3.0</a>]
-    [<a href="https://epri.box.com/s/xk7niq4vgptpp3kmq6dvdxrcg3h2owfn">Video</a>]    
-            </samp>
+        [<a href="https://www.epri.com/#/pages/product/000000003002016312/?lang=en-US">url</a>]
+        [<a href="https://www.epri.com/#/pages/product/000000003002016311/?lang=en-US">DynADOR v3.0</a>]
+        [<a href="https://epri.box.com/s/xk7niq4vgptpp3kmq6dvdxrcg3h2owfn">Video</a>]    
+        </samp>
+    </p> 
+</td>
+</tr>
+    
+    
+<tr>
+<td>
+    [15]
+    "<span style="color:#4582ec">Value of Modeling Constraints in Generation Scheduling - Towards Computationally Efficient Scheduling Proxies for Planning or Other Applications</span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002016693. Jan. 2019.
+    <br />
+    <p align="right">
+        <samp>
+        [<a href="https://www.epri.com/#/pages/product/000000003002016693/?lang=en-US">url</a>]
+        [<a href="https://www.ferc.gov/CalendarFiles/20190626080516-2%20-%20Ortega-Vazquez_VoMCUC.PDF">Slides</a>]
+        </samp>
+    </p> 
+</td>
+</tr>
+    
+    
+<tr>
+<td>
+    [14]
+    "<span style="color:#4582ec">Variable Resource Mitigation Strategies for the Tennessee Valley Authority</span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002017228 & 3002013727, Sep. 2019.
+    <br />
+    <p align="right">
+        <samp>
+        Part 1: "Electric Storage Resources" [<a href="https://www.epri.com/research/products/000000003002017228">url</a>]
+        <br />
+        Part 2: "Dynamic Reserve and Flexibility Assessment" [<a href="https://www.epri.com/research/products/000000003002013726">url</a>]
+        </samp>
+    </p> 
+</td>
+</tr>
+    
+    
+<tr>
+<td>
+    [13]
+    "<span style="color:#4582ec">Feasibility Study for an Energy Storage System Project in Colombia (Celsia)</span>:
+    <br />
+    <p align="right">
+        <samp>
+        Task 2: "Regulatory Assessment" [url]
+        <br />
+        Task 8: "Technical, Economic, and Regulatory Viability" [url]
+        </samp>
     </p> 
 </td>
 </tr>
@@ -648,64 +696,58 @@ Note that EPRI’s citation format does not include contributor names; authorshi
 <tr>
 <td>
     [12]
-    "<span style="color:#4582ec">Value of Modeling Constraints in Generation Scheduling - Towards Computationally Efficient Scheduling Proxies for Planning or Other Applications</span>," 
-    EPRI, Palo Alto, CA, Rep. No. 3002016693. Jan. 2019.
-    <br />
-    <p align="right">
-        <samp>
-    [<a href="https://www.epri.com/#/pages/product/000000003002016693/?lang=en-US">url</a>]
-    [<a href="https://www.ferc.gov/CalendarFiles/20190626080516-2%20-%20Ortega-Vazquez_VoMCUC.PDF">Slides</a>]
-            </samp>
-    </p> 
-</td>
-</tr>
-    
-    
-<tr>
-<td>
-    [11]
-    "<span style="color:#4582ec">Variable Resource Mitigation Strategies for the Tennessee Valley Authority</span>," 
-    EPRI, Palo Alto, CA, Rep. No. 3002017228 & 3002013727, Sep. 2019.
-    <br />
-    <p align="right">
-        <samp>
-    Part 1: "Electric Storage Resources" [<a href="https://www.epri.com/research/products/000000003002017228">url</a>]
-    <br />
-    Part 2: "Dynamic Reserve and Flexibility Assessment" [<a href="https://www.epri.com/research/products/000000003002013726">url</a>]
-            </samp>
-    </p> 
-</td>
-</tr>
-    
-    
-<tr>
-<td>
-    [10]
-    "<span style="color:#4582ec">Feasibility Study for an Energy Storage System Project in Colombia (Celsia)</span>:
-    <br />
-    <p align="right">
-        <samp>
-    Task 2: "Regulatory Assessment" [url]
-    <br />
-    Task 8: "Technical, Economic, and Regulatory Viability" [url]
-            </samp>
-    </p> 
-</td>
-</tr>
-    
-    
-<tr>
-<td>
-    [09]
     "<span style="color:#4582ec">Advanced Methods for Dynamic Reserve Requirement Forecasting</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002013677, Dec. 2018.
     <br />
     <p align="right">
         <samp>
-    [<a href="https://www.epri.com/research/products/000000003002013677">url</a>]
-    [<a href="https://www.epri.com/#/pages/product/000000003002013678/?lang=en-US">DynADOR v2.0</a>]
-    [<a href="https://www.epri.com/#/pages/product/000000003002016310/?lang=en-US">DynADOR v2.1</a>]
-            </samp>
+        [<a href="https://www.epri.com/research/products/000000003002013677">url</a>]
+        </samp>
+    </p> 
+</td>
+</tr>
+
+
+<tr>
+<td>
+    [11]
+    "<span style="color:#4582ec">Dynamic Assessment and Determination of Operating Reserves - DynADOR v2.1 </span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002016310, Dec. 2018.
+    <br />
+    <p align="right">
+        <samp>
+        [<a href="https://www.epri.com/research/products/000000003002016310">DynADOR v2.1</a>]
+        </samp>
+    </p> 
+</td>
+</tr> 
+
+
+<tr>
+<td>
+    [10]
+    "<span style="color:#4582ec">Dynamic Assessment and Determination of Operating Reserves - DynADOR v2.0 </span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002013678, Dec. 2018.
+    <br />
+    <p align="right">
+        <samp>
+        [<a href="https://www.epri.com/research/products/000000003002013678">DynADOR v2.0</a>]
+        </samp>
+    </p> 
+</td>
+</tr> 
+
+    
+<tr>
+<td>
+    [09]
+    "<span style="color:#4582ec">Reserve and Flexibility Products to Facilitate the Integration of Variable Energy Resources: A Survey of Recent U.S. and International Experiences</span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002013679, Dec. 2018.
+    <br />
+    <p align="right">
+        <samp>
+        [<a href="https://www.epri.com/research/products/000000003002013679">url</a>]
+        </samp>
     </p> 
 </td>
 </tr>
@@ -714,21 +756,6 @@ Note that EPRI’s citation format does not include contributor names; authorshi
 <tr>
 <td>
     [08]
-    "<span style="color:#4582ec">Reserve and Flexibility Products to Facilitate the Integration of Variable Energy Resources: A Survey of Recent U.S. and International Experiences</span>," 
-    EPRI, Palo Alto, CA, Rep. No. 3002013679, Dec. 2018.
-    <br />
-    <p align="right">
-        <samp>
-    [<a href="https://www.epri.com/research/products/000000003002013679">url</a>]
-            </samp>
-    </p> 
-</td>
-</tr>
-    
-    
-<tr>
-<td>
-    [07]
     "<span style="color:#4582ec">An Enhanced Dynamic Reserve Method for Balancing Areas: A Dynamic Reserve Method for Balancing Areas with High Levels of Variability and Uncertainty on Their System and Case Studies Showing the Performance of These Methods</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002010941, Dec. 2017.
     <br />
@@ -745,7 +772,7 @@ Note that EPRI’s citation format does not include contributor names; authorshi
 <td>
     [07]
     "<span style="color:#4582ec">Dynamic Assessment and Determination of Operating Reserves - DynADOR v1.0 </span>," 
-    EPRI, Palo Alto, CA, Rep. No. 3002010941, May 2017.
+    EPRI, Palo Alto, CA, Rep. No. 3002010941, Dec. 2017.
     <br />
     <p align="right">
         <samp>
@@ -764,9 +791,9 @@ Note that EPRI’s citation format does not include contributor names; authorshi
     <br />
     <p align="right">
         <samp>
-    [<a href="http://www.epri.com/abstracts/Pages/ProductAbstract.aspx?ProductId=000000003002012155">url</a>]
-    [<a href="https://drive.google.com/open?id=1Qb59__LJMbnavGXB_CSdJGdhMwpzUNoQ">BibTeX</a>]
-            </samp>
+        [<a href="http://www.epri.com/abstracts/Pages/ProductAbstract.aspx?ProductId=000000003002012155">url</a>]
+        [<a href="https://drive.google.com/open?id=1Qb59__LJMbnavGXB_CSdJGdhMwpzUNoQ">BibTeX</a>]
+        </samp>
     </p> 
 </td>
 </tr>
@@ -781,8 +808,8 @@ Note that EPRI’s citation format does not include contributor names; authorshi
     <br />
     <p align="right">
         <samp>
-    [<a href="http://www.commerce.wa.gov/wp-content/uploads/2019/09/CEF-Bess-Operation-Using-Volttron-Multi-Agent-Platform.pdf">url</a>]
-            </samp>
+        [<a href="http://www.commerce.wa.gov/wp-content/uploads/2019/09/CEF-Bess-Operation-Using-Volttron-Multi-Agent-Platform.pdf">url</a>]
+        </samp>
     </p> 
 </td>
 </tr>
@@ -797,9 +824,9 @@ Note that EPRI’s citation format does not include contributor names; authorshi
     <br />
     <p align="right">
         <samp>
-    [<a href="http://www.g4v.eu/downloads.html">url</a>]
-    [<a href="https://drive.google.com/open?id=1oA8LKEuFmwK4GkcGhxEnc1D3N7JsR49I" target="_blank">BibTeX</a>] 
-    </samp>
+        [<a href="http://www.g4v.eu/downloads.html">url</a>]
+        [<a href="https://drive.google.com/open?id=1oA8LKEuFmwK4GkcGhxEnc1D3N7JsR49I" target="_blank">BibTeX</a>] 
+        </samp>
     </p> 
 </td>
 </tr>
@@ -814,9 +841,9 @@ Note that EPRI’s citation format does not include contributor names; authorshi
     <br />
     <p align="right">
         <samp>
-    [<a href="http://www.g4v.eu/downloads.html">url</a>]
-    [<a href="https://drive.google.com/open?id=1P5aF9GKU_OawNArM6iuMZqmIHHtUauH8" target="_blank">BibTeX</a>] 
-            </samp>
+        [<a href="http://www.g4v.eu/downloads.html">url</a>]
+        [<a href="https://drive.google.com/open?id=1P5aF9GKU_OawNArM6iuMZqmIHHtUauH8" target="_blank">BibTeX</a>] 
+        </samp>
     </p> 
 </td>
 </tr>
@@ -831,9 +858,9 @@ Note that EPRI’s citation format does not include contributor names; authorshi
     <br />
     <p align="right">
         <samp>
-    [<a href="http://www.fp7-pegase.com/download.html">url</a>]
-    [<a href="https://drive.google.com/open?id=1Vf9qaPmtnDRg5rkmeB2DDnGrpd3DYAS-" target="_blank">BibTeX</a>] 
-            </samp>
+        [<a href="http://www.fp7-pegase.com/download.html">url</a>]
+        [<a href="https://drive.google.com/open?id=1Vf9qaPmtnDRg5rkmeB2DDnGrpd3DYAS-" target="_blank">BibTeX</a>] 
+        </samp>
     </p> 
 </td>
 </tr>
@@ -848,9 +875,9 @@ Note that EPRI’s citation format does not include contributor names; authorshi
     <br />
     <p align="right">
         <samp>
-    [<a href="http://www.fp7-pegase.com/download.html">url</a>]
-    [<a href="https://drive.google.com/open?id=1Vf9qaPmtnDRg5rkmeB2DDnGrpd3DYAS-" target="_blank">BibTeX</a>] 
-            </samp>
+        [<a href="http://www.fp7-pegase.com/download.html">url</a>]
+        [<a href="https://drive.google.com/open?id=1Vf9qaPmtnDRg5rkmeB2DDnGrpd3DYAS-" target="_blank">BibTeX</a>] 
+        </samp>
     </p> 
 </td>
 </tr>
