@@ -73,7 +73,7 @@ Note that EPRI’s citation format does not include contributor names; authorshi
 <tr>
 <td>
     [49]
-    "<span style="color:#4582ec">Dynamic Assesment and Determination of Operating Reserves - DynADOR-CMD v6.0 </span>," 
+    "<span style="color:#4582ec">Dynamic Assessment and Determination of Operating Reserves - DynADOR-CMD v6.0 </span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002033116, May 2025.
     <br />
     <p align="right">
@@ -734,13 +734,27 @@ Note that EPRI’s citation format does not include contributor names; authorshi
     <br />
     <p align="right">
         <samp>
-    [<a href="https://www.epri.com/research/products/000000003002010941">url</a>]
-    [<a href="https://www.epri.com/#/pages/product/000000003002010942/?lang=en-US">DynADOR v1.0</a>]
-            </samp>
+        [<a href="https://www.epri.com/research/products/000000003002010941">url</a>]
+        </samp>
     </p> 
 </td>
 </tr>
-    
+
+
+<tr>
+<td>
+    [07]
+    "<span style="color:#4582ec">Dynamic Assessment and Determination of Operating Reserves - DynADOR v1.0 </span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002010941, May 2017.
+    <br />
+    <p align="right">
+        <samp>
+        [<a href="https://www.epri.com/research/products/000000003002010942">DynADOR v1.0</a>]
+        </samp>
+    </p> 
+</td>
+</tr> 
+
     
 <tr>
 <td>
