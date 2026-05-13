@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Technical Reports
-permalink: /reports/
+title: Software
+permalink: /software/
 ---
 
-Note that EPRI’s citation format does not include contributor names; authorship is instead documented within the report itself.
-
+Note that EPRI’s citation format does not include contributor names in software deliverables.
 
 
 <table class="table table-hover">
