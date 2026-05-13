@@ -41,12 +41,12 @@ plugins:
   - jekyll-sitemap
 
 header_pages:
+  - Contact.md
+  - conference.md
   - journals.md
   - technical reports.md
   - Software.md
-  - Contact.md
   - Other Publications.md
-  - conference.md
 
 
 # Exclude from processing.
