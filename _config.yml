@@ -42,9 +42,9 @@ plugins:
 
 header_pages:
   - journals.md
-  - reports.md
-  - software.md
-  - contact.md
+  - technical reports.md
+  - Software.md
+  - Contact.md
   - Other Publications.md
   - conference.md
 
