@@ -118,39 +118,47 @@ Note that EPRI’s citation format does not include contributor names in softwar
 </td>
 </tr>
  
- 
+<tr>
+<td>
+    [06]
+    "<span style="color:#4582ec">Johns Hopkins Stochastic Multi-stage Integrated Network Expansion - JHSMINE v1.1</span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002021771, Dec. 2020.
+    <br />
+    <p align="right">
+        <samp>
+        [<a href="https://www.epri.com/research/products/000000003002021771">JHSMINE v1.1</a>]
+        [<a href="https://www.epri.com/research/products/000000003002021770">JHSMINE v2.0</a>] 
+        [<a href="https://www.epri.com/research/products/000000003002023567">JHSMINE v2.1</a>] 
+        [<a href="https://www.epri.com/research/products/000000003002022654">Video</a>]
+        </samp>
+    </p> 
+</td>
+</tr> 
     
     
 <tr>
 <td>
-    [16]
-    Program on Technology Innovation: "<span style="color:#4582ec">Coordinated Expansion Planning with Increased Temporal Resolution: Decomposition Solutions</span>," 
-    EPRI, Palo Alto, CA, Rep. No. 3002020160, Dec. 2020.
+    [05]
+    "<span style="color:#4582ec">Johns Hopkins Stochastic Multi-stage Integrated Network Expansion - JHSMINE v1.0</span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002018761, Dec. 2020.
     <br />
     <p align="right">
         <samp>
-    [<a href="https://www.epri.com/research/products/000000003002020160">url</a>] 
-    [<a href="https://www.epri.com/research/products/000000003002018761">JHSMINE v1.0</a>] 
-    [<a href="https://www.epri.com/research/products/000000003002021771">JHSMINE v1.1</a>]
-    [<a href="https://www.epri.com/research/products/000000003002021770">JHSMINE v2.0</a>] 
-    [<a href="https://www.epri.com/research/products/000000003002023567">JHSMINE v2.1</a>] 
-    [<a href="https://www.epri.com/research/products/000000003002022654">Video</a>]
-            </samp>
+        [<a href="https://www.epri.com/research/products/000000003002018761">JHSMINE v1.0</a>] 
+        </samp>
     </p> 
 </td>
 </tr>
     
     
-    
 <tr>
 <td>
-    [16]
-    "<span style="color:#4582ec">Probabilistic Dynamic Reserve Determination and Risk Assessment</span>," 
-    EPRI, Palo Alto, CA, Rep. No. 3002016312. Dec. 2019.
+    [04]
+    "<span style="color:#4582ec">Dynamic Assessment and Determination of Operating Reserves - DynADOR v3.0</span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002016311. Dec. 2019.
     <br />
     <p align="right">
         <samp>
-        [<a href="https://www.epri.com/#/pages/product/000000003002016312/?lang=en-US">url</a>]
         [<a href="https://www.epri.com/#/pages/product/000000003002016311/?lang=en-US">DynADOR v3.0</a>]
         [<a href="https://epri.box.com/s/xk7niq4vgptpp3kmq6dvdxrcg3h2owfn">Video</a>]    
         </samp>
