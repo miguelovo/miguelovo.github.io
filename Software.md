@@ -159,10 +159,9 @@ Note that EPRI’s citation format does not include contributor names in softwar
 </tr>
     
 
-
 <tr>
 <td>
-    [11]
+    [03]
     "<span style="color:#4582ec">Dynamic Assessment and Determination of Operating Reserves - DynADOR v2.1 </span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002016310, Dec. 2018.
     <br />
@@ -177,7 +176,7 @@ Note that EPRI’s citation format does not include contributor names in softwar
 
 <tr>
 <td>
-    [10]
+    [02]
     "<span style="color:#4582ec">Dynamic Assessment and Determination of Operating Reserves - DynADOR v2.0 </span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002013678, Dec. 2018.
     <br />
@@ -192,7 +191,7 @@ Note that EPRI’s citation format does not include contributor names in softwar
 
 <tr>
 <td>
-    [07]
+    [01]
     "<span style="color:#4582ec">Dynamic Assessment and Determination of Operating Reserves - DynADOR v1.0 </span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002010941, Dec. 2017.
     <br />
