@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Other Publications
+title: Other Pubs.
 permalink: /Other-Publications/
 ---
 
