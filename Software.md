@@ -11,7 +11,7 @@ Note that EPRI’s citation format does not include contributor names in softwar
 
 <tr>
 <td>
-    [16]
+    [17]
     "<span style="color:#4582ec">Dynamic Assessment and Determination of Operating Reserves - DynADOR-CMD v6.0 </span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002033116, May 2025.
     <br />
@@ -26,7 +26,7 @@ Note that EPRI’s citation format does not include contributor names in softwar
 
 <tr>
 <td>
-    [15]
+    [16]
     "<span style="color:#4582ec">Dynamic Assessment and Dertermination of Operating Reserves - DynADOR v5.2</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002026307, Mar. 2023.
     <br />
@@ -41,7 +41,7 @@ Note that EPRI’s citation format does not include contributor names in softwar
 
 <tr>
 <td>
-    [14]
+    [15]
     "<span style="color:#4582ec">Dynamic Assessment and Dertermination of Contingency Reserves - DynADCR v2.0</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002027153, Mar. 2023.
     <br />
@@ -54,9 +54,10 @@ Note that EPRI’s citation format does not include contributor names in softwar
 </td>
 </tr> 
 
+
 <tr>
 <td>
-    [13]
+    [14]
     "<span style="color:#4582ec">Adaptive Coordinated Expansion Planning - ACEP v1.0</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002024594, Dec. 2022.
     <br />
@@ -71,7 +72,7 @@ Note that EPRI’s citation format does not include contributor names in softwar
 
 <tr>
 <td>
-    [12]
+    [13]
     "<span style="color:#4582ec">Dynamic Assessment and Determination of Contingency Reserve - DynADCR v1.0</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002024295, Dec. 2022.
     <br />
@@ -86,7 +87,7 @@ Note that EPRI’s citation format does not include contributor names in softwar
 
 <tr>
 <td>
-    [11]
+    [12]
     "<span style="color:#4582ec">Dynamic Assessment and Determination of Operating Reserves - DynADOR v5.1</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002024292, Dec. 2022.
     <br />
@@ -97,7 +98,22 @@ Note that EPRI’s citation format does not include contributor names in softwar
     </p> 
 </td>
 </tr> 
+
  
+<tr>
+<td>
+    [11]
+    "<span style="color:#4582ec">Dynamic Assessment and Determination of Operating Reserves - DynADOR v5.0 </span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002021778, Dec. 2021.
+    <br />
+    <p align="right">
+        <samp>
+         [<a href="https://www.epri.com/research/products/000000003002021778">DynADOR v5.0</a>] 
+        </samp>
+    </p> 
+</td>
+</tr> 
+
 
 <tr>
 <td>
