@@ -12,7 +12,7 @@ Note that EPRI’s citation format does not include contributor names; authorshi
 
 <tr>
 <td>
-    [53]
+    [48]
     "<span style="color:#4582ec">Capacity Expansion Planning with Dynamic Resolution</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002033096, Dec. 2025.
     <br />
@@ -27,7 +27,7 @@ Note that EPRI’s citation format does not include contributor names; authorshi
 
 <tr>
 <td>
-    [52]
+    [47]
     "<span style="color:#4582ec">Conditional Updating of Day-Ahead Forecast Distributions for Reliable Intra-Day Operations</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002033051, Dec. 2025.
     <br />
@@ -42,7 +42,7 @@ Note that EPRI’s citation format does not include contributor names; authorshi
 
 <tr>
 <td>
-    [51]
+    [46]
     "<span style="color:#4582ec">Source-Agnostic Parametrization of Flexibility Reserves</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002030843, Dec. 2025.
     <br />
@@ -57,7 +57,7 @@ Note that EPRI’s citation format does not include contributor names; authorshi
 
 <tr>
 <td>
-    [50]
+    [45]
     "<span style="color:#4582ec">Powerful Pathways of Transmission: Transmission Expansion for Robust System Development</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002034143, Dec. 2025.
     <br />
@@ -72,22 +72,7 @@ Note that EPRI’s citation format does not include contributor names; authorshi
 
 <tr>
 <td>
-    [49]
-    "<span style="color:#4582ec">Dynamic Assessment and Determination of Operating Reserves - DynADOR-CMD v6.0 </span>," 
-    EPRI, Palo Alto, CA, Rep. No. 3002033116, May 2025.
-    <br />
-    <p align="right">
-        <samp>
-        [<a href="https://www.epri.com/research/products/000000003002033116">DynADOR-CMD v6.0</a>]
-    </samp>
-    </p> 
-</td>
-</tr> 
-
-
-<tr>
-<td>
-    [48]
+    [44]
     "<span style="color:#4582ec">Integrating Data Centers into the Grid: Benefits of Flexibility and Strategic Siting</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002033797, Nov. 2025.
     <br />
@@ -102,7 +87,7 @@ Note that EPRI’s citation format does not include contributor names; authorshi
 
 <tr>
 <td>
-    [47]
+    [43]
     "<span style="color:#4582ec">Co-locating Large Loads and Generating Facilities: Exploring Operations, Planning, and Allocation under Co-located Configurations: Summary of the FERC Technical Conference on Large Loads Co-located at Generating Facilities</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002031888, Feb. 2025.
     <br />
@@ -117,7 +102,7 @@ Note that EPRI’s citation format does not include contributor names; authorshi
 
 <tr>
 <td>
-    [46]
+    [42]
     "<span style="color:#4582ec">Energy Storage: Boosting System Performance and Cutting Cost -- But What About Operating Risk?</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002031321, Dec. 2024.
     <br />
@@ -132,7 +117,7 @@ Note that EPRI’s citation format does not include contributor names; authorshi
 
 <tr>
 <td>
-    [45]
+    [40]
     "<span style="color:#4582ec">Risk-Based Flexibility Reserve Dimensioning from Multiple Probabilistic Sources</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002030176, Dec. 2024.
     <br />
@@ -147,7 +132,7 @@ Note that EPRI’s citation format does not include contributor names; authorshi
 
 <tr>
 <td>
-    [44]
+    [39]
     "<span style="color:#4582ec">Contingency Reserve Parametrization with Frequency Response Monitoring</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002031322, Dec. 2024.
     <br />
@@ -162,14 +147,14 @@ Note that EPRI’s citation format does not include contributor names; authorshi
 
 <tr>
 <td>
-    [43]
+    [38]
     "<span style="color:#4582ec">Resilient Coordinated Expansion Planning</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002029741, Dec. 2024.
     <br />
     <p align="right">
         <samp>
-    [<a href="https://www.epri.com/research/products/000000003002029741">url</a>]
-    </samp>
+        [<a href="https://www.epri.com/research/products/000000003002029741">url</a>]
+        </samp>
     </p> 
 </td>
 </tr> 
@@ -177,14 +162,14 @@ Note that EPRI’s citation format does not include contributor names; authorshi
 
 <tr>
 <td>
-    [42]
+    [37]
     "<span style="color:#4582ec">Locational Contingency Reserve Requirements</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002027152, Dec. 2023.
     <br />
     <p align="right">
         <samp>
-    [<a href="https://www.epri.com/research/products/000000003002027152">url</a>]
-    </samp>
+        [<a href="https://www.epri.com/research/products/000000003002027152">url</a>]
+        </samp>
     </p> 
 </td>
 </tr> 
@@ -192,38 +177,7 @@ Note that EPRI’s citation format does not include contributor names; authorshi
 
 <tr>
 <td>
-    [41]
-    "<span style="color:#4582ec">Dynamic Assessment and Dertermination of Operating Reserves - DynADOR v5.2</span>," 
-    EPRI, Palo Alto, CA, Rep. No. 3002026307, Mar. 2023.
-    <br />
-    <p align="right">
-        <samp>
-    [<a href="https://www.epri.com/research/products/000000003002026307">DynADOR v5.2</a>]
-    </samp>
-    </p> 
-</td>
-</tr> 
-
-
-<tr>
-<td>
-    [40]
-    "<span style="color:#4582ec">Dynamic Assessment and Dertermination of Contingency Reserves - DynADCR v2.0</span>," 
-    EPRI, Palo Alto, CA, Rep. No. 3002027153, Mar. 2023.
-    <br />
-    <p align="right">
-        <samp>
-    [<a href="https://www.epri.com/research/products/000000003002027153">DynADCR v2.0</a>]
-    [<a href="https://www.epri.com/research/products/000000003002027155">DynADCR Video</a>] 
-    </samp>
-    </p> 
-</td>
-</tr> 
-
-
-<tr>
-<td>
-    [39]
+    [36]
     "<span style="color:#4582ec">Resiliency-Aware Expansion Planning with High-Temporal Fidelity & Chronology</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002027035, Dec. 2023.
     <br />
@@ -235,16 +189,17 @@ Note that EPRI’s citation format does not include contributor names; authorshi
 </td>
 </tr> 
 
+
 <tr>
 <td>
-    [38]
+    [35]
     "<span style="color:#4582ec">Assessment of Long-Duration Storage Resources in Expansion Planning</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002027040, Mar. 2024.
     <br />
     <p align="right">
         <samp>
-    [<a href="https://www.epri.com/research/products/000000003002027040">url</a>]
-    </samp>
+        [<a href="https://www.epri.com/research/products/000000003002027040">url</a>]
+        </samp>
     </p> 
 </td>
 </tr> 
@@ -252,62 +207,15 @@ Note that EPRI’s citation format does not include contributor names; authorshi
 
 <tr>
 <td>
-    [37]
+    [34]
     "<span style="color:#4582ec">Integrated Strategic System Planning Initiative: Modeling Framework, Demonstration Study Results, and Key Insights</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002028640, Nov. 2023.
     <br />
     <p align="right">
         <samp>
-    [<a href="https://www.epri.com/research/products/000000003002028640">url</a>]
-    [<a href="https://www.epri.com/issp">web</a>]
-    </samp>
-    </p> 
-</td>
-</tr> 
-
-
-<tr>
-<td>
-    [36]
-    "<span style="color:#4582ec">Operational Probabilistic Tools for Solar Uncertainty (OPTSUN): Final Project Report for DOE Solar Forecasting II Project</span>," 
-    EPRI, Palo Alto, CA, Rep. No. 3002025442, Oct. 2022.
-    <br />
-    <p align="right">
-        <samp>
-    [<a href="https://drive.google.com/file/d/190Z_iEELDjiAtQmDClYI1ct1JxcRgEQS/view?usp=drive_link">PRA</a>]
-    [<a href="https://www.epri.com/research/products/000000003002025442">url</a>] 
-    [<a href="https://www.epri.com/optsun">web</a>] 
-    </samp>
-    </p> 
-</td>
-</tr> 
-
-
-<tr>
-<td>
-    [35]
-    Program on Technology Innovation: "<span style="color:#4582ec">Weather-Driven Flexibility Reserve Dimensioning Explicit Consideration of Weather Features</span>," 
-    EPRI, Palo Alto, CA, Rep. No. 3002024638, Dec. 2022.
-    <br />
-    <p align="right">
-        <samp>
-    [<a href="https://www.epri.com/research/products/000000003002024638">url</a>] 
-    </samp>
-            </p> 
-</td>
-</tr> 
-    
-    
-<tr>
-<td>
-    [34]
-    "<span style="color:#4582ec">Developing the Expansion Planning Modeling System: Applying Coordinated Expansion Planning to Industry Needs</span>," 
-    EPRI, Palo Alto, CA, Rep. No. 3002024597, Dec. 2022.
-    <br />
-    <p align="right">
-        <samp>
-    [<a href="https://www.epri.com/research/products/000000003002024596">url</a>] 
-            </samp>
+        [<a href="https://www.epri.com/research/products/000000003002028640">url</a>]
+        [<a href="https://www.epri.com/issp">web</a>]
+        </samp>
     </p> 
 </td>
 </tr> 
@@ -316,13 +224,30 @@ Note that EPRI’s citation format does not include contributor names; authorshi
 <tr>
 <td>
     [33]
-    "<span style="color:#4582ec">Adaptive Coordinated Expansion Planning - ACEP v1.0</span>," 
-    EPRI, Palo Alto, CA, Rep. No. 3002024594, Dec. 2022.
+    "<span style="color:#4582ec">Operational Probabilistic Tools for Solar Uncertainty (OPTSUN): Final Project Report for DOE Solar Forecasting II Project</span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002025442, Oct. 2022.
     <br />
     <p align="right">
         <samp>
-    [<a href="https://www.epri.com/research/products/000000003002024594">ACEP v1.0</a>] 
-            </samp>
+        [<a href="https://drive.google.com/file/d/190Z_iEELDjiAtQmDClYI1ct1JxcRgEQS/view?usp=drive_link">PRA</a>]
+        [<a href="https://www.epri.com/research/products/000000003002025442">url</a>] 
+        [<a href="https://www.epri.com/optsun">web</a>] 
+        </samp>
+    </p> 
+</td>
+</tr> 
+
+
+<tr>
+<td>
+    [32]
+    Program on Technology Innovation: "<span style="color:#4582ec">Weather-Driven Flexibility Reserve Dimensioning Explicit Consideration of Weather Features</span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002024638, Dec. 2022.
+    <br />
+    <p align="right">
+        <samp>
+        [<a href="https://www.epri.com/research/products/000000003002024638">url</a>] 
+        </samp>
     </p> 
 </td>
 </tr> 
@@ -330,43 +255,29 @@ Note that EPRI’s citation format does not include contributor names; authorshi
     
 <tr>
 <td>
-    [32]
+    [31]
+    "<span style="color:#4582ec">Developing the Expansion Planning Modeling System: Applying Coordinated Expansion Planning to Industry Needs</span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002024597, Dec. 2022.
+    <br />
+    <p align="right">
+        <samp>
+        [<a href="https://www.epri.com/research/products/000000003002024596">url</a>] 
+        </samp>
+    </p> 
+</td>
+</tr> 
+    
+    
+<tr>
+<td>
+    [30]
     "<span style="color:#4582ec">Dynamic Parametrization of Contingency Reserves</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002024297, Dec. 2022.
     <br />
     <p align="right">
         <samp>
-    [<a href="https://www.epri.com/research/products/000000003002024297">url</a>] 
-            </samp>
-    </p> 
-</td>
-</tr> 
-       
-
-<tr>
-<td>
-    [31]
-    "<span style="color:#4582ec">Dynamic Assessment and Determination of Contingency Reserve - DynADCR v1.0</span>," 
-    EPRI, Palo Alto, CA, Rep. No. 3002024295, Dec. 2022.
-    <br />
-    <p align="right">
-        <samp>
-    [<a href="https://www.epri.com/research/products/000000003002024295">DynADCR v1.0</a>] 
-            </samp>
-    </p> 
-</td>
-</tr> 
-
-<tr>
-<td>
-    [30]
-    "<span style="color:#4582ec">Dynamic Assessment and Determination of Operating Reserves - DynADOR v5.1</span>," 
-    EPRI, Palo Alto, CA, Rep. No. 3002024292, Dec. 2022.
-    <br />
-    <p align="right">
-        <samp>
-    [<a href="https://www.epri.com/research/products/000000003002024292">DynADOR v5.1</a>] 
-            </samp>
+        [<a href="https://www.epri.com/research/products/000000003002024297">url</a>] 
+        </samp>
     </p> 
 </td>
 </tr> 
@@ -380,9 +291,9 @@ Note that EPRI’s citation format does not include contributor names; authorshi
     <br />
     <p align="right">
         <samp>
-    [<a href="https://www.epri.com/research/products/000000003002023327">url</a>] 
-    [<a href="https://www.epri.com/research/products/000000003002024980">Video</a>] 
-            </samp>
+        [<a href="https://www.epri.com/research/products/000000003002023327">url</a>] 
+        [<a href="https://www.epri.com/research/products/000000003002024980">Video</a>] 
+        </samp>
     </p> 
 </td>
 </tr> 
@@ -397,7 +308,6 @@ Note that EPRI’s citation format does not include contributor names; authorshi
     <p align="right">
         <samp>
         [<a href="https://www.epri.com/research/products/000000003002021780">url</a>] 
-        [<a href="https://www.epri.com/research/products/000000003002021778">DynADOR v5.0</a>] 
         </samp>
     </p> 
 </td>
@@ -412,8 +322,8 @@ Note that EPRI’s citation format does not include contributor names; authorshi
     <br />
     <p align="right">
         <samp>
-    [<a href="https://www.epri.com/research/products/000000003002021781">url</a>] 
-            </samp>
+        [<a href="https://www.epri.com/research/products/000000003002021781">url</a>] 
+        </samp>
     </p> 
 </td>
 </tr> 
@@ -427,9 +337,9 @@ Note that EPRI’s citation format does not include contributor names; authorshi
     <br />
     <p align="right">
         <samp>
-    [<a href="https://www.epri.com/research/products/000000003002021799">url</a>] 
-    [<a href="https://arxiv.org/abs/2106.00144">arXiv</a>] 
-            </samp>
+        [<a href="https://www.epri.com/research/products/000000003002021799">url</a>] 
+        [<a href="https://arxiv.org/abs/2106.00144">arXiv</a>] 
+        </samp>
     </p> 
 </td>
 </tr>
@@ -443,12 +353,11 @@ Note that EPRI’s citation format does not include contributor names; authorshi
     <br />
     <p align="right">
         <samp>
-    [<a href="https://www.epri.com/research/products/000000003002023154">url</a>] 
-            </samp>
+        [<a href="https://www.epri.com/research/products/000000003002023154">url</a>] 
+        </samp>
     </p> 
 </td>
 </tr>
-    
     
     
 <tr>
@@ -459,8 +368,8 @@ Note that EPRI’s citation format does not include contributor names; authorshi
     <br />
     <p align="right">
         <samp>
-    [<a href="https://www.epri.com/research/products/000000003002021643">url</a>] 
-            </samp>
+        [<a href="https://www.epri.com/research/products/000000003002021643">url</a>] 
+        </samp>
     </p> 
 </td>
 </tr>
@@ -519,8 +428,8 @@ Note that EPRI’s citation format does not include contributor names; authorshi
     <br />
     <p align="right">
         <samp>
-    [<a href="https://www.epri.com/research/products/000000003002018762">url</a>] 
-            </samp>
+        [<a href="https://www.epri.com/research/products/000000003002018762">url</a>] 
+        </samp>
     </p> 
 </td>
 </tr>
@@ -621,7 +530,7 @@ Note that EPRI’s citation format does not include contributor names; authorshi
     
 <tr>
 <td>
-    [16]
+    [13]
     "<span style="color:#4582ec">Probabilistic Dynamic Reserve Determination and Risk Assessment</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002016312. Dec. 2019.
     <br />
@@ -636,7 +545,7 @@ Note that EPRI’s citation format does not include contributor names; authorshi
     
 <tr>
 <td>
-    [15]
+    [12]
     "<span style="color:#4582ec">Value of Modeling Constraints in Generation Scheduling - Towards Computationally Efficient Scheduling Proxies for Planning or Other Applications</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002016693. Jan. 2019.
     <br />
@@ -652,7 +561,7 @@ Note that EPRI’s citation format does not include contributor names; authorshi
     
 <tr>
 <td>
-    [14]
+    [11]
     "<span style="color:#4582ec">Variable Resource Mitigation Strategies for the Tennessee Valley Authority</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002017228 & 3002013727, Sep. 2019.
     <br />
@@ -669,7 +578,7 @@ Note that EPRI’s citation format does not include contributor names; authorshi
     
 <tr>
 <td>
-    [13]
+    [10]
     "<span style="color:#4582ec">Feasibility Study for an Energy Storage System Project in Colombia (Celsia)</span>:
     <br />
     <p align="right">
@@ -685,7 +594,7 @@ Note that EPRI’s citation format does not include contributor names; authorshi
     
 <tr>
 <td>
-    [12]
+    [09]
     "<span style="color:#4582ec">Advanced Methods for Dynamic Reserve Requirement Forecasting</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002013677, Dec. 2018.
     <br />
@@ -700,7 +609,7 @@ Note that EPRI’s citation format does not include contributor names; authorshi
     
 <tr>
 <td>
-    [09]
+    [08]
     "<span style="color:#4582ec">Reserve and Flexibility Products to Facilitate the Integration of Variable Energy Resources: A Survey of Recent U.S. and International Experiences</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002013679, Dec. 2018.
     <br />
@@ -715,7 +624,7 @@ Note that EPRI’s citation format does not include contributor names; authorshi
     
 <tr>
 <td>
-    [08]
+    [07]
     "<span style="color:#4582ec">An Enhanced Dynamic Reserve Method for Balancing Areas: A Dynamic Reserve Method for Balancing Areas with High Levels of Variability and Uncertainty on Their System and Case Studies Showing the Performance of These Methods</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002010941, Dec. 2017.
     <br />
