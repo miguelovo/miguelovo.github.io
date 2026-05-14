@@ -11,7 +11,7 @@ Note that EPRI’s citation format does not include contributor names in softwar
 
 <tr>
 <td>
-    [49]
+    [16]
     "<span style="color:#4582ec">Dynamic Assessment and Determination of Operating Reserves - DynADOR-CMD v6.0 </span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002033116, May 2025.
     <br />
@@ -23,9 +23,10 @@ Note that EPRI’s citation format does not include contributor names in softwar
 </td>
 </tr> 
 
+
 <tr>
 <td>
-    [41]
+    [15]
     "<span style="color:#4582ec">Dynamic Assessment and Dertermination of Operating Reserves - DynADOR v5.2</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002026307, Mar. 2023.
     <br />
@@ -40,14 +41,14 @@ Note that EPRI’s citation format does not include contributor names in softwar
 
 <tr>
 <td>
-    [40]
+    [14]
     "<span style="color:#4582ec">Dynamic Assessment and Dertermination of Contingency Reserves - DynADCR v2.0</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002027153, Mar. 2023.
     <br />
     <p align="right">
         <samp>
-    [<a href="https://www.epri.com/research/products/000000003002027153">DynADCR v2.0</a>]
-    [<a href="https://www.epri.com/research/products/000000003002027155">DynADCR Video</a>] 
+        [<a href="https://www.epri.com/research/products/000000003002027153">DynADCR v2.0</a>]
+        [<a href="https://www.epri.com/research/products/000000003002027155">DynADCR Video</a>] 
     </samp>
     </p> 
 </td>
@@ -55,14 +56,14 @@ Note that EPRI’s citation format does not include contributor names in softwar
 
 <tr>
 <td>
-    [33]
+    [13]
     "<span style="color:#4582ec">Adaptive Coordinated Expansion Planning - ACEP v1.0</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002024594, Dec. 2022.
     <br />
     <p align="right">
         <samp>
-    [<a href="https://www.epri.com/research/products/000000003002024594">ACEP v1.0</a>] 
-            </samp>
+        [<a href="https://www.epri.com/research/products/000000003002024594">ACEP v1.0</a>] 
+        </samp>
     </p> 
 </td>
 </tr> 
@@ -70,14 +71,14 @@ Note that EPRI’s citation format does not include contributor names in softwar
 
 <tr>
 <td>
-    [31]
+    [12]
     "<span style="color:#4582ec">Dynamic Assessment and Determination of Contingency Reserve - DynADCR v1.0</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002024295, Dec. 2022.
     <br />
     <p align="right">
         <samp>
-    [<a href="https://www.epri.com/research/products/000000003002024295">DynADCR v1.0</a>] 
-            </samp>
+        [<a href="https://www.epri.com/research/products/000000003002024295">DynADCR v1.0</a>] 
+        </samp>
     </p> 
 </td>
 </tr> 
@@ -85,39 +86,80 @@ Note that EPRI’s citation format does not include contributor names in softwar
 
 <tr>
 <td>
-    [30]
+    [11]
     "<span style="color:#4582ec">Dynamic Assessment and Determination of Operating Reserves - DynADOR v5.1</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002024292, Dec. 2022.
     <br />
     <p align="right">
         <samp>
-    [<a href="https://www.epri.com/research/products/000000003002024292">DynADOR v5.1</a>] 
-            </samp>
+        [<a href="https://www.epri.com/research/products/000000003002024292">DynADOR v5.1</a>] 
+        </samp>
     </p> 
 </td>
 </tr> 
  
 
+<tr>
+<td>
+    [10]
+    "<span style="color:#4582ec">Dynamic Assessment and Determination of Operating Reserves - DynADOR v4.1</span>,"
+ EPRI, Palo Alto, CA, Rep. No. 3002020419, Dec. 2020.
+    <br />
+    <p align="right">
+        <samp>
+        [<a href="https://www.epri.com/research/products/000000003002020419">DynADOR v4.1</a>] 
+        [<a href="https://www.epri.com/research/products/000000003002020168">DynADOR Video</a>] 
+        </samp>
+    </p> 
+</td>
+</tr>
 
  
 <tr>
 <td>
-    [18]
-    "<span style="color:#4582ec">Risk-Based Dynamic Reserve Procurement</span>,"
- EPRI, Palo Alto, CA, Rep. No. 3002018758, Dec. 2020.
+    [09]
+    "<span style="color:#4582ec">Dynamic Assessment and Determination of Operating Reserves - DynADOR v4.0</span>,"
+ EPRI, Palo Alto, CA, Rep. No. 3002018760, Dec. 2020.
     <br />
     <p align="right">
         <samp>
-    [<a href="https://www.epri.com/research/products/000000003002018758">url</a>] 
-    [<a href="https://www.epri.com/research/products/000000003002020169">Risk Video</a>] 
-    [<a href="https://www.epri.com/research/products/000000003002018760">DynADOR v4.0</a>] 
-    [<a href="https://www.epri.com/research/products/000000003002020419">DynADOR v4.1</a>] 
-    [<a href="https://www.epri.com/research/products/000000003002020168">DynADOR Video</a>] 
-            </samp>
+        [<a href="https://www.epri.com/research/products/000000003002018760">DynADOR v4.0</a>] 
+        </samp>
     </p> 
 </td>
 </tr>
- 
+
+
+<tr>
+<td>
+    [08]
+    "<span style="color:#4582ec">Johns Hopkins Stochastic Multi-stage Integrated Network Expansion - JHSMINE v2.1</span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002023567, Dec. 2020.
+    <br />
+    <p align="right">
+        <samp>
+        [<a href="https://www.epri.com/research/products/000000003002023567">JHSMINE v2.1</a>] 
+        </samp>
+    </p> 
+</td>
+</tr> 
+
+
+<tr>
+<td>
+    [07]
+    "<span style="color:#4582ec">Johns Hopkins Stochastic Multi-stage Integrated Network Expansion - JHSMINE v2.0</span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002021770, Dec. 2020.
+    <br />
+    <p align="right">
+        <samp>
+        [<a href="https://www.epri.com/research/products/000000003002021770">JHSMINE v2.0</a>] 
+        </samp>
+    </p> 
+</td>
+</tr> 
+
+
 <tr>
 <td>
     [06]
@@ -127,9 +169,6 @@ Note that EPRI’s citation format does not include contributor names in softwar
     <p align="right">
         <samp>
         [<a href="https://www.epri.com/research/products/000000003002021771">JHSMINE v1.1</a>]
-        [<a href="https://www.epri.com/research/products/000000003002021770">JHSMINE v2.0</a>] 
-        [<a href="https://www.epri.com/research/products/000000003002023567">JHSMINE v2.1</a>] 
-        [<a href="https://www.epri.com/research/products/000000003002022654">Video</a>]
         </samp>
     </p> 
 </td>
