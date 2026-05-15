@@ -8,7 +8,7 @@ permalink: /Contact/
 
   <img src="/Files/Ortega-Vazquez_CEI_2e.png"
        alt="Miguel A. Ortega-Vazquez"
-       style="width:260px; max-width:80%; border-radius:50%; margin-bottom:22px;">
+       style="width:260px; max-width:80%; border-radius:0%; margin-bottom:22px;">
 
   <h2 style="margin-bottom:6px;">Miguel A. Ortega-Vazquez</h2>
 
