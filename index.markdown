@@ -11,7 +11,7 @@ layout: page
 <p style="float: left;"><img src="Files/Vazquez.Miguel-0017me.png" alt="" align="left" style="width:200px;margin:0px 30px"></p>
 <!-- </center> -->
 
-<p>
+<p align="justify">
 <b>Miguel Ortega-Vazquez</b>, (S’97–M'06–SM'14) received the Electrical Engineering degree from the Instituto Tecnológico de Morelia, Mexico, in 1999, the M.Sc. from the Universidad Autónoma de Nuevo León, Nuevo León, Mexico, in 2001, and the Ph.D. from The University of Manchester (formerly UMIST), Manchester, U.K., in 2006, all with an emphasis in power systems.
 <br>
 <br>
@@ -21,11 +21,11 @@ He was a Postdoctoral Scholar at the School of Electrical and Electronic Enginee
 Dr. Ortega-Vazquez's research interests revolve around the development and application of methods to facilitate an efficient, secure, and sustainable operation and planning of power systems.
 </p> 
 
-
+<br>
 <hr>
+<br>
 
-
-<p>
+<p align="justify">
 <b>Miguel Ortega-Vazquez</b>, (S'97–M'06–SM'14) recibió el título de Ingeniero Eléctrico del Instituto Tecnológico de Morelia, México, en 1999, el M.Sc. de la Universidad Autónoma de Nuevo León, Nuevo León, México, en 2001, y el Ph.D. de la Universidad de Manchester (anteriormente UMIST), Manchester, Reino Unido, en 2006, todos con énfasis en sistemas de potencia.
 <br>
 <br>
