@@ -4,14 +4,14 @@ title: Contact
 permalink: /Contact/
 ---
 
-<!-- <center> -->
-<img src="/Files/Ortega-Vazquez_CEI_2e.png" alt="" class="center" width="360">
-<!-- </center> -->
+<p align="center">
+  <img src="/Files/Ortega-Vazquez_CEI_2e.png" width="360">
+</p>
 
 
 <br>
 3420 Hillview Avenue, Palo Alto CA, 94304-1338, USA <br>
-m [dot] ortega-vazquez [at] ieee [dot] org  <br>
+m[dot]ortega-vazquez[at]ieee[dot]org  <br>
 <br> <br>
 
 --- Links ---
