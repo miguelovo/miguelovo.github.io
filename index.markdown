@@ -21,7 +21,7 @@ He was a Postdoctoral Scholar at the School of Electrical and Electronic Enginee
 Dr. Ortega-Vazquez's research interests revolve around the development and application of methods to facilitate an efficient, secure, and sustainable operation and planning of power systems.
 </p> 
   
---- --- --- --- --- --- --- 
+<hr>
   
 <p>
 <b>Miguel Ortega-Vazquez</b>, (S'97–M'06–SM'14) recibió el título de Ingeniero Eléctrico del Instituto Tecnológico de Morelia, México, en 1999, el M.Sc. de la Universidad Autónoma de Nuevo León, Nuevo León, México, en 2001, y el Ph.D. de la Universidad de Manchester (anteriormente UMIST), Manchester, Reino Unido, en 2006, todos con énfasis en sistemas de potencia.
