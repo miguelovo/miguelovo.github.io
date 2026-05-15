@@ -17,10 +17,10 @@ permalink: /Other-Publications/
     <br />
     <p align="right">
         <samp>
-    [<a href="http://goo.gl/4toaAw" target="_blank">url</a>] 
-    [<a href="https://drive.google.com/open?id=1zq1hrVziHJsA64K77BxfRKmrJ4jMjkLV" target="_blank">BibTeX</a>]   
-    [<a href="https://drive.google.com/file/d/1X2B3I3hUx51Be5pap0ndsaXX2JEcbDB4/view?usp=sharing" target="_blank">Title</a>]
-            </samp>
+        [<a href="http://goo.gl/4toaAw" target="_blank">url</a>] 
+        [<a href="https://drive.google.com/open?id=1zq1hrVziHJsA64K77BxfRKmrJ4jMjkLV" target="_blank">BibTeX</a>]   
+        <!-- [<a href="https://drive.google.com/file/d/1X2B3I3hUx51Be5pap0ndsaXX2JEcbDB4/view?usp=sharing" target="_blank">Title</a>] -->
+        </samp>
     </p> 
 </td>
 </tr>
