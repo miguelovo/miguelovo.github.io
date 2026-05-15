@@ -10,7 +10,7 @@ permalink: /Contact/
        alt="Miguel Ortega-Vazquez"
        style="width:360px; max-width:80%; border-radius:0%; margin-bottom:22px;">
 
-  <h2 style="margin-bottom:6px;">Miguel A. Ortega-Vazquez</h2>
+  <h2 style="margin-bottom:6px;">Miguel Ortega-Vazquez</h2>
 
   <p style="font-size:1.05em; margin-top:0; color:#555;">
     Area Manager, Transmission Operations and Planning<br>
