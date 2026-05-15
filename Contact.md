@@ -13,7 +13,8 @@ permalink: /Contact/
   <h2 style="margin-bottom:6px;">Miguel Ortega-Vazquez</h2>
 
   <p style="font-size:1.05em; margin-top:0; color:#555;">
-    Area Manager, Transmission Operations and Planning<br>
+    Area Manager<br>
+    Transmission Operations and Planning<br>
     Electric Power Research Institute (EPRI)
   </p>
 
