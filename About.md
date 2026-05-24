@@ -24,7 +24,9 @@ permalink: /about/
 ---
 
 <p style="text-align: justify;">
+  <br>
 My work focuses on risk-aware power system operations and planning, with emphasis on operational reliability, reserve sufficiency, emerging large-load integration, resilience, and advanced decision analytics for modern electric grids. Research activities span probabilistic operational methods, resilience- and benefit-informed planning, and flexibility assessment for rapidly evolving power systems.
+  <br>
 </p>
 
 ---
