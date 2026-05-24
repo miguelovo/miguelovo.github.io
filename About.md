@@ -23,7 +23,9 @@ permalink: /about/
 
 ---
 
+<p style="text-align: justify;">
 My work focuses on risk-aware power system operations and planning, with emphasis on operational reliability, reserve sufficiency, emerging large-load integration, resilience, and advanced decision analytics for modern electric grids. Research activities span probabilistic operational methods, resilience- and benefit-informed planning, and flexibility assessment for rapidly evolving power systems.
+</p>
 
 ---
 
@@ -31,20 +33,28 @@ My work focuses on risk-aware power system operations and planning, with emphasi
 
 ### Reserve Sufficiency & Operational Risk
 
+<p style="text-align: justify;">
 Development of probabilistic and risk-aware methods for operating reserve sizing, reserve sufficiency assessment, and operational reliability under uncertainty. This work includes dynamic reserve parametrization, uncertainty quantification, intraday reliability assessment, and probabilistic ancillary service frameworks integrating renewable variability, load uncertainty, and forecast risk into operational decision-making.
+</p>
 
 ### Coordinated System Planning
 
+<p style="text-align: justify;">
 Development of coordinated expansion planning frameworks integrating reliability, resilience, operational flexibility, and extreme-event preparedness into long-term system investment decisions. Research includes resilience-aware planning, multi-criteria expansion optimization, and evaluation of infrastructure adaptation strategies under uncertain future operating conditions.
+</p>
 
 ### Flexibility & Emerging Large Loads
 
+<p style="text-align: justify;">
 Modeling and valuation of flexibility from emerging large loads, including data centers, storage systems, and electrified infrastructure. Work focuses on operational coordination, flexible interconnection strategies, grid-aware workload management, and assessment of system-level impacts associated with rapid load growth and evolving demand characteristics.
+</p>
 
 ### Decision Analytics & Power System Uncertainty
 
+<p style="text-align: justify;">
 Advanced analytical methods for uncertainty-aware power system operations and planning, including probabilistic forecasting, stochastic optimization, conditional risk modeling, and data-driven operational analytics. Focus areas include translating uncertainty information into actionable operational and planning decisions for modern power systems.
-
+</p>
+  
 ---
 
 ## Contact
