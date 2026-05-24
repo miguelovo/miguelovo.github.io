@@ -4,13 +4,22 @@ title: About
 permalink: /about/
 ---
 
-![Miguel Ortega-Vazquez](/Files/Ortega-Vazquez_CEI_2e.png)
+<div style="text-align: center; margin-bottom: 2rem;">
 
-## Miguel Ortega-Vazquez
+  <img src="/Files/Ortega-Vazquez_CEI_2e.png"
+       alt="Miguel Ortega-Vazquez"
+       style="width: 180px; border-radius: 6px; margin-bottom: 1rem;">
 
-Area Manager  
-Transmission Operations and Planning  
-Electric Power Research Institute (EPRI)
+  <h2 style="margin-bottom: 0.3rem;">Miguel Ortega-Vazquez</h2>
+
+  <p style="margin: 0;">
+    Area Manager<br>
+    Transmission Operations and Planning<br>
+    Electric Power Research Institute (EPRI)
+  </p>
+
+</div>
+
 
 ---
 
