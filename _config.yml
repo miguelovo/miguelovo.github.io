@@ -41,7 +41,7 @@ plugins:
   - jekyll-sitemap
 
 header_pages:
-  - Contact.md
+  - About.md
   - conference.md
   - journals.md
   - technical reports.md
