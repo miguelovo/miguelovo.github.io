@@ -38,14 +38,6 @@ Advanced analytical methods for uncertainty-aware power system operations and pl
 
 ---
 
-## Selected Technical Initiatives
-
-Representative work includes applied research and technical leadership in reserve sizing, operational risk assessment, probabilistic ancillary services, flexibility valuation, resilient planning, and coordinated transmission and generation expansion.
-
-Selected examples and project links can be added here.
-
----
-
 ## Contact
 
 **Address**  
