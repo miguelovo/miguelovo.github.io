@@ -12,6 +12,21 @@ Note that EPRI’s citation format does not include contributor names; authorshi
 
 <tr>
 <td>
+    [49]
+    "<span style="color:#4582ec">Sizing Flexibility Reserves: A Review of Selected Methods and Practice</span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002035555, May. 2026.
+    <br />
+    <p align="right">
+        <samp>
+        [<a href="https://www.epri.com/research/products/000000003002035555">url</a>]
+    </samp>
+    </p> 
+</td>
+</tr>  
+
+
+<tr>
+<td>
     [48]
     "<span style="color:#4582ec">Capacity Expansion Planning with Dynamic Resolution</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002033096, Dec. 2025.
