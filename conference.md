@@ -7,7 +7,22 @@ permalink: /conferences/
 <u>Underlining</u> indicates that the co-author is/was a student and <em>italics</em> that the co-author is/was a postdoc. 
 
 <table class="table table-hover">
-    
+
+
+<tr>
+<td>
+    [26]
+    N. Costilla-Enriquez, <strong>M. A. Ortega-Vazquez</strong>, and W. B. Hobbs, 
+    "<span style="color:#4582ec">Conditional Updating of Day-Ahead Forecast Distributions for Reliable Intra-Day Operations</span>," 
+    <em>19th International Conference on Probabilistic Methods Applied to Power Systems (PMAPS) 2026</em>, Salt Lake, UT, 21-24 Sep. 2026.
+    <br />
+    <p align="right">
+        <samp>
+        [<a href="https://doi.org/xxx" target="_blank">DOI</a>]
+        </samp>
+    </p> 
+</td>
+</tr>
     
 <tr>
 <td>
