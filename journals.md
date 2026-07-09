@@ -13,7 +13,7 @@ permalink: /journals/
     [37]
     J. Bukenberger, <strong>M. A. Ortega-Vazquez</strong>, S. Püschel-Løvengreen, and P. Mancarella,  
    "<span style="color:#4582ec">Integrating Resilience into Transmission and Generation Expansion Planning via Probability-Free, Multi-Criteria, Multi-Hazard Stress Tests</span>,"
-    <em>IEEE Trans. Power Syst.</em>, Vol. XX, Issue YY, pp. ZZ, Mon. 2026.
+    <em>IEEE Trans. Power Syst.</em>, Vol. 41, Issue 4, pp. 2508-2519, Jul. 2026.
     <br />
     <p align="right">
         <samp>
