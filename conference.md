@@ -14,7 +14,7 @@ permalink: /conferences/
     [26]
     N. Costilla-Enriquez, <strong>M. A. Ortega-Vazquez</strong>, and W. B. Hobbs, 
     "<span style="color:#4582ec">Conditional Updating of Day-Ahead Forecast Distributions for Reliable Intra-Day Operations</span>," 
-    <em>19th International Conference on Probabilistic Methods Applied to Power Systems (PMAPS) 2026</em>, Salt Lake, UT, 21-24 Sep. 2026.
+    <em>19<sup>th</sup> International Conference on Probabilistic Methods Applied to Power Systems (PMAPS) 2026</em>, Salt Lake, UT, 21-24 Sep. 2026.
     <br />
     <p align="right">
         <samp>
@@ -29,7 +29,7 @@ permalink: /conferences/
     [25]
     <strong>M. A. Ortega-Vazquez</strong>, 
     "<span style="color:#4582ec">Generation of Multi-Resolution Scenarios of Stochastic Variables for Operation Planning</span>," 
-    <em>17th International Conference on Probabilistic Methods Applied to Power Systems (PMAPS) 2022</em>, Manchester, UK, 12-15 June 2022, (virtual).
+    <em>17<sup>th</sup>  International Conference on Probabilistic Methods Applied to Power Systems (PMAPS) 2022</em>, Manchester, UK, 12-15 June 2022, (virtual).
     <br />
     <p align="right">
         <samp>
@@ -46,7 +46,7 @@ permalink: /conferences/
     [24]
     D. P. Larson, A. Tuohy, D. B Kirk-Davidoff, N. Singhal, Q. Wang, and <strong>M. A. Ortega-Vazquez</strong>, 
     "<span style="color:#4582ec">Operational Probabilistic Tools for Solar Uncertainty Management</span>," 
-    <em>101st American Meteorological Society Annual Meeting</em>, 10-15 Jan. 2021, (virtual).
+    <em>101<sup>st</sup>  American Meteorological Society Annual Meeting</em>, 10-15 Jan. 2021, (virtual).
     <br />
     <p align="right">
         <samp>
@@ -413,7 +413,7 @@ permalink: /conferences/
     [03]
     <strong>M. A. Ortega-Vazquez</strong> and D. S. Kirschen, 
     "<span style="color:#4582ec">Should the Spinning Reserve Procurement in Systems with Wind Power Generation be Deterministic or Probabilistic?</span>," 
-    <em>1st International Conference on SUPERGEN</em>, Nanjing, China, 6-7 Apr. 2009.
+    <em>1<sup>st</sup>  International Conference on SUPERGEN</em>, Nanjing, China, 6-7 Apr. 2009.
     <br />
     <p align="right">
         <samp>
