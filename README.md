@@ -49,8 +49,8 @@
 <pre>
 miguelovo@power-systems
 -----------------------
-Role............. Area Manager
-Organisation..... Electric Power Research Institute
+Role.............. Area Manager
+Organisation...... Electric Power Research Institute
 Group............. Transmission Operations and Planning
 Academic.......... Affiliate Associate Professor, UW
 Location.......... Seattle, Washington, USA
