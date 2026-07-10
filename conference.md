@@ -29,7 +29,7 @@ permalink: /conferences/
     [25]
     <strong>M. A. Ortega-Vazquez</strong>, 
     "<span style="color:#4582ec">Generation of Multi-Resolution Scenarios of Stochastic Variables for Operation Planning</span>," 
-    <em>17<sup>th</sup>  International Conference on Probabilistic Methods Applied to Power Systems (PMAPS) 2022</em>, Manchester, UK, 12-15 June 2022, (virtual).
+    <em>17<sup>th</sup> International Conference on Probabilistic Methods Applied to Power Systems (PMAPS) 2022</em>, Manchester, UK, 12-15 June 2022, (virtual).
     <br />
     <p align="right">
         <samp>
@@ -46,7 +46,7 @@ permalink: /conferences/
     [24]
     D. P. Larson, A. Tuohy, D. B Kirk-Davidoff, N. Singhal, Q. Wang, and <strong>M. A. Ortega-Vazquez</strong>, 
     "<span style="color:#4582ec">Operational Probabilistic Tools for Solar Uncertainty Management</span>," 
-    <em>101<sup>st</sup>  American Meteorological Society Annual Meeting</em>, 10-15 Jan. 2021, (virtual).
+    <em>101<sup>st</sup> American Meteorological Society Annual Meeting</em>, 10-15 Jan. 2021, (virtual).
     <br />
     <p align="right">
         <samp>
@@ -62,7 +62,7 @@ permalink: /conferences/
     [23]
     <strong>M. A. Ortega-Vazquez</strong>, <u>N. Costilla-Enriquez</u>, E. Ela, A. Tuohy, 
     "<span style="color:#4582ec">Risk-Based Reserve Procurement</span>,"
-    <em> 2020 International Conference on Probabilistic Methods Applied to Power Systems (PMAPS)</em>, Liege, Belgium, Aug. 18-21, 2020, (virtual).
+    <em> 16<sup>th</sup> International Conference on Probabilistic Methods Applied to Power Systems (PMAPS)</em>, Liege, Belgium, Aug. 18-21, 2020, (virtual).
     <br />
     <p align="right">
         <samp>
