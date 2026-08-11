@@ -10,6 +10,22 @@ permalink: /journals/
 
 <tr>
 <td>
+    [38]
+    <u>N. Costilla-Enriquez</u>, <strong>M. A. Ortega-Vazquez</strong>, A. Tuohy, E. Ela,  
+   "<span style="color:#4582ec">Source-Agnostic Sizing of Flexibility Reserves</span>,"
+    <em>Under Review</em>, Vol. XX, Issue XX, pp. XXX, Aug. 2026.
+    <br />
+    <p align="right">
+        <samp>
+        [<a href="https://arxiv.org/abs/2608.08217" target="_blank">arXiv</a>]
+        </samp>
+    </p> 
+</td>
+</tr>
+
+
+<tr>
+<td>
     [37]
     J. Bukenberger, <strong>M. A. Ortega-Vazquez</strong>, S. Püschel-Løvengreen, and P. Mancarella,  
    "<span style="color:#4582ec">Integrating Resilience into Transmission and Generation Expansion Planning via Probability-Free, Multi-Criteria, Multi-Hazard Stress Tests</span>,"
