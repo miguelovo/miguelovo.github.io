@@ -11,7 +11,7 @@ permalink: /journals/
 <tr>
 <td>
     [38]
-    <u>N. Costilla-Enriquez</u>, <strong>M. A. Ortega-Vazquez</strong>, A. Tuohy, E. Ela,  
+    N. Costilla-Enriquez, <strong>M. A. Ortega-Vazquez</strong>, A. Tuohy, E. Ela,  
    "<span style="color:#4582ec">Source-Agnostic Sizing of Flexibility Reserves</span>,"
     <em>Under Review</em>, Vol. XX, Issue XX, pp. XXX, Aug. 2026.
     <br />
