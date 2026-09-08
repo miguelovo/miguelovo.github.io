@@ -11,6 +11,21 @@ Note that EPRI’s citation format does not include contributor names in softwar
 
 <tr>
 <td>
+    [18]
+    "<span style="color:#4582ec">Dynamic Assessment and Determination of Operating Reserves - DynADOR-CMD v6.1</span>," 
+    EPRI, Palo Alto, CA, Rep. No. 3002036120, Sep. 2026.
+    <br />
+    <p align="right">
+        <samp>
+        [<a href="https://www.epri.com/research/products/000000003002036120">DynADOR-CMD v6.1</a>]
+    </samp>
+    </p> 
+</td>
+</tr> 
+
+
+<tr>
+<td>
     [17]
     "<span style="color:#4582ec">Dynamic Assessment and Determination of Operating Reserves - DynADOR-CMD v6.0</span>," 
     EPRI, Palo Alto, CA, Rep. No. 3002033116, May 2025.
