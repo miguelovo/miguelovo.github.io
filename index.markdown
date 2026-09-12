@@ -8,7 +8,7 @@ layout: page
   <img src="Files/Vazquez.Miguel-0017me.png" alt="Miguel Ortega-Vazquez" align="left" style="width:200px;margin:0px 30px 20px 0px">
 </p>
 
-<h2>Biography</h2>
+<!-- <h2>Biography</h2> -->
 
 <h3>Short Bio</h3>
 
@@ -34,7 +34,7 @@ Dr. Ortega-Vazquez’s research interests focus on the development and applicati
 <hr>
 <br>
 
-<h2>Biografía</h2>
+
 
 <h3>Biografía breve</h3>
 
@@ -58,7 +58,7 @@ Los intereses de investigación del Dr. Ortega-Vázquez se centran en el desarro
 <hr>
 <br>
 
-<h2>Biografia</h2>
+
 
 <h3>Biografia breve</h3>
 
