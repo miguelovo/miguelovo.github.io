@@ -13,7 +13,7 @@ layout: page
 <h3>Short Bio</h3>
 
 <p align="justify">
-<b>Miguel Ortega-Vazquez</b> is an Area Manager in Transmission Operations and Planning at the Electric Power Research Institute (EPRI) and an Affiliate Associate Professor at the University of Washington. His work focuses on power system operation and planning under uncertainty, with emphasis on reliability, resilience, probabilistic methods, reserve determination, forecasting, and decision-support tools for modern electric grids.
+<b>Miguel Ortega-Vazquez</b> is an Area Manager in Transmission Operations and Planning at the Electric Power Research Institute (EPRI) and an Affiliate Associate Professor at the University of Washington (UW).  His work focuses on power system operation and planning under uncertainty, with emphasis on reliability, resilience, probabilistic methods, reserve determination, forecasting, and decision-support tools for modern electric grids.
 </p>
 
 <h3>Full Bio</h3>
