@@ -5,7 +5,7 @@ layout: page
 <div>
 
 <p style="float: left;">
-  <img src="Files/Vazquez.Miguel-0017me.png" alt="Miguel Ortega-Vazquez" align="left" style="width:222px;margin:0px 30px 20px 0px">
+  <img src="Files/Vazquez.Miguel-0017me.png" alt="Miguel Ortega-Vazquez" align="left" style="width:222px;margin:0px 42px 42px 0px">
 </p>
 
 <!-- <h2>Biography</h2> -->
