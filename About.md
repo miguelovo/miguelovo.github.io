@@ -81,6 +81,5 @@ m[dot]ortega-vazquez[at]ieee[dot]org
 - [LinkedIn](https://www.linkedin.com/in/miguel-a-ortega-vazquez/)
 - [ResearchGate](https://www.researchgate.net/profile/Miguel-Ortega-Vazquez)
 - [Exaly](https://exaly.com/author/6033054/miguel-a-ortega-vazquez/)
-- [Google Profile](https://g.co/kgs/yJ6g7x)
 
 
