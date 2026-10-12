@@ -16,9 +16,7 @@ permalink: /journals/
     <em>Under Review</em>, Vol. XX, Issue XX, pp. XXX, Oct. 2026.
     <br />
     <p align="right">
-        <samp>
-        [<a href="https://arxiv.org/abs/2610.08217" target="_blank">arXiv</a>]
-        </samp>
+
     </p> 
 </td>
 </tr>
