@@ -11,7 +11,7 @@ permalink: /journals/
 <tr>
 <td>
     [39]
-    N. Costilla-Enriquez, Y. Wang, and <strong>M. A. Ortega-Vazquez</strong>,   
+    N. Costilla-Enriquez, Y. Weng, and <strong>M. A. Ortega-Vazquez</strong>,   
    "<span style="color:#4582ec">Adaptive Calibration of Day-Ahead Flexibility Reserve Requirements Under Distribution Shift</span>,"
     <em>Under Review</em>, Vol. XX, Issue XX, pp. XXX, Oct. 2026.
     <br />
