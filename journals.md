@@ -16,7 +16,9 @@ permalink: /journals/
     <em>Under Review</em>, Vol. XX, Issue XX, pp. XXX, Oct. 2026.
     <br />
     <p align="right">
-
+        <samp>
+        [arXiv]
+        </samp>
     </p> 
 </td>
 </tr>
