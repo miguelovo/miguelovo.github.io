@@ -16,7 +16,11 @@ permalink: /conferences/
     "<span style="color:#4582ec">Conditional Updating of Day-Ahead Forecast Distributions for Reliable Intra-Day Operations</span>," 
     <em>19<sup>th</sup> International Conference on Probabilistic Methods Applied to Power Systems (PMAPS) 2026</em>, Salt Lake, UT, 21-24 Sep. 2026.
     <br />
-
+    <p align="right">
+        <samp>
+        [DOI]
+        </samp>
+    </p> 
 </td>
 </tr>
     
