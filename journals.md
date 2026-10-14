@@ -17,7 +17,7 @@ permalink: /journals/
     <br />
     <p align="right">
         <samp>
-        [arXiv]
+        [<a href="https://arxiv.org/abs/2610.16075" target="_blank">arXiv</a>]
         </samp>
     </p> 
 </td>
